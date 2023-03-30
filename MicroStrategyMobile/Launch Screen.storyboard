@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="ipad9_7" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--LaunchScreen-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController title="LaunchScreen" id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wBF-6g-mB8">
+                                <rect key="frame" x="10" y="989" width="748" height="0.0"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="10"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="All Contents Copyright © Aynitech Group Incorporated. All rights reserved." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="obG-Y5-kRd">
+                                <rect key="frame" x="10" y="977" width="748" height="12"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="10"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Technology and Transformation" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="suh-n2-akK">
+                                <rect key="frame" x="37" y="757.5" width="694" height="14.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="T&amp;T Platform ®" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xHW-td-kVN">
+                                <rect key="frame" x="319.5" y="722" width="129" height="21.5"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_icon_white.png" translatesAutoresizingMaskIntoConstraints="NO" id="1CX-yU-J9d">
+                                <rect key="frame" x="333" y="266" width="102" height="82"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="102" id="Iky-Je-4EA"/>
+                                    <constraint firstAttribute="height" constant="82" id="r9f-ib-nL7"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IyE-sc-tQW">
+                                <rect key="frame" x="0.0" y="772" width="768" height="205"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="tintColor"/>
+                        <constraints>
+                            <constraint firstItem="1CX-yU-J9d" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="1Hk-cx-EZ4"/>
+                            <constraint firstAttribute="centerX" secondItem="obG-Y5-kRd" secondAttribute="centerX" id="5cz-MP-9tL"/>
+                            <constraint firstAttribute="trailing" secondItem="wBF-6g-mB8" secondAttribute="trailing" constant="10" id="B9s-r6-Y3t"/>
+                            <constraint firstAttribute="bottom" secondItem="wBF-6g-mB8" secondAttribute="bottom" constant="35" id="DGU-Qu-L60"/>
+                            <constraint firstItem="wBF-6g-mB8" firstAttribute="top" secondItem="obG-Y5-kRd" secondAttribute="bottom" id="EwM-D2-VTl"/>
+                            <constraint firstItem="IyE-sc-tQW" firstAttribute="top" secondItem="suh-n2-akK" secondAttribute="bottom" id="F1w-YX-s3P"/>
+                            <constraint firstItem="suh-n2-akK" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="17" id="GUo-VC-LfP"/>
+                            <constraint firstItem="IyE-sc-tQW" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="R0v-5P-vv0"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="suh-n2-akK" secondAttribute="trailing" constant="17" id="XTY-9d-B7L"/>
+                            <constraint firstItem="suh-n2-akK" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Yod-cJ-CwD"/>
+                            <constraint firstItem="obG-Y5-kRd" firstAttribute="top" secondItem="IyE-sc-tQW" secondAttribute="bottom" id="ZUN-l1-mfL"/>
+                            <constraint firstItem="obG-Y5-kRd" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" constant="10" id="abL-l2-H2C"/>
+                            <constraint firstItem="1CX-yU-J9d" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" multiplier="0.6" id="i2e-lM-xiM"/>
+                            <constraint firstItem="IyE-sc-tQW" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.2" id="ixv-Ui-Nfd"/>
+                            <constraint firstItem="IyE-sc-tQW" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="plL-BQ-3P0"/>
+                            <constraint firstItem="xHW-td-kVN" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="sWG-nN-jGh"/>
+                            <constraint firstAttribute="trailing" secondItem="obG-Y5-kRd" secondAttribute="trailing" constant="10" id="vaV-sb-g6A"/>
+                            <constraint firstItem="suh-n2-akK" firstAttribute="top" secondItem="xHW-td-kVN" secondAttribute="bottom" constant="14" id="w8Y-Mv-ah2"/>
+                            <constraint firstItem="wBF-6g-mB8" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" constant="10" id="zT7-eN-XdZ"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.34375" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash_icon_white.png" width="102" height="82"/>
+        <systemColor name="tintColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

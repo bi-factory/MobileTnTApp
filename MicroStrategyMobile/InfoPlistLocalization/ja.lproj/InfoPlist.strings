@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  MicroStrategyMobile
+
+  Created by sun on 2/16/17.
+  Copyright © 2017 MicroStratgy Inc. All rights reserved.
+*/
+NSCameraUsageDescription = "MicroStrategy アプリケーションはデバイスのカメラにアクセスしています｡";
+NSPhotoLibraryUsageDescription = "MicroStrategy アプリケーションはデバイスのフォト ライブラリにアクセスしています｡";
+NSPhotoLibraryAddUsageDescription = "\U30a2\U30d7\U30ea\U30b1\U30fc\U30b7\U30e7\U30f3\U306f\U3001\U30d5\U30a9\U30c8 \U30e9\U30a4\U30d6\U30e9\U30ea\U306b\U5199\U771f\U3092\U8ffd\U52a0\U3057\U3088\U3046\U3068\U3057\U3066\U3044\U307e\U3059\U3002";

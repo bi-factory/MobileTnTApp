@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  MicroStrategyMobile
+
+  Created by sun on 2/16/17.
+  Copyright © 2017 MicroStratgy Inc. All rights reserved.
+*/
+NSCameraUsageDescription = "La aplicación de T&T intenta acceder a la cámara del dispositivo.";
+NSPhotoLibraryUsageDescription = "La aplicación de T&T intenta acceder a la biblioteca de fotos del dispositivo.";
+NSPhotoLibraryAddUsageDescription = "La aplicaci\U00f3n est\U00e1 intentando a\U00f1adir una fotograf\U00eda a la biblioteca de fotos.";

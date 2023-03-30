@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  MicroStrategyMobile
+
+  Created by sun on 2/16/17.
+  Copyright © 2017 MicroStratgy Inc. All rights reserved.
+*/
+NSCameraUsageDescription = "MicroStrategy 應用程式正在嘗試存取裝置相機。";
+NSPhotoLibraryUsageDescription = "MicroStrategy 應用程式正在嘗試存取裝置相片庫";
+NSPhotoLibraryAddUsageDescription = "\U61c9\U7528\U7a0b\U5f0f\U6b63\U5728\U5617\U8a66\U65b0\U589e\U7167\U7247\U81f3\U60a8\U7684\U76f8\U7247\U5eab\U3002";
