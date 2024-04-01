@@ -20,3 +20,11 @@ https://microstrategy.github.io/
 
 ---------------------------------------------------------------
 # MobileTnTApp
+
+copiar la carpeta Library para que el proyecto pueda correr
+![image](https://github.com/bi-factory/MobileTnTApp/assets/64094509/2c9b1bbe-2449-4254-b49c-b356a1a905f6)
+
+se comparte el dmg que contiene este folder por drive de gmail.
+
+
+![image](https://github.com/bi-factory/MobileTnTApp/assets/64094509/8b52fbc7-66d7-4e7e-b1ce-ae4132ae44d3)
