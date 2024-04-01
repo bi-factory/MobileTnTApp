@@ -1,0 +1,304 @@
+<cnf n="MOBILEDOSSIER PROD IPad (ID: 0fb8b20b)" cid="146634b0-6994-4c16-96fd-fd78a65cb50f" v="1" bld="11.3.0200.19400J" dt="2" cntr="45">
+   <lnk am="1" rt="1" nm="mobiledossier.microstrategy.com" po="443" ipo="true" bu="mobiledossier.microstrategy.com:443/MicroStrategyMobile/servlet/taskProc" />
+   <cty>
+      <wsdc am="1" lo="" ps="" ow="false" />
+      <wsl>
+         <ws po="443" pt="MicroStrategyMobile" ty="0" rt="1" udc="true" nm="mobiledossier.microstrategy.com">
+            <wsc am="1" lo="" ps="" ow="false" />
+            <pdc am="1" lo="mstr_iphone_104" ps="" ow="false" />
+            <pl>
+               <prj pn="Airline On Time Performance" sn="env-259215laio1use1" sp="0" udc="true" pid="351AC8744933F5E793C227ACCE64172B" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Employee Personal" sn="env-259215laio1use1" sp="0" udc="true" pid="978041A744F9F96BE5F4AE88BE0E9447" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="ESS" sn="env-259215laio1use1" sp="0" udc="true" pid="51037CFD42174530B06416A83FFD0F0B" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Home Page New (Phone)" sn="env-259215laio1use1" sp="0" udc="true" pid="2B32DFDE41005F0B54F7F68233B0EDF9" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Home Page New (Tablet)" sn="env-259215laio1use1" sp="0" udc="true" pid="7B3E9DCE4395129CE6F8FA84E7C905AB" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Hospital Quality" sn="env-259215laio1use1" sp="0" udc="true" pid="5822162847DFC244CC2362A056285989" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Insurance" sn="env-259215laio1use1" sp="0" udc="true" pid="8B79FC5949B35124EC862AACDEBE8750" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="iSurveys" sn="env-259215laio1use1" sp="0" udc="true" pid="082B5C45442FB892882CCFB933763F3E" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Loss Prevention" sn="env-259215laio1use1" sp="0" udc="true" pid="77F734C74CEE7FAE1B0F7C9A8EDF4CFE" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="MCTP" sn="env-259215laio1use1" sp="0" udc="true" pid="53F5EBDC48CFACD491EC11924FDA4BEA" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="OilAndGasApp" sn="env-259215laio1use1" sp="0" udc="true" pid="79D6899443E1EA4617F04A9C6D90963C" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Retail Banking Analysis" sn="env-259215laio1use1" sp="0" udc="true" pid="1D998A824D677A2B9BB2D7BD11EB14A8" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Solution Value Project" sn="env-259215laio1use1" sp="0" udc="true" pid="82B972354FFE9B4B7A37718DB947EC1D" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Store Ops NRF 2012" sn="env-259215laio1use1" sp="0" udc="true" pid="B097253E45283D4570E011B0B43755FD" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="SuperLink" sn="env-259215laio1use1" sp="0" udc="true" pid="D637339746476425BAC691861478B4AD" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Superlink Knowledge Center" sn="env-259215laio1use1" sp="0" udc="true" pid="DF26CA4749FF75FECB3E1A9D323D55B8" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="TD_Partners_Mobile_Demos" sn="env-259215laio1use1" sp="0" udc="true" pid="EDECFCE74A6CD879141C78A744338ED6" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Telco Digital Advertising" sn="env-259215laio1use1" sp="0" udc="true" pid="FA409332461D91104254C4A9BA83E5B9" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Market Basket Analysis" sn="env-259215laio1use1" sp="0" udc="true" pid="D18DF4FE409ACB093AC7028B409F7954" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Payments Insights" sn="env-259215laio1use1" sp="0" udc="true" pid="C91CA86A4D3357271DF925A6A0CD95EE" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="RVP_Mobile" sn="env-259215laio1use1" sp="0" udc="true" pid="79B0EE874ACB557E83D777B29F385E46" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Supply Chain Analysis" sn="env-259215laio1use1" sp="0" udc="true" pid="4FCADCEC458C4BDB8B4EB49213A6D868" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Teralytix" sn="env-259215laio1use1" sp="0" udc="true" pid="BD9E4D34465CD488AA462D85FDE11BE8" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Twin Soft - MarineCorps" sn="env-259215laio1use1" sp="0" udc="true" pid="C0D8F661447CB26BA0891B8DC5FEE007" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="SixDegrees Demo" sn="env-259215laio1use1" sp="0" udc="true" pid="8BFCE71D46F408651158088438FAFDBE" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Sales Pipeline Analysis App" sn="env-259215laio1use1" sp="0" udc="true" pid="60D75E2548510BDE36C12595ADDA98B1" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Wealth Management" sn="env-259215laio1use1" sp="0" udc="true" pid="BFB382BB4211207FF46A378C4A362145" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="CounterParty Risk" sn="env-259215laio1use1" sp="0" udc="true" pid="2694A5AB45CC43AF966216BC9F2AC657" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="CRC" sn="env-259215laio1use1" sp="0" udc="true" pid="243ED3304A2F7E410F3328BC7BC177CE" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="CFO" sn="env-259215laio1use1" sp="0" udc="true" pid="139171FC4533C3F451326FA476CE0544" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Casino Analysis" sn="env-259215laio1use1" sp="0" udc="true" pid="1CBF893C478FF9A1E777A2A9490AABF2" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Field Survey - Retail" sn="env-259215laio1use1" sp="0" udc="true" pid="639ADA5C45BD664C69026BBE824FC3DA" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Pharma Sales Enablement" sn="env-259215laio1use1" sp="0" udc="true" pid="EF65DA8D42742AA6738FC2979162C360" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="CMS - Medicare Payment PUF - Evolution" sn="env-259215laio1use1" sp="0" udc="true" pid="83124F0746DFE582332E96992C1EE2D4" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="CPG Sales" sn="env-259215laio1use1" sp="0" udc="true" pid="377707C411E65B1A5E6A0080EF35E961" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Food And Beverage By Thirdi" sn="env-259215laio1use1" sp="0" udc="true" pid="8550D4D211E73BD6702C0080EF15AB68" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Field Services" sn="env-259215laio1use1" sp="0" udc="true" pid="33E7C2F811E73BD7716C0080EFB5EB69" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Bank Risk Management" sn="env-259215laio1use1" sp="0" udc="true" pid="EE4076CA11E73BD9722D0080EF15AC6A" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="BlankProjectA" sn="env-259215laio1use1" sp="0" udc="true" pid="0C3B021611E73BDBB3230080EF85A2DB" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="BlankProjectB" sn="env-259215laio1use1" sp="0" udc="true" pid="79F87B3E11E73BDCB6650080EF25E4DE" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Retail Meet and Greet" sn="env-259215laio1use1" sp="0" udc="true" pid="1ECA914E11E806BFB6820080EF65E690" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Insurance Claims Management" sn="env-259215laio1use1" sp="0" udc="true" pid="F547975A11E80B36DDE50080EFB548E2" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+               <prj pn="Platform Analytics" sn="env-259215laio1use1" sp="0" udc="true" pid="2762C70611E93B6E67CC0080EF7564E5" asd="false" sv="11.0.0048.0141">
+                  <pc am="1" lo="" ps="" ow="false" />
+                  <rtf />
+                  <sc />
+               </prj>
+            </pl>
+         </ws>
+      </wsl>
+      <tcs />
+      <viws am="0" lo="" ps="" bu="" />
+   </cty>
+   <gnl>
+      <atc v="2" />
+      <ac v="2bacfe" />
+      <nt v="60" />
+      <mcs v="25" />
+      <ll v="12" />
+      <mls v="500" />
+      <uas v="true" />
+      <usc v="true" />
+      <usl v="true" />
+      <usd v="true" />
+      <fc v="true" />
+      <mgc v="50" />
+      <plc v="1" />
+      <cc v="1" />
+      <pe v="-1" />
+      <uptc v="1440" />
+      <cvi v="600" />
+      <crd v="0" />
+      <bgd v="true" />
+      <dul v="true" />
+      <sci v="600" />
+      <pn v="2" />
+      <es v="true" />
+      <eps v="true" />
+      <ea v="true" />
+      <dbpv v="false" />
+      <eopdf v="true" />
+      <efs v="true" />
+      <art v="2" />
+      <ucs v="false" />
+      <cs v="" />
+      <dw v="false" />
+      <ipe v="false" />
+      <npc v="false" />
+      <slml v="true" />
+      <lml v="" />
+      <mns v="true" />
+      <scl v="false" />
+      <eaok v="false" />
+      <aul v="false" />
+      <ccl v="false" />
+      <dmatp v="10" />
+      <dcn v="4" />
+      <dd v="0" />
+      <dbw v="false" />
+      <dbwt v="300" />
+      <dtm v="true" />
+      <dpct v="0" />
+      <drld v="false" />
+      <drn v="false" />
+      <drsc v="false" />
+      <drcl v="false" />
+      <daip v="false" />
+      <hwa v="false" />
+      <dx v="false" />
+      <drp v="1" />
+      <dxd v="30" />
+      <dmr v="false" />
+      <sae v="false" />
+      <bss>
+         <ebs v="false" />
+         <tod v="0" />
+         <ui v="4" />
+      </bss>
+   </gnl>
+   <hsc tp="3">
+      <rs>
+         <oi pid="7B3E9DCE4395129CE6F8FA84E7C905AB" did="8CACF1F311E61CDD58370080EF5543CE" t="55" st="14081" n="Home Main" ab="" pt="Home Page New (Tablet)\Public Objects\Shared Reports\Mobile Apps\Tablet\iOS\Home Page New\Home Main" fid="9782062011E61C3E15550080EFC5A2B2" psu="https://mobiledossier.microstrategy.com:443/MicroStrategyMobile/servlet/taskProc" dsc="" avm="117" />
+         <sobs />
+         <pb iv="false" clr="14540253" pos="1" opa="1.0" />
+      </rs>
+   </hsc>
+</cnf>

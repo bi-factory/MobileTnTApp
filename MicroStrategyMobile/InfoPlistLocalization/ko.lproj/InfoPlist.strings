@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  T&T MobileMobile
+
+  Created by sun on 2/16/17.
+  Copyright © 2017 MicroStratgy Inc. All rights reserved.
+*/
+NSCameraUsageDescription = "T&T Mobile 응용 프로그램이 장치 카메라에 액세스하려고 했습니다.";
+NSPhotoLibraryUsageDescription = "T&T Mobile 응용 프로그램이 장치 카메라에 액세스하려고 했습니다.";
+NSPhotoLibraryAddUsageDescription = "\Uc751\Uc6a9 \Ud504\Ub85c\Uadf8\Ub7a8\Uc774 \Ud3ec\Ud1a0 \Ub77c\Uc774\Ube0c\Ub7ec\Ub9ac\Uc5d0 \Uc0ac\Uc9c4\Uc744 \Ucd94\Uac00\Ud558\Ub824 \Ud569\Ub2c8\Ub2e4.";

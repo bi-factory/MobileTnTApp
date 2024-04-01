@@ -1,0 +1,5298 @@
+[
+  {
+    "Key": "UNKNOWN",
+    "EnglishText": "Unknown"
+  },
+  {
+    "Key": "MARKERS_SELECTED",
+    "EnglishText": "markers selected",
+    "Comment": "a number will be added before the string"
+  },
+  {
+    "Key": "TAP_ARROWS_TO_BROWSE",
+    "EnglishText": "Tap arrows to browse",
+    "Comment": " "
+  },
+  {
+    "Key": "KILOMETERS",
+    "EnglishText": "Kilometers"
+  },
+  {
+    "Key": "MARKER_TYPE",
+    "EnglishText": "Marker Type"
+  },
+  {
+    "Key": "ADVANCE_CLUSTERING",
+    "EnglishText": "Advanced Clustering"
+  },
+  {
+    "Key": "OPERATOR_HIGHEST",
+    "EnglishText": "Highest"
+  },
+  {
+    "Key": "OPERATOR_LOWEST",
+    "EnglishText": "Lowest"
+  },
+  {
+    "Key": "SELECTOR_CALENDAR_FROM",
+    "EnglishText": "From"
+  },
+  {
+    "Key": "SELECTOR_CALENDAR_TO",
+    "EnglishText": "To"
+  },
+  {
+    "Key": "WEB_AUTHENTICATION_ERROR",
+    "EnglishText": "Web authentication error."
+  },
+  {
+    "Key": "MISSING_CERTIFICATE_ERROR",
+    "EnglishText": "Missing certificate."
+  },
+  {
+    "Key": "INVALID_CERTIFICATE_ERROR",
+    "EnglishText": "Invalid certificate."
+  },
+  {
+    "Key": "PASSWORD_MUST_CHANGE",
+    "EnglishText": "Update password."
+  },
+  {
+    "Key": "NEW_SUBSCRIPTION",
+    "EnglishText": "New Subscription"
+  },
+  {
+    "Key": "START_WEEK_ON",
+    "EnglishText": "Start Week On"
+  },
+  {
+    "Key": "PULL_TO_REFRESH",
+    "EnglishText": "Pull to refresh",
+    "Comment": " "
+  },
+  {
+    "Key": "RELEASE_TO_REFRESH",
+    "EnglishText": "Release to refresh"
+  },
+  {
+    "Key": "PHOTO_UPLOADER_CAMERA_DISABLED",
+    "EnglishText": "Unable to access camera. Please enable access in Settings > Privacy > Camera."
+  },
+  {
+    "Key": "PHOTO_UPLOADER_AUTHORIZATION_DENIED",
+    "EnglishText": "Unable to access photos. Please enable access in Settings > Privacy > Photos."
+  },
+  {
+    "Key": "PASSWORD_EXPIRED_RESET",
+    "EnglishText": "Your password has expired. Please reset your password."
+  },
+  {
+    "Key": "CERTIFICATE_PINNING_ERROR",
+    "EnglishText": "Certificate Pinning Error"
+  },
+  {
+    "Key": "CERTIFICATE_INVALID_OR_MISSING_IN_PINNED_CERTIFICATES",
+    "EnglishText": "Invalid or missing host certificate under pinned certificates."
+  },
+  {
+    "Key": "CHARACTERS",
+    "EnglishText": "characters"
+  },
+  {
+    "Key": "FB_MYREPORTS",
+    "EnglishText": "My Reports"
+  },
+  {
+    "Key": "VIEW_EXPORTED_FILE",
+    "EnglishText": "You have an exported Excel file. Do you want to view it?"
+  },
+  {
+    "Key": "NO_UPDATE",
+    "EnglishText": "No, update"
+  },
+  {
+    "Key": "EXPORT_QUIT_CONFIRM",
+    "EnglishText": "This action would cancel export to Excel. Are you sure you want to continue?"
+  },
+  {
+    "Key": "EXPORT_CANCEL_CONFIRM",
+    "EnglishText": "Are you sure you want to cancel?"
+  },
+  {
+    "Key": "SEND_BY_EMAIL",
+    "EnglishText": "Send by Email"
+  },
+  {
+    "Key": "EXPORT_TO_EXCEL",
+    "EnglishText": "Export to Excel"
+  },
+  {
+    "Key": "VIEW_EXPIRED_EXPORTED_FILE_OFFLINE",
+    "EnglishText": "There is a version of the export created on %@. Would you like to view it?"
+  },
+  {
+    "Key": "THE_FILE_IS_EMPTY",
+    "EnglishText": "The file is empty",
+    "Comment": "error message"
+  },
+  {
+    "Key": "AIRWATCH_AUTHENTICATION_FAILED",
+    "EnglishText": "AirWatch Authentication Failed. The application will now close."
+  },
+  {
+    "Key": "INTEGRATED_AUTHENTICATION_FAILED",
+    "EnglishText": "Integrated Authentication Failed. Please contact your administrator."
+  },
+  {
+    "Key": "DEVICE_LOCKED_CANNOT_FETCH_CLIENT_CERTIFICATE",
+    "EnglishText": "Device is locked. Cannot fetch SSL Client Certificate."
+  },
+  {
+    "Key": "NOT",
+    "EnglishText": "not",
+    "Comment": "not"
+  },
+  {
+    "Key": "PAGE",
+    "EnglishText": "PAGE",
+    "Comment": "used in dossier library search"
+  },
+  {
+    "Key": "USER",
+    "EnglishText": "USER",
+    "Comment": "used in dossier library search"
+  },
+  {
+    "Key": "CAMERA_ACCESS_DENIED_MSG",
+    "EnglishText": "Taking photos from the app is not permitted due to policy constraints.",
+    "Comment": " "
+  },
+  {
+    "Key": "NEW_CONTENT",
+    "EnglishText": "New content is available. Tap to re-execute",
+    "Comment": "DE39217"
+  },
+  {
+    "Key": "MAP_WILL_HAVE_TOO_MANY_MARKERS_AFTER_THE_OPERATION",
+    "EnglishText": "Map will have too many markers after the operation."
+  },
+  {
+    "Key": "EXPAND_COLLAPSE",
+    "EnglishText": "Expand/Collapse",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "EXPAND_ALL",
+    "EnglishText": "Expand All",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "COLLAPSE_ALL",
+    "EnglishText": "Collapse All",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "NO_ITEM_FOUND",
+    "EnglishText": "No item found",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "LEAF_NODES",
+    "EnglishText": "Leaf Nodes",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "DESELECT_BRANCH",
+    "EnglishText": "Deselect Branch",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "SELECT_BRANCH",
+    "EnglishText": "Select Branch",
+    "Comment": "Financial Reporting Filter"
+  },
+  {
+    "Key": "VIEW_SELECTED",
+    "EnglishText": "View Selected",
+    "Comment": "Use as the title for a toggle button."
+  },
+  {
+    "Key": "NONE",
+    "EnglishText": "None",
+    "Comment": "Used by range slider in Dossier filter panel, indicates the current selection exclude all data. (as oppsite to \"All\")"
+  },
+  {
+    "Key": "EXPAND",
+    "EnglishText": "Expand...",
+    "Comment": "Used in the Dossier context menu, that will expand/collpase some menu options. The ellipsis \"...\" after the word indicates there're more options."
+  },
+  {
+    "Key": "NSPhotoLibraryUsageDescription",
+    "EnglishText": "Application is trying to access device photo library.",
+    "Comment": " "
+  },
+  {
+    "Key": "SHOW_DATA",
+    "EnglishText": "Show Data",
+    "Comment": "show data button in tooltip"
+  },
+  {
+    "Key": "VIEWED",
+    "EnglishText": "Viewed"
+  },
+  {
+    "Key": "WEBDAV_ERROR_NEED_REFETCH",
+    "EnglishText": "Need to refetch due to size limit",
+    "Comment": " "
+  },
+  {
+    "Key": "WEBDAV_ERROR_CONTINUE_UPDATE",
+    "EnglishText": "Need to continue update"
+  },
+  {
+    "Key": "WEBDAV_ERROR_WRONG_URL",
+    "EnglishText": "Wrong URL",
+    "Comment": " "
+  },
+  {
+    "Key": "KEEP_ONLY",
+    "EnglishText": "Keep Only"
+  },
+  {
+    "Key": "MULTI_SELECT",
+    "EnglishText": "Multi-select",
+    "Comment": " "
+  },
+  {
+    "Key": "SERVER_ERROR",
+    "EnglishText": "Server Error"
+  },
+  {
+    "Key": "LIBRARY",
+    "EnglishText": "Library"
+  },
+  {
+    "Key": "NSCameraUsageDescription",
+    "EnglishText": "Application is trying to access device camera.",
+    "Comment": " "
+  },
+  {
+    "Key": "ONLY",
+    "EnglishText": "Only"
+  },
+  {
+    "Key": "NOW",
+    "EnglishText": "Now",
+    "Comment": " "
+  },
+  {
+    "Key": "RECT",
+    "EnglishText": "rect",
+    "Comment": " "
+  },
+  {
+    "Key": "LASSO",
+    "EnglishText": "lasso"
+  },
+  {
+    "Key": "FOLDERS",
+    "EnglishText": "Folders",
+    "Comment": "e.g. several collections of documents"
+  },
+  {
+    "Key": "FACE_ID",
+    "EnglishText": "Face ID",
+    "Comment": "Log in with Face ID"
+  },
+  {
+    "Key": "FREQUENCY",
+    "EnglishText": "Frequency"
+  },
+  {
+    "Key": "TEMPLATENOTMEETREQUIREMENT",
+    "EnglishText": "Template does not meet the requirements!"
+  },
+  {
+    "Key": "SUBTOTAL",
+    "EnglishText": "Subtotal"
+  },
+  {
+    "Key": "DOC_PROTECTED_VIA_BIOMETRY_CANNOT_BE_ACCESSED",
+    "EnglishText": "This document is protected via Touch ID/Face ID & cannot be accessed on this device."
+  },
+  {
+    "Key": "DATE",
+    "EnglishText": "Date",
+    "Comment": "Calendar Date, For example, 1/5/2018"
+  },
+  {
+    "Key": "TIME",
+    "EnglishText": "Time",
+    "Comment": "Calendar Time, for example, 7:00 PM"
+  },
+  {
+    "Key": "NOT_SUPPORTED",
+    "EnglishText": "(Not Supported)"
+  },
+  {
+    "Key": "VIDEO_OFFLINE_ERROR",
+    "EnglishText": "The Internet connection appears to be offline."
+  },
+  {
+    "Key": "HINT_STRING_FOR_NOT_SUPPORTED_MAP_TYPE",
+    "EnglishText": "Please open this dossier in MicroStrategy Library to see the Advanced Map Visualization.",
+    "Comment": "Please open this dossier in MicroStrategy Library to see the Advanced Map Visualization."
+  },
+  {
+    "Key": "HINT_STRING_FOR_NONSUPPORTED_KPICARD_VUSUALIZATION",
+    "EnglishText": "Please open this dossier in MicroStrategy Library to see the KPICard Visualization.",
+    "Comment": "Please open this dossier in MicroStrategy Library to see the KPICard Visualization."
+  },
+  {
+    "Key": "OUTLINE_EXPAND",
+    "EnglishText": "Expand",
+    "Comment": "Expand the outline grid"
+  },
+  {
+    "Key": "OUTLINE_COLLAPSE",
+    "EnglishText": "Collapse",
+    "Comment": "Collapse the outline grid"
+  },
+  {
+    "Key": "SHOW_BOTH",
+    "EnglishText": "Show Both"
+  },
+  {
+    "Key": "NSPhotoLibraryAddUsageDescription",
+    "EnglishText": "Application is trying to add photo to your photo library.",
+    "Comment": " "
+  },
+  {
+    "Key": "HEADER",
+    "EnglishText": "Header"
+  },
+  {
+    "Key": "ADD",
+    "EnglishText": "Add",
+    "Comment": "The short version for \"Add To Library\" used in iPhone devices"
+  },
+  {
+    "Key": "BIN",
+    "EnglishText": "Bin"
+  },
+  {
+    "Key": "DPC_TOUCHID",
+    "EnglishText": "Tap to Enter with TouchID",
+    "Comment": " "
+  },
+  {
+    "Key": "DPC_FACEID",
+    "EnglishText": "Tap to Enter with FaceID",
+    "Comment": " "
+  },
+  {
+    "Key": "DPC_PASSWORD",
+    "EnglishText": "Tap to Enter Passcode",
+    "Comment": " "
+  },
+  {
+    "Key": "CONTENT",
+    "EnglishText": "Content"
+  },
+  {
+    "Key": "LAYOUT",
+    "EnglishText": "Layout"
+  },
+  {
+    "Key": "ORIENTATION",
+    "EnglishText": "Orientation"
+  },
+  {
+    "Key": "FAILED_TO_LOAD_SHAPE_CONFIG_FILE",
+    "EnglishText": "Failed to load shape configuration file."
+  },
+  {
+    "Key": "NEXT",
+    "EnglishText": "Next",
+    "Comment": "Used as button title to navigate to the next step in process"
+  },
+  {
+    "Key": "NO_SUPPORTED_HIERARCHY_REPORT",
+    "EnglishText": "We don't support hierarchy report. Please open this dossier in MicroStrategy Library.",
+    "Comment": "Library means MicroStrategy \"Library\" app."
+  },
+  {
+    "Key": "NOT_SUPPORTED_HIERARCHY_FILTER",
+    "EnglishText": "We don't support Hierarchy Filter.",
+    "Comment": "Hierarchy Filter means the filter in hierarchy report."
+  },
+  {
+    "Key": "SECURITY_SETTING",
+    "EnglishText": "Security Settings"
+  },
+  {
+    "Key": "AUTHOR",
+    "EnglishText": "Author",
+    "Comment": "the field name for the author of the dossier"
+  },
+  {
+    "Key": "DOCS_NOT_AVAILABLE",
+    "EnglishText": "documents not supported"
+  },
+  {
+    "Key": "SORT_BY",
+    "EnglishText": "Sort By",
+    "Comment": "library sort & filter dialog"
+  },
+  {
+    "Key": "CONDITION",
+    "EnglishText": "Condition"
+  },
+  {
+    "Key": "GROUP_BY",
+    "EnglishText": "Group By",
+    "Comment": "tool bar menu icon text"
+  },
+  {
+    "Key": "INFO",
+    "EnglishText": "Info",
+    "Comment": "tool bar menu icon text"
+  },
+  {
+    "Key": "NOT_SUPPORTED_VIZFILTER",
+    "EnglishText": "We don't support Visualization Filter."
+  },
+  {
+    "Key": "NOT_SUPPORTED_VIZFILTER_DIRECTION",
+    "EnglishText": "Please open this dossier in MicroStrategy Library."
+  },
+  {
+    "Key": "NETVIZ_MIN",
+    "EnglishText": "Min: %@",
+    "Comment": "min value"
+  },
+  {
+    "Key": "DISMISS",
+    "EnglishText": "Dismiss",
+    "Comment": "Button title"
+  },
+  {
+    "Key": "AUTO",
+    "EnglishText": "Auto",
+    "Comment": "Auto orientation mode in PDF export options"
+  },
+  {
+    "Key": "LANDSCAPE",
+    "EnglishText": "Landscape",
+    "Comment": "LANDSCAPE orientation mode in PDF export options"
+  },
+  {
+    "Key": "PORTRAIT",
+    "EnglishText": "Portrait",
+    "Comment": "PORTRAIT orientation mode in PDF export options"
+  },
+  {
+    "Key": "FILE",
+    "EnglishText": "File",
+    "Comment": "The noun form"
+  },
+  {
+    "Key": "TOUCHID_UNAVAILABLE",
+    "EnglishText": "This restricted action cannot be performed on this device as the user cannot be authenticated"
+  },
+  {
+    "Key": "PASSCODE_NOT_ENABLED",
+    "EnglishText": "User authentication required to perform this restricted action. Please enable pass code through system settings."
+  },
+  {
+    "Key": "GOT_IT",
+    "EnglishText": "Got It"
+  },
+  {
+    "Key": "PERFORMANCE",
+    "EnglishText": "Performance"
+  },
+  {
+    "Key": "MEMORY_USAGE",
+    "EnglishText": "Memory Usage"
+  },
+  {
+    "Key": "NOTIFICATION",
+    "EnglishText": "Notification"
+  },
+  {
+    "Key": "PREFERENCES",
+    "EnglishText": "Preferences"
+  },
+  {
+    "Key": "RESTRICTIONS",
+    "EnglishText": "Restrictions"
+  },
+  {
+    "Key": "GENERAL",
+    "EnglishText": "General"
+  },
+  {
+    "Key": "GRAPH_TOO_MANY_ELEMENTS",
+    "EnglishText": "Attribute %@ has more than %d elements and is too big to be rendered. Please try to apply a filter on it.",
+    "Comment": " "
+  },
+  {
+    "Key": "MEDIUM",
+    "EnglishText": "Medium",
+    "Comment": "This indicates the password you set is medium degree."
+  },
+  {
+    "Key": "STRONG",
+    "EnglishText": "Strong",
+    "Comment": "This indicates the password you set is strong degree."
+  },
+  {
+    "Key": "Q3",
+    "EnglishText": "Q3"
+  },
+  {
+    "Key": "Q1",
+    "EnglishText": "Q1"
+  },
+  {
+    "Key": "NONSUPPORTED_NEW_GRAPH_MATRIX_VISUALIZATION",
+    "EnglishText": "Please open this dossier in MicroStrategy Library to see the New Graph Matrix Visualization."
+  },
+  {
+    "Key": "PLEASE_SCAN_REGISTERED_BIOMETRY_TO_AUTH",
+    "EnglishText": "Please be sure to scan the registered fingerprint or face to authenticate."
+  },
+  {
+    "Key": "DOC_PROTECTED_VIA_BIOMETRY_PLEASE_ENABLE_AND_REGISTER",
+    "EnglishText": "This document is protected via Touch ID/Face ID. Please enable passcode and enroll your fingerprint or face through system settings."
+  },
+  {
+    "Key": "CUSTOM",
+    "EnglishText": "Custom",
+    "Comment": "\"Custom\" is one of selection type of dynamic selection mode for calendar filter. It provides the most flexible selection. A typical custom dynamic selection is like \"today minus 7 days\" to \"today plus 2 months\"."
+  },
+  {
+    "Key": "TIME_OUT",
+    "EnglishText": "Time Out",
+    "Comment": "Time out"
+  },
+  {
+    "Key": "AUTHENTICATION_ERROR",
+    "EnglishText": "Authentication Error",
+    "Comment": "Authentication Error"
+  },
+  {
+    "Key": "PASSCODE_BIOMETRY_NOT_ENABLED",
+    "EnglishText": "User authentication is required to perform this restricted action. Please enable passcode and enroll your fingerprint or face through system settings."
+  },
+  {
+    "Key": "DOC_PROTECTED_VIA_BIOMETRY_PLEASE_ENROLL",
+    "EnglishText": "This document is protected via Touch ID/Face ID. Please enroll your fingerprint or face through system settings."
+  },
+  {
+    "Key": "BIOMETRY_NOT_ENROLLED",
+    "EnglishText": "User authentication is required to perform this restricted action. Please enroll your fingerprint or face through system settings to proceed."
+  },
+  {
+    "Key": "ERROR_CUSTOM_WIDGET_PLUGIN_MISSING",
+    "EnglishText": "The custom visualization plug-in, %@, is not deployed in this environment."
+  },
+  {
+    "Key": "ERROR_CUSTOM_WIDGET_PLUGIN_MISSING_DETAIL",
+    "EnglishText": "The custom visualization plug-in, %@, is not deployed in this environment.\\nPlease copy the plug-in to the Library server's plugin folder, and restart the Server.",
+    "Comment": " "
+  },
+  {
+    "Key": "ERROR_CUSTOM_WIDGET_RENDER_ON_CACHE_FAIL",
+    "EnglishText": "The custom visualization cannot be loaded."
+  },
+  {
+    "Key": "ERROR_EXTERNAL_LIB_RELATIVE_PATH_DETAIL",
+    "EnglishText": "The custom visualization, %@, cannot be loaded.\\nThis may be caused by incorrect relative path format in this plugin.\\nRelative path should have the following format, starting from 10.10 mobile app:\\n{url: (mstrApp.getPluginsRoot && mstrApp.getPluginsRoot() || '../plugins/') + '<pluginname>/javascript/mojo/js/source/<library file name>.js'}\\nAfter the change, you will need to clear the device cache to make it work on mobile.",
+    "Comment": " "
+  },
+  {
+    "Key": "ERROR_CUSTOM_DROPZONE_NOT_SUPPORT_DETAIL",
+    "EnglishText": "The custom visualization, %@, has configured Custom DropDone or Custom EditorModel which is not supported by the Mobile Server prior to 10.7.\\nPlease contact your administrator to upgrade the Mobile Server."
+  },
+  {
+    "Key": "ERROR_JAVASCRIPT_RUNTIME_DETAIL",
+    "EnglishText": "The custom visualization, %@, cannot be loaded.\\nThis may be caused by unsupported JSON data or plugin API.\\nDetails:\\n%@\\nPlease contact MicroStrategy for this enhancement.\\nFor all the supported JSON and plugin bundle files, please check the following:\\n%@"
+  },
+  {
+    "Key": "BADGE",
+    "EnglishText": "Badge"
+  },
+  {
+    "Key": "MOBILE",
+    "EnglishText": "Mobile"
+  },
+  {
+    "Key": "PLATFORM_ERROR_CUSTOM_WIDGET_PLUGIN_MISSING_DETAIL",
+    "EnglishText": "The custom visualization plug-in, %@, is not deployed in this environment.\\nPlease copy the plug-in to the Mobile server's plugin folder, and restart the server.",
+    "Comment": " "
+  },
+  {
+    "Key": "SERVER_NAME",
+    "EnglishText": "Server Name: %s"
+  },
+  {
+    "Key": "ERROR_CODE",
+    "EnglishText": "Error Code: %s"
+  },
+  {
+    "Key": "ERROR_MESSAGE",
+    "EnglishText": "Error Message: %s"
+  },
+  {
+    "Key": "PROJECT_ID",
+    "EnglishText": "Project ID: %s"
+  },
+  {
+    "Key": "TYPES",
+    "EnglishText": "Types",
+    "Comment": "Shown as a section title in the \"sort & filter\" panel of Library app. That section contains some options that we could filter the objects with their file type (Dossier or RSD or both)."
+  },
+  {
+    "Key": "FIXED",
+    "EnglishText": "Fixed",
+    "Comment": "As abbreviation of \"Fixed Date\" (ID 2577). Indicates the current date is fixed or not (dynamic)"
+  },
+  {
+    "Key": "FILE_NOT_SUPPORTED",
+    "EnglishText": "This file type is not supported."
+  },
+  {
+    "Key": "MICROSTRATEGY_BADGE",
+    "EnglishText": "MicroStrategy Badge"
+  },
+  {
+    "Key": "X_LOGIN",
+    "EnglishText": "%@ Login"
+  },
+  {
+    "Key": "X_QR_CODE_SIGN_INTO_PROJECT",
+    "EnglishText": "Please scan your %@ QR code to securely sign into %@ project."
+  },
+  {
+    "Key": "X_BADGE_INSTALLATION_ALERT_MESSAGE",
+    "EnglishText": "An %@ badge is required to login. Would you like to install it from the App Store?"
+  },
+  {
+    "Key": "FAILED_TO_LOAD_SHAPE_CONFIG_FILE_SHORT",
+    "EnglishText": "Failed to load shape configuration file."
+  },
+  {
+    "Key": "PLEASE_LOGIN_WITH_X_TO_ESTABLISH_YOUR_SESSION",
+    "EnglishText": "Please login with %@ to establish your session."
+  },
+  {
+    "Key": "RENAME",
+    "EnglishText": "Rename"
+  },
+  {
+    "Key": "BADGE_INSTALLATION_ALERT_MESSAGE",
+    "EnglishText": "An MicroStrategy Badge is required to log in. Would you like to install it from the App Store?"
+  },
+  {
+    "Key": "MICROSTRATEGY_IDENTITY",
+    "EnglishText": "MicroStrategy Identity",
+    "Comment": "MicroStrategy Identity"
+  },
+  {
+    "Key": "PREVIOUS",
+    "EnglishText": "Previous"
+  },
+  {
+    "Key": "ABSOLUTE_VALUE_OF",
+    "EnglishText": "Absolute value of %@",
+    "Comment": " "
+  },
+  {
+    "Key": "ABSOLUTE_VALUE_OF_WITH_PAR",
+    "EnglishText": "Absolute value of ( %@ )"
+  },
+  {
+    "Key": "ON",
+    "EnglishText": "On",
+    "Comment": "The switch button's status"
+  },
+  {
+    "Key": "APP_CRASH",
+    "EnglishText": "Application Crash"
+  },
+  {
+    "Key": "NO_THANKS",
+    "EnglishText": "No, thanks"
+  },
+  {
+    "Key": "SEND_REPORT",
+    "EnglishText": "Send Report"
+  },
+  {
+    "Key": "SEND_EMAIL",
+    "EnglishText": "Send Email"
+  },
+  {
+    "Key": "REPORT_CRASH",
+    "EnglishText": "Your last session quit unexpectedly. Send a crash report?"
+  },
+  {
+    "Key": "SECURITY_SETTINGS",
+    "EnglishText": "SECURITY SETTINGS"
+  },
+  {
+    "Key": "FAIL_TO_DOWNLOAD_CUSTOM_WIDGET_PLUGIN",
+    "EnglishText": "Failed to download custom visualization plug-in, %@.",
+    "Comment": " "
+  },
+  {
+    "Key": "SHOW_ALL",
+    "EnglishText": "Show All"
+  },
+  {
+    "Key": "X_MARKERS_SELECTED",
+    "EnglishText": "%@ markers selected",
+    "Comment": "%@ is a number, indication the count of markers."
+  },
+  {
+    "Key": "CHECK_NETWORK_AND_REFRESH",
+    "EnglishText": "Please check your network and refresh."
+  },
+  {
+    "Key": "DATE_AND_TIME",
+    "EnglishText": "Date and Time"
+  },
+  {
+    "Key": "ADD_NEW",
+    "EnglishText": "Add New"
+  },
+  {
+    "Key": "PLUS",
+    "EnglishText": "Plus",
+    "Comment": "work as part of description of a dynamic date, e.g. \"Plus 5 Days\""
+  },
+  {
+    "Key": "MINUS",
+    "EnglishText": "Minus",
+    "Comment": "work as part of description of a dynamic date, e.g. \"minus 5 Days\""
+  },
+  {
+    "Key": "DAYS",
+    "EnglishText": "Days",
+    "Comment": "work as part of description of a dynamic date, e.g. \"Next 5 Days\""
+  },
+  {
+    "Key": "MONTHS",
+    "EnglishText": "Months",
+    "Comment": "work as part of description of a dynamic date, e.g. \"Next 5 Months\""
+  },
+  {
+    "Key": "YEARS",
+    "EnglishText": "Years",
+    "Comment": "work as part of description of a dynamic date, e.g. \"Next 5 Years\""
+  },
+  {
+    "Key": "NSLocationWhenInUseUsageDescription",
+    "EnglishText": "Application needs to access your location while you use this app to show your location on map or filter geo related data for you"
+  },
+  {
+    "Key": "NSLocationAlwaysUsageDescription",
+    "EnglishText": "Application needs to access your location when the app is in background to show your location on map or filter geo related data for you"
+  },
+  {
+    "Key": "CONTINUE",
+    "EnglishText": "Continue"
+  },
+  {
+    "Key": "FIRST",
+    "EnglishText": "First"
+  },
+  {
+    "Key": "LAST",
+    "EnglishText": "Last"
+  },
+  {
+    "Key": "CONSTANT",
+    "EnglishText": "Constant"
+  },
+  {
+    "Key": "COMPLETION_TIME",
+    "EnglishText": "Completion Time",
+    "Comment": " "
+  },
+  {
+    "Key": "OK",
+    "EnglishText": "OK"
+  },
+  {
+    "Key": "ERROR",
+    "EnglishText": "Error"
+  },
+  {
+    "Key": "TASK",
+    "EnglishText": "Task"
+  },
+  {
+    "Key": "RECONCILE",
+    "EnglishText": "Reconcile",
+    "Comment": " "
+  },
+  {
+    "Key": "END_TIME",
+    "EnglishText": "End Time",
+    "Comment": " "
+  },
+  {
+    "Key": "YESTERDAY",
+    "EnglishText": "Yesterday"
+  },
+  {
+    "Key": "ANONYMOUS",
+    "EnglishText": "Anonymous"
+  },
+  {
+    "Key": "BASIC",
+    "EnglishText": "Basic"
+  },
+  {
+    "Key": "TYPE",
+    "EnglishText": "Type"
+  },
+  {
+    "Key": "PROJECTS",
+    "EnglishText": "Projects"
+  },
+  {
+    "Key": "DATA_RETRIEVAL",
+    "EnglishText": "Data Retrieval"
+  },
+  {
+    "Key": "PATH",
+    "EnglishText": "Path"
+  },
+  {
+    "Key": "ERRORS",
+    "EnglishText": "Errors"
+  },
+  {
+    "Key": "WARNINGS",
+    "EnglishText": "Warnings"
+  },
+  {
+    "Key": "MESSAGES",
+    "EnglishText": "Messages"
+  },
+  {
+    "Key": "ALL",
+    "EnglishText": "All"
+  },
+  {
+    "Key": "OFF",
+    "EnglishText": "Off"
+  },
+  {
+    "Key": "ADVANCED",
+    "EnglishText": "Advanced"
+  },
+  {
+    "Key": "LEVEL",
+    "EnglishText": "Level"
+  },
+  {
+    "Key": "MEMORY_LIMIT",
+    "EnglishText": "Memory Limit"
+  },
+  {
+    "Key": "NETWORK_TIMEOUT_SECS",
+    "EnglishText": "Network Timeout (seconds)"
+  },
+  {
+    "Key": "LOADING",
+    "EnglishText": "Loading"
+  },
+  {
+    "Key": "AUTHENTICATION",
+    "EnglishText": "Authentication"
+  },
+  {
+    "Key": "USERNAME",
+    "EnglishText": "Username"
+  },
+  {
+    "Key": "PASSWORD",
+    "EnglishText": "Password"
+  },
+  {
+    "Key": "N_OF_N",
+    "EnglishText": "%1$@ of %2$@",
+    "Comment": "Used for page numbers - i.e. 1 of 9 for first out of nine pages"
+  },
+  {
+    "Key": "DEFAULT",
+    "EnglishText": "Default"
+  },
+  {
+    "Key": "STANDARD",
+    "EnglishText": "Standard"
+  },
+  {
+    "Key": "WINDOWS",
+    "EnglishText": "Windows"
+  },
+  {
+    "Key": "LDAP",
+    "EnglishText": "LDAP"
+  },
+  {
+    "Key": "DATABASE",
+    "EnglishText": "Database"
+  },
+  {
+    "Key": "PROJECT_DEFAULT",
+    "EnglishText": "Project Default"
+  },
+  {
+    "Key": "PROJECT",
+    "EnglishText": "Project"
+  },
+  {
+    "Key": "PORT",
+    "EnglishText": "Port"
+  },
+  {
+    "Key": "SERVER",
+    "EnglishText": "Server",
+    "Comment": " "
+  },
+  {
+    "Key": "CANCEL",
+    "EnglishText": "Cancel"
+  },
+  {
+    "Key": "DELETE_PROJECT",
+    "EnglishText": "Delete Project"
+  },
+  {
+    "Key": "BACK",
+    "EnglishText": "Back"
+  },
+  {
+    "Key": "NAME",
+    "EnglishText": "Name"
+  },
+  {
+    "Key": "DESCRIPTION",
+    "EnglishText": "Description"
+  },
+  {
+    "Key": "SUBSCRIPTION",
+    "EnglishText": "Subscription"
+  },
+  {
+    "Key": "UPDATED",
+    "EnglishText": "Updated"
+  },
+  {
+    "Key": "WEB_SERVER",
+    "EnglishText": "Web Server"
+  },
+  {
+    "Key": "UPDATING",
+    "EnglishText": "Updating"
+  },
+  {
+    "Key": "MICROSTRATEGY_MOBILE",
+    "EnglishText": "MicroStrategy Mobile"
+  },
+  {
+    "Key": "SETTINGS",
+    "EnglishText": "Settings"
+  },
+  {
+    "Key": "ADVANCED_SETTINGS",
+    "EnglishText": "Advanced Settings"
+  },
+  {
+    "Key": "REQUIRED",
+    "EnglishText": "Required"
+  },
+  {
+    "Key": "START_TIME",
+    "EnglishText": "Start Time"
+  },
+  {
+    "Key": "EXECUTING",
+    "EnglishText": "Executing"
+  },
+  {
+    "Key": "FAILED",
+    "EnglishText": "Failed"
+  },
+  {
+    "Key": "CANCELLED",
+    "EnglishText": "Cancelled"
+  },
+  {
+    "Key": "SUCCESS",
+    "EnglishText": "Success"
+  },
+  {
+    "Key": "STATUS",
+    "EnglishText": "Status"
+  },
+  {
+    "Key": "CLEAR_ALL",
+    "EnglishText": "Clear All",
+    "Comment": " "
+  },
+  {
+    "Key": "MAX_LOG_SIZE",
+    "EnglishText": "Maximum Log Size (entries)"
+  },
+  {
+    "Key": "LOGGING",
+    "EnglishText": "Logging"
+  },
+  {
+    "Key": "VIEW_LOG",
+    "EnglishText": "View Log"
+  },
+  {
+    "Key": "LOG_LEVEL",
+    "EnglishText": "Log Level"
+  },
+  {
+    "Key": "LOG",
+    "EnglishText": "Log",
+    "Comment": " "
+  },
+  {
+    "Key": "SET_UP_EMAIL_FOR_LOG",
+    "EnglishText": "Please setup a Mail account in order to email logs."
+  },
+  {
+    "Key": "LOG_FOR_X",
+    "EnglishText": "Log for %1$@"
+  },
+  {
+    "Key": "INVALID_CREDENTIALS",
+    "EnglishText": "Invalid Credentials"
+  },
+  {
+    "Key": "CONNECT_TO_PROJECT_X",
+    "EnglishText": "Connect to Project %1$@"
+  },
+  {
+    "Key": "ABOUT",
+    "EnglishText": "About",
+    "Comment": " "
+  },
+  {
+    "Key": "BUILD",
+    "EnglishText": "Build"
+  },
+  {
+    "Key": "LEGAL",
+    "EnglishText": "Legal"
+  },
+  {
+    "Key": "HELP",
+    "EnglishText": "Help"
+  },
+  {
+    "Key": "DIAGNOSTIC_MODE",
+    "EnglishText": "Diagnostic Mode",
+    "Comment": " "
+  },
+  {
+    "Key": "WARNING",
+    "EnglishText": "Warning"
+  },
+  {
+    "Key": "EMAIL_SCREEN",
+    "EnglishText": "Email Screen",
+    "Comment": " "
+  },
+  {
+    "Key": "EMAIL_RESULT_CANCELLED",
+    "EnglishText": "Result: Cancelled"
+  },
+  {
+    "Key": "EMAIL_RESULT_SAVED",
+    "EnglishText": "Result: Saved"
+  },
+  {
+    "Key": "EMAIL_RESULT_SENT",
+    "EnglishText": "Result: Sent"
+  },
+  {
+    "Key": "ERROR_TOO_MANY_CELLS_IN_DOCUMENT",
+    "EnglishText": "The grids in this document have more than %d cells and are too big to be rendered. Please reduce the size of one of the grids."
+  },
+  {
+    "Key": "APPLICATION_OFFLINE_ERROR",
+    "EnglishText": "This operation cannot be performed in offline mode.",
+    "Comment": " "
+  },
+  {
+    "Key": "BARCODE_READER_NAV_BAR_TITLE",
+    "EnglishText": "Scan",
+    "Comment": "barcode reader"
+  },
+  {
+    "Key": "BARCODE_READER_MSG_NO_MATCH_ITEM",
+    "EnglishText": "No matching item could be found. Please try again.",
+    "Comment": "Barcode reader, cannot find matching item in predefined list"
+  },
+  {
+    "Key": "PWD_INCORRECT_MSG",
+    "EnglishText": "Your password is incorrect. Please try again.",
+    "Comment": " "
+  },
+  {
+    "Key": "OFFLINE_HELP",
+    "EnglishText": "Network error. Switching to offline help."
+  },
+  {
+    "Key": "NOT_APPLICABLE_ABBREV",
+    "EnglishText": "N/A"
+  },
+  {
+    "Key": "SUBMIT_CONFIRMATION",
+    "EnglishText": "Do you want to submit your changes?"
+  },
+  {
+    "Key": "DISCARD_CONFIRMATION",
+    "EnglishText": "Do you want to discard your changes?"
+  },
+  {
+    "Key": "EXCLUDE_RATE",
+    "EnglishText": "Exclude: %d of %d"
+  },
+  {
+    "Key": "EXCLUDE_ELEMENT",
+    "EnglishText": "Exclude:",
+    "Comment": " "
+  },
+  {
+    "Key": "CALENDAR_DAY",
+    "EnglishText": "Day",
+    "Comment": "used in Day/Week/Month"
+  },
+  {
+    "Key": "SUBMIT_DEFAULT",
+    "EnglishText": "Submit"
+  },
+  {
+    "Key": "DISCARD_DEFAULT",
+    "EnglishText": "Discard Changes",
+    "Comment": " "
+  },
+  {
+    "Key": "RECALCULATE_DEFAULT",
+    "EnglishText": "Recalculate"
+  },
+  {
+    "Key": "TOP",
+    "EnglishText": "Top"
+  },
+  {
+    "Key": "BOTTOM",
+    "EnglishText": "Bottom"
+  },
+  {
+    "Key": "RANK",
+    "EnglishText": "Rank"
+  },
+  {
+    "Key": "PERCENT",
+    "EnglishText": "Percent"
+  },
+  {
+    "Key": "EMAIL_SENT",
+    "EnglishText": "Email sent",
+    "Comment": " "
+  },
+  {
+    "Key": "QUALIFICATION_EXTRA",
+    "EnglishText": "Extra Input!"
+  },
+  {
+    "Key": "QUALIFICATION_INVALID",
+    "EnglishText": "Invalid Character(s)!"
+  },
+  {
+    "Key": "EPUB_OPEN_ERROR",
+    "EnglishText": "Please install iBooks to view this ePub document.",
+    "Comment": " "
+  },
+  {
+    "Key": "REFRESHING",
+    "EnglishText": "Refreshing"
+  },
+  {
+    "Key": "PROCESSING",
+    "EnglishText": "Processing"
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD",
+    "EnglishText": "MicroStrategy Cloud Personal"
+  },
+  {
+    "Key": "SELECTED",
+    "EnglishText": "Selected",
+    "Comment": "title of popover-list for search selector on iPad"
+  },
+  {
+    "Key": "SEARCH_FOR_MORE_ELEMENTS",
+    "EnglishText": "Search for more elements",
+    "Comment": "for search selector, the place holder of  search bar"
+  },
+  {
+    "Key": "NETVIZ_ITEM_SIZE",
+    "EnglishText": "Item Size"
+  },
+  {
+    "Key": "NETVIZ_EDGE_SIZE",
+    "EnglishText": "Edge Size"
+  },
+  {
+    "Key": "NETVIZ_EDGE_COLOR",
+    "EnglishText": "Edge Color"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_EDITQUEUEBUTTON",
+    "EnglishText": "Edit queue",
+    "Comment": "edit queue button"
+  },
+  {
+    "Key": "REFRESH_TIMEOUT",
+    "EnglishText": "Timeout while trying to refresh."
+  },
+  {
+    "Key": "FETCHING",
+    "EnglishText": "Fetching"
+  },
+  {
+    "Key": "NO_PERSONALIZATIONS",
+    "EnglishText": "No Personalizations"
+  },
+  {
+    "Key": "FILTER",
+    "EnglishText": "Filter"
+  },
+  {
+    "Key": "DRILLING",
+    "EnglishText": "Drilling"
+  },
+  {
+    "Key": "FETCH",
+    "EnglishText": "Fetch"
+  },
+  {
+    "Key": "ROWS",
+    "EnglishText": "rows"
+  },
+  {
+    "Key": "ENTER_CREDENTIALS",
+    "EnglishText": "Enter Credentials"
+  },
+  {
+    "Key": "FOLDER_CACHING",
+    "EnglishText": "Folder caching",
+    "Comment": " "
+  },
+  {
+    "Key": "NO_PROJECTS",
+    "EnglishText": "No Projects"
+  },
+  {
+    "Key": "NETWORK_ERROR",
+    "EnglishText": "Network error"
+  },
+  {
+    "Key": "NO_NETWORK_CONNECTIVITY",
+    "EnglishText": "No Network Connectivity"
+  },
+  {
+    "Key": "ANSWER_SIZE",
+    "EnglishText": "Please enter an answer between %@ and %@ characters long."
+  },
+  {
+    "Key": "ANSWER_TOO_SMALL",
+    "EnglishText": "Please enter an answer no shorter than %@ characters."
+  },
+  {
+    "Key": "ANSWER_TOO_LARGE",
+    "EnglishText": "Please enter an answer no longer than %@ characters."
+  },
+  {
+    "Key": "ANSWER_MISSING",
+    "EnglishText": "Please enter an answer."
+  },
+  {
+    "Key": "NUM_ANSWER_SIZE",
+    "EnglishText": "Please enter a number between %@ and %@."
+  },
+  {
+    "Key": "NUM_ANSWER_TOO_SMALL",
+    "EnglishText": "Please enter a number greater than %@."
+  },
+  {
+    "Key": "NUM_ANSWER_TOO_LARGE",
+    "EnglishText": "Please enter a number less than %@."
+  },
+  {
+    "Key": "ANSWER_NAN",
+    "EnglishText": "Please enter a valid number."
+  },
+  {
+    "Key": "DATE_ANSWER_SIZE",
+    "EnglishText": "Please enter a date between %@ and %@."
+  },
+  {
+    "Key": "DATE_ANSWER_TOO_SMALL",
+    "EnglishText": "Please enter a date greater than %@."
+  },
+  {
+    "Key": "DATE_ANSWER_TOO_LARGE",
+    "EnglishText": "Please enter a date less than %@."
+  },
+  {
+    "Key": "ANSWER_NAD",
+    "EnglishText": "Please enter a valid date"
+  },
+  {
+    "Key": "ELEM_ANSWER_SIZE",
+    "EnglishText": "Please select between %@ and %@ elements."
+  },
+  {
+    "Key": "ELEM_ANSWER_TOO_SMALL",
+    "EnglishText": "Please select no less than %@ elements."
+  },
+  {
+    "Key": "ELEM_ANSWER_TOO_LARGE",
+    "EnglishText": "Please select no more than %@ elements."
+  },
+  {
+    "Key": "ANSWER_NELEM",
+    "EnglishText": "Please select answer elements."
+  },
+  {
+    "Key": "EXPR_ANSWER_TOO_LARGE",
+    "EnglishText": "The number of elements per sub-expression exceeded the allowed maximum.",
+    "Comment": " "
+  },
+  {
+    "Key": "UNANSWERED_PROMPTS",
+    "EnglishText": "Report contains unanswered, unsupported prompts",
+    "Comment": " "
+  },
+  {
+    "Key": "TIMEOUT",
+    "EnglishText": "Timeout while trying to get server results"
+  },
+  {
+    "Key": "NO_ITEMS",
+    "EnglishText": "No items selected"
+  },
+  {
+    "Key": "SINGLE_ITEM",
+    "EnglishText": "1 item selected"
+  },
+  {
+    "Key": "MULTI_ITEMS",
+    "EnglishText": "%d items selected"
+  },
+  {
+    "Key": "CANT_CONNECT_ISERVER",
+    "EnglishText": "Unable to connect to the Intelligence Server",
+    "Comment": "This is used to convey when the IServer is inaccessible."
+  },
+  {
+    "Key": "DELETE_SELECTIONS",
+    "EnglishText": "Delete Selections"
+  },
+  {
+    "Key": "ADD_SELECTIONS",
+    "EnglishText": "Add Selections"
+  },
+  {
+    "Key": "MAKE_SELECTION",
+    "EnglishText": "Make a Selection"
+  },
+  {
+    "Key": "SELECTIONS",
+    "EnglishText": "Selections"
+  },
+  {
+    "Key": "ENTER_BARCODE",
+    "EnglishText": "Enter barcode"
+  },
+  {
+    "Key": "SELECT_DAYS",
+    "EnglishText": "Select Days"
+  },
+  {
+    "Key": "SELECT_DAY",
+    "EnglishText": "Select Day"
+  },
+  {
+    "Key": "EDIT",
+    "EnglishText": "Edit"
+  },
+  {
+    "Key": "URL_ERROR",
+    "EnglishText": "URL Error"
+  },
+  {
+    "Key": "CONFIG_RETRIEVAL",
+    "EnglishText": "Configuration Retrieval"
+  },
+  {
+    "Key": "LOCATION_SERVICES",
+    "EnglishText": "Location Services Disabled"
+  },
+  {
+    "Key": "LOCATION_SERVICES_DISABLED",
+    "EnglishText": "You currently have all location services for this device disabled. If you proceed, you will be asked to confirm whether location services should be reenabled",
+    "Comment": " "
+  },
+  {
+    "Key": "DONE",
+    "EnglishText": "Done"
+  },
+  {
+    "Key": "TODAY",
+    "EnglishText": "Today"
+  },
+  {
+    "Key": "BROWSE",
+    "EnglishText": "Browse '%@'"
+  },
+  {
+    "Key": "CURRENT_LOCATION",
+    "EnglishText": "Current Location"
+  },
+  {
+    "Key": "NO_SELECTIONS",
+    "EnglishText": "No Selections"
+  },
+  {
+    "Key": "UPDATING_LOCATION",
+    "EnglishText": "Updating Current Location..."
+  },
+  {
+    "Key": "ERROR_UPDATING_LOCATION",
+    "EnglishText": "Error while updating location"
+  },
+  {
+    "Key": "J2EE",
+    "EnglishText": "J2EE"
+  },
+  {
+    "Key": "ASP_NET",
+    "EnglishText": "ASP .Net"
+  },
+  {
+    "Key": "ERROR_LOADING",
+    "EnglishText": "Error loading"
+  },
+  {
+    "Key": "DETERMINING_LOCATION",
+    "EnglishText": "Determining location..."
+  },
+  {
+    "Key": "ERROR_GETTING_LOCATION",
+    "EnglishText": "Error while getting location data"
+  },
+  {
+    "Key": "DELETE",
+    "EnglishText": "Delete"
+  },
+  {
+    "Key": "SELECT_ALL",
+    "EnglishText": "Select All"
+  },
+  {
+    "Key": "UNSELECT_ALL",
+    "EnglishText": "Unselect All"
+  },
+  {
+    "Key": "CLOSE",
+    "EnglishText": "Close"
+  },
+  {
+    "Key": "INVALID_REPORT",
+    "EnglishText": "The project containing %@ could not be found. Please update your connectivity settings.",
+    "Comment": " "
+  },
+  {
+    "Key": "INVALID_TEMPLATE",
+    "EnglishText": "The widget properties are inconsistent with the template."
+  },
+  {
+    "Key": "CONFIGURATION_RETRIEVAL_ERROR",
+    "EnglishText": "Configuration Retrieval Error"
+  },
+  {
+    "Key": "USER_NAME",
+    "EnglishText": "User Name"
+  },
+  {
+    "Key": "VERIFY_AND_RETRY_F0R_INCORRECT_CREDENTIALS",
+    "EnglishText": "The user name or password is incorrect. Please verify and try again."
+  },
+  {
+    "Key": "MAXIMUM_COLUMNS_IN_GRID",
+    "EnglishText": "Maximum Columns in Grid"
+  },
+  {
+    "Key": "MONTH",
+    "EnglishText": "Month"
+  },
+  {
+    "Key": "SELECT_A_DATE",
+    "EnglishText": "Select a date"
+  },
+  {
+    "Key": "SELECT_DATE_TIME",
+    "EnglishText": "Select a date and time"
+  },
+  {
+    "Key": "CONNECTIVITY_ERROR",
+    "EnglishText": "Connectivity Error"
+  },
+  {
+    "Key": "CONNECTIVITY_ERROR_WEB_SERVER",
+    "EnglishText": "Could not connect to %@."
+  },
+  {
+    "Key": "CONNECTION_TIME_OUT",
+    "EnglishText": "The connection timed out.",
+    "Comment": " "
+  },
+  {
+    "Key": "NO_OBJECTS",
+    "EnglishText": "No Objects"
+  },
+  {
+    "Key": "NETWORK_ERROR_DETAIL",
+    "EnglishText": "Please check your Internet connection and try again."
+  },
+  {
+    "Key": "INCORRECT_CONFIGURATION_DETAIL",
+    "EnglishText": "Invalid default start screen. Please request a new configuration and try again.",
+    "Comment": " "
+  },
+  {
+    "Key": "INCORRECT_CONFIGURATION",
+    "EnglishText": "Incorrect Configuration"
+  },
+  {
+    "Key": "CACHE_FOLDERS",
+    "EnglishText": "Cache Folders"
+  },
+  {
+    "Key": "CLEAR_ON_CLOSE",
+    "EnglishText": "Clear on Close",
+    "Comment": " "
+  },
+  {
+    "Key": "CACHING",
+    "EnglishText": "Caching"
+  },
+  {
+    "Key": "SHARED_REPORTS",
+    "EnglishText": "Shared Reports",
+    "Comment": "This is the name of the public reports folder called \"Shared Reports\" in English."
+  },
+  {
+    "Key": "MOBILE_SERVER",
+    "EnglishText": "Mobile Server"
+  },
+  {
+    "Key": "MOBILE_SERVERS",
+    "EnglishText": "Mobile Servers"
+  },
+  {
+    "Key": "MOBILE_SERVER_PORT",
+    "EnglishText": "Mobile Server Port"
+  },
+  {
+    "Key": "MOBILE_SERVER_PATH",
+    "EnglishText": "Mobile Server Path"
+  },
+  {
+    "Key": "MOBILE_SERVER_DEFAULT",
+    "EnglishText": "Mobile Server Default"
+  },
+  {
+    "Key": "DELETE_MOBILE_SERVER",
+    "EnglishText": "Delete Mobile Server"
+  },
+  {
+    "Key": "MOBILE_SERVER_TYPE",
+    "EnglishText": "Mobile Server Type"
+  },
+  {
+    "Key": "CONNECT_TO_MOBILE_SERVER_X",
+    "EnglishText": "Connect to Mobile Server %1$@"
+  },
+  {
+    "Key": "REQUIRED_PARAMETER_MISSING",
+    "EnglishText": "Required parameter missing."
+  },
+  {
+    "Key": "PLEASE_SEE_THE_LOG_FOR_DETAILS",
+    "EnglishText": "Please see the log for details."
+  },
+  {
+    "Key": "REPORTS",
+    "EnglishText": "Reports"
+  },
+  {
+    "Key": "SHARED_LIBRARY",
+    "EnglishText": "Shared Library"
+  },
+  {
+    "Key": "HOME",
+    "EnglishText": "Home"
+  },
+  {
+    "Key": "LAST_UPDATED",
+    "EnglishText": "Last Updated:"
+  },
+  {
+    "Key": "VIEW",
+    "EnglishText": "View"
+  },
+  {
+    "Key": "NO_DATA_VALIDATION",
+    "EnglishText": "Filters exclude all data.",
+    "Comment": " "
+  },
+  {
+    "Key": "GRAPHMATRIX_VALIDARION",
+    "EnglishText": "This widget requires at least two attributes on the row axis, one attribute on the column axis and at least one metric on the column axis."
+  },
+  {
+    "Key": "MICROCHARTS_SPARKLINE",
+    "EnglishText": "Sparkline"
+  },
+  {
+    "Key": "MICROCHARTS_BAR",
+    "EnglishText": "Bar"
+  },
+  {
+    "Key": "MICROCHARTS_BULLET",
+    "EnglishText": "Bullet"
+  },
+  {
+    "Key": "MICROCHARTS_LOW",
+    "EnglishText": "Low"
+  },
+  {
+    "Key": "MICROCHARTS_MEDIUM",
+    "EnglishText": "Medium"
+  },
+  {
+    "Key": "MICROCHARTS_HIGH",
+    "EnglishText": "High"
+  },
+  {
+    "Key": "MICROCHARTS_MAX",
+    "EnglishText": "Max:"
+  },
+  {
+    "Key": "MICROCHARTS_MIN",
+    "EnglishText": "Min:"
+  },
+  {
+    "Key": "INSUFFICIENT_DATA_TO_PLOT",
+    "EnglishText": "There is not enough data to plot the graph."
+  },
+  {
+    "Key": "TIME_SERIES_INVALID_TEMPLATE_LINE_1",
+    "EnglishText": "The time series visualization requires:"
+  },
+  {
+    "Key": "TIME_SERIES_INVALID_TEMPLATE_LINE_2",
+    "EnglishText": "at least one attribute on the row axis"
+  },
+  {
+    "Key": "TIME_SERIES_INVALID_TEMPLATE_LINE_3",
+    "EnglishText": "at least one metric on the Column axis"
+  },
+  {
+    "Key": "NONSUPPORTED_GRAPH_TYPE",
+    "EnglishText": "The selected graph type is not currently supported."
+  },
+  {
+    "Key": "TOOLTIP_VALUE",
+    "EnglishText": "Value:"
+  },
+  {
+    "Key": "TOOLTIP_CATEGORY",
+    "EnglishText": "Category:"
+  },
+  {
+    "Key": "TOOLTIP_SERIES",
+    "EnglishText": "Series:"
+  },
+  {
+    "Key": "UNSUPPORTED_GRAPH_DATASET",
+    "EnglishText": "Current selection is not supported in Graph mode."
+  },
+  {
+    "Key": "ALL_ELEMENT",
+    "EnglishText": "All",
+    "Comment": " "
+  },
+  {
+    "Key": "CM_DRILL",
+    "EnglishText": "Drill Anywhere..."
+  },
+  {
+    "Key": "CM_SORT",
+    "EnglishText": "Sort"
+  },
+  {
+    "Key": "CM_SORT_ASCENDING",
+    "EnglishText": "Sort Ascending"
+  },
+  {
+    "Key": "CM_SORT_DESCENDING",
+    "EnglishText": "Sort Descending"
+  },
+  {
+    "Key": "CM_INFO",
+    "EnglishText": "Information",
+    "Comment": " "
+  },
+  {
+    "Key": "OF",
+    "EnglishText": "of"
+  },
+  {
+    "Key": "PAGES",
+    "EnglishText": "Pages"
+  },
+  {
+    "Key": "INFOWINDOW_CLOSE",
+    "EnglishText": "Close"
+  },
+  {
+    "Key": "METRICS",
+    "EnglishText": "Metrics"
+  },
+  {
+    "Key": "RANGE_SLIDER_TEXT_FROM",
+    "EnglishText": "From"
+  },
+  {
+    "Key": "RANGE_SLIDER_TEXT_TO",
+    "EnglishText": "To"
+  },
+  {
+    "Key": "DRILL_SYSTEM_HIERARCHY",
+    "EnglishText": "System hierarchy"
+  },
+  {
+    "Key": "OBJECT_NOT_FOUND",
+    "EnglishText": "Object Not Found: Please wait for the reports list to be downloaded and try again. If the error persists, the object could not be found in the project %@ or in the Reports list.",
+    "Comment": " "
+  },
+  {
+    "Key": "REPORT",
+    "EnglishText": "Report"
+  },
+  {
+    "Key": "RANGE_SLIDER_TEXT",
+    "EnglishText": "From %@ to %@"
+  },
+  {
+    "Key": "WAIT",
+    "EnglishText": "Please wait..."
+  },
+  {
+    "Key": "ERROR_TOO_MANY_COLUMNS",
+    "EnglishText": "Report %@ has more than %@ columns and is too big to be rendered. Consider redesigning the report."
+  },
+  {
+    "Key": "ERROR_TOO_MANY_CELLS",
+    "EnglishText": "Report %@ has more than %@ cells and is too big to be rendered. Consider moving some attributes to the page-by axis."
+  },
+  {
+    "Key": "ACTIONSHEET_UPDATE",
+    "EnglishText": "Update"
+  },
+  {
+    "Key": "ACTIONSHEET_PAGEBY",
+    "EnglishText": "Page By"
+  },
+  {
+    "Key": "ACTIONSHEET_GRID",
+    "EnglishText": "Grid"
+  },
+  {
+    "Key": "ACTIONSHEET_GRAPH",
+    "EnglishText": "Graph"
+  },
+  {
+    "Key": "PROMPT_TYPE_A_NUMBER",
+    "EnglishText": "Type a number"
+  },
+  {
+    "Key": "PROMPT_TYPE_BIG_NUMBER",
+    "EnglishText": "Type a big decimal number"
+  },
+  {
+    "Key": "PROMPT_TYPE_A_DATE",
+    "EnglishText": "Type a date"
+  },
+  {
+    "Key": "PROMPT_TYPE_TEXT",
+    "EnglishText": "Type text"
+  },
+  {
+    "Key": "INVALID_EXPIRED_CERTIFICATE",
+    "EnglishText": "Invalid/Expired Certificate"
+  },
+  {
+    "Key": "INVALID_EXPIRED_CERTIFICATE_MSG",
+    "EnglishText": "The certificate is unavailable, or it has expired. Do you want to download/update a new certificate?"
+  },
+  {
+    "Key": "CERTIFICATE_OPERATION_NOT_SUPPORTED_MSG",
+    "EnglishText": "The operation is not supported. Please contact your administrator."
+  },
+  {
+    "Key": "CERTIFICATE_SERVER_CONFIGURATION_INCORRECT_MSG",
+    "EnglishText": "Certificate server configuration is incorrect. Please contact your administrator."
+  },
+  {
+    "Key": "CERTIFICATE_GENERATION_FAIL_MSG",
+    "EnglishText": "Certificate generation has failed. Please contact your administrator."
+  },
+  {
+    "Key": "LOWMEMORY_WARNING",
+    "EnglishText": "There is not enough memory to render your report",
+    "Comment": " "
+  },
+  {
+    "Key": "NOT_AVAILABLE",
+    "EnglishText": "Not available"
+  },
+  {
+    "Key": "SESSION_EXPIRED",
+    "EnglishText": "The session has expired. Go back and run the report again to interact with it."
+  },
+  {
+    "Key": "TRUSTED",
+    "EnglishText": "Trusted"
+  },
+  {
+    "Key": "FOLDER_BROWSE",
+    "EnglishText": "Folder Browse"
+  },
+  {
+    "Key": "READ_PERMISSION_MISSING",
+    "EnglishText": "You do not have Read access to the object '%1$@'",
+    "Comment": "parameter is object name"
+  },
+  {
+    "Key": "CLIENTCACHE_INVALID",
+    "EnglishText": "Your view has been updated with the latest version of the document",
+    "Comment": " "
+  },
+  {
+    "Key": "EMAIL_RESULT_FAILED",
+    "EnglishText": "Result: Failed"
+  },
+  {
+    "Key": "EMAIL_RESULT_NOT_SENT",
+    "EnglishText": "Result: Not Sent"
+  },
+  {
+    "Key": "ALERT_OBJECT_NOT_FOUND_TITLE",
+    "EnglishText": "Cannot find object",
+    "Comment": " "
+  },
+  {
+    "Key": "ALERT_OBJECT_NOT_FOUND_MESSAGE",
+    "EnglishText": "The object related to this alert could not be found. Please contact your administrator."
+  },
+  {
+    "Key": "LEARN_MORE",
+    "EnglishText": "Learn More",
+    "Comment": "Selecting this option will lauch the MicroStrategy's iPad add information page on MicroStrategy corporate's web site"
+  },
+  {
+    "Key": "PUSH_NOTIFICATION",
+    "EnglishText": "Push Notification",
+    "Comment": " "
+  },
+  {
+    "Key": "BACKWARD",
+    "EnglishText": "Backward",
+    "Comment": "ipad document backward after drilling"
+  },
+  {
+    "Key": "COMPATIBILITY_ERROR_TITLE",
+    "EnglishText": "Compatibility Problem",
+    "Comment": " "
+  },
+  {
+    "Key": "COMPATIBILITY_ERROR_DETAILS",
+    "EnglishText": "The version of this application is incompatible with one or more of the MicroStrategy Mobile Server(s). Please update the application to a more recent version.",
+    "Comment": " "
+  },
+  {
+    "Key": "UNABLE_CONNECT_ISERVER",
+    "EnglishText": "Unable to connect to the Intelligence Server"
+  },
+  {
+    "Key": "LOCAL_UPDATED_ON",
+    "EnglishText": "You are viewing previously stored local data.",
+    "Comment": " "
+  },
+  {
+    "Key": "DOCUMENT_UPDATE",
+    "EnglishText": "Document updated",
+    "Comment": " "
+  },
+  {
+    "Key": "PRINT",
+    "EnglishText": "Print"
+  },
+  {
+    "Key": "SESSION_EXPIRED_IPAD",
+    "EnglishText": "Session expired",
+    "Comment": " "
+  },
+  {
+    "Key": "DRILLSESSION_EXPIRED",
+    "EnglishText": "The drill session could not be restored. Please re-execute the report."
+  },
+  {
+    "Key": "ADDTOREPORTS",
+    "EnglishText": "Add to Reports"
+  },
+  {
+    "Key": "EDITFILTER",
+    "EnglishText": "Edit Filter"
+  },
+  {
+    "Key": "RUNNING",
+    "EnglishText": "Running"
+  },
+  {
+    "Key": "CREDENTIALS_INVALID",
+    "EnglishText": "The user name or password is incorrect. Please re-enter your credentials and try again."
+  },
+  {
+    "Key": "CREDENTIALS_SERVER_EMPTY",
+    "EnglishText": "No credentials have been configured for this Mobile Server. Enter your user name and password."
+  },
+  {
+    "Key": "CREDENTIALS_PROJECT_EMPTY",
+    "EnglishText": "No credentials have been configured for this project. Enter your user name and password."
+  },
+  {
+    "Key": "CREDENTIALS_EXPIRED",
+    "EnglishText": "Your password has expired. Please re-enter your password."
+  },
+  {
+    "Key": "GET_CERTIFICATE",
+    "EnglishText": "Get Certificate"
+  },
+  {
+    "Key": "EXPIRES_X",
+    "EnglishText": "Expires: %1$@",
+    "Comment": " "
+  },
+  {
+    "Key": "CLIENT_CERTIFICATE",
+    "EnglishText": "Client Certificate",
+    "Comment": " "
+  },
+  {
+    "Key": "ENTER_CREDENTIALS_FOR_CERTIFICATE_SERVER",
+    "EnglishText": "Enter credentials for the certificate server."
+  },
+  {
+    "Key": "LEARN_MORE_URL",
+    "EnglishText": "http://www.microstrategy.com/mobile/ipad/?CID=3657&inApp=1",
+    "Comment": " "
+  },
+  {
+    "Key": "NETWORK",
+    "EnglishText": "Network"
+  },
+  {
+    "Key": "SERVER_CONNECTION_MSG",
+    "EnglishText": "Mobile Server connection quality is measured based on network latency."
+  },
+  {
+    "Key": "MOBILE_SERVER_CONNECTION",
+    "EnglishText": "Mobile Server Connection"
+  },
+  {
+    "Key": "REFRESH",
+    "EnglishText": "Refresh"
+  },
+  {
+    "Key": "NO_VISUALIZATION_FOR_LAYOUT",
+    "EnglishText": "The visualization specified for this layout cannot be found."
+  },
+  {
+    "Key": "CREDENTIALS_INCORRECT",
+    "EnglishText": "Your credentials are invalid"
+  },
+  {
+    "Key": "PROJECT_AUTHENTICATION_CANCEL",
+    "EnglishText": "The application will not connect to the project because the credentials could not be authenticated."
+  },
+  {
+    "Key": "NO_USER_PRIVILEGES_TO_MICROSTRATEGY_MOBILE_MSG",
+    "EnglishText": "The user does not have privileges to access MicroStrategy Mobile. Please contact your administrator."
+  },
+  {
+    "Key": "CERTIFICATE_SERVER_INVALID_CREDS_MSG",
+    "EnglishText": "The user name or password is incorrect. Please re-enter your credentials and try again."
+  },
+  {
+    "Key": "HEATMAP_APPLY_BUTTON",
+    "EnglishText": "Apply"
+  },
+  {
+    "Key": "HEATMAP_NONE_BUTTON",
+    "EnglishText": "None"
+  },
+  {
+    "Key": "HEATMAP_EDIT_BUTTON",
+    "EnglishText": "Edit"
+  },
+  {
+    "Key": "HEATMAP_CONTROLS_BUTTON",
+    "EnglishText": "Controls"
+  },
+  {
+    "Key": "HEATMAP_DELETED_ITEMS_BUTTON",
+    "EnglishText": "Deleted Elements"
+  },
+  {
+    "Key": "HEATMAP_TITLE_BUTTON",
+    "EnglishText": "Heat Map"
+  },
+  {
+    "Key": "HEATMAP_ENABLE_DELETED_BUTTON",
+    "EnglishText": "Enable Delete"
+  },
+  {
+    "Key": "HEATMAP_ALL_BUTTON",
+    "EnglishText": "All"
+  },
+  {
+    "Key": "HEATMAP_SELECT_RESTORE",
+    "EnglishText": "Select elements to restore"
+  },
+  {
+    "Key": "METRIC_BETWEEN",
+    "EnglishText": "Between %@ and %@"
+  },
+  {
+    "Key": "METRIC_EQUALS",
+    "EnglishText": "Equals %@"
+  },
+  {
+    "Key": "METRIC_GREATER",
+    "EnglishText": "At least but not equal to %@"
+  },
+  {
+    "Key": "METRIC_GREATER_EQUAL",
+    "EnglishText": "At least %@"
+  },
+  {
+    "Key": "METRIC_IN",
+    "EnglishText": "In %@"
+  },
+  {
+    "Key": "METRIC_IS_NOT_NULL",
+    "EnglishText": "Not Null"
+  },
+  {
+    "Key": "METRIC_IS_NULL",
+    "EnglishText": "Is null",
+    "Comment": " "
+  },
+  {
+    "Key": "METRIC_LESS",
+    "EnglishText": "At most but not equal to %@"
+  },
+  {
+    "Key": "METRIC_LESS_EQUAL",
+    "EnglishText": "At most %@"
+  },
+  {
+    "Key": "METRIC_NOT_BETWEEN",
+    "EnglishText": "Not between %@ and %@"
+  },
+  {
+    "Key": "METRIC_NOT_EQUAL",
+    "EnglishText": "Not equal to %@"
+  },
+  {
+    "Key": "METRIC_NOT_IN",
+    "EnglishText": "Not in %@"
+  },
+  {
+    "Key": "OPERATOR_AND",
+    "EnglishText": "And"
+  },
+  {
+    "Key": "OPERATOR_OR",
+    "EnglishText": "Or"
+  },
+  {
+    "Key": "OPERATOR_BETWEEN",
+    "EnglishText": "Between (enter value1;value2)",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_EQUALS",
+    "EnglishText": "Equals"
+  },
+  {
+    "Key": "OPERATOR_GREATER",
+    "EnglishText": "Greater than",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_GREATER_EQUAL",
+    "EnglishText": "Greater than or equal to",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_IN",
+    "EnglishText": "In (enter value1;value2; ...;valueN)",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_IS_NOT_NULL",
+    "EnglishText": "Is not null",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_IS_NULL",
+    "EnglishText": "Is null",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_LESS",
+    "EnglishText": "Less than",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_LESS_EQUAL",
+    "EnglishText": "Less than or equal to",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_NOT_BETWEEN",
+    "EnglishText": "Not between (enter value1;value2)",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_NOT_EQUAL",
+    "EnglishText": "Does not equal",
+    "Comment": " "
+  },
+  {
+    "Key": "OPERATOR_NOT_IN",
+    "EnglishText": "Not in (enter value1;value2; ...;valueN)",
+    "Comment": " "
+  },
+  {
+    "Key": "DATA_DOWNLOADED",
+    "EnglishText": "Data Downloaded:"
+  },
+  {
+    "Key": "RSS_READER",
+    "EnglishText": "Rss Reader"
+  },
+  {
+    "Key": "NO_RSS_CONTENT",
+    "EnglishText": "URL does not contain RSS content"
+  },
+  {
+    "Key": "SHARE_VIA",
+    "EnglishText": "Share via"
+  },
+  {
+    "Key": "TIME_1_SECOND_AGO",
+    "EnglishText": "1 second ago"
+  },
+  {
+    "Key": "TIME_N_SECONDS_AGO",
+    "EnglishText": "%d seconds ago"
+  },
+  {
+    "Key": "TIME_1_MINUTE_AGO",
+    "EnglishText": "1 minute ago"
+  },
+  {
+    "Key": "TIME_N_MINUTES_AGO",
+    "EnglishText": "%d minutes ago"
+  },
+  {
+    "Key": "TIME_1_HOUR_AGO",
+    "EnglishText": "1 hour ago"
+  },
+  {
+    "Key": "TIME_N_HOURS_AGO",
+    "EnglishText": "%d hours ago"
+  },
+  {
+    "Key": "TIME_1_DAY_AGO",
+    "EnglishText": "1 day ago"
+  },
+  {
+    "Key": "TIME_N_DAYS_AGO",
+    "EnglishText": "%d days ago"
+  },
+  {
+    "Key": "TIME_1_MONTH_AGO",
+    "EnglishText": "1 month ago"
+  },
+  {
+    "Key": "TIME_N_MONTHS_AGO",
+    "EnglishText": "%d months ago"
+  },
+  {
+    "Key": "TIME_1_YEAR_AGO",
+    "EnglishText": "1 year ago"
+  },
+  {
+    "Key": "TIME_N_YEARS_AGO",
+    "EnglishText": "%d yr. ago",
+    "Comment": " "
+  },
+  {
+    "Key": "CERTIFICATE_SERVER",
+    "EnglishText": "Certificate Server"
+  },
+  {
+    "Key": "ACTIONSHEET_WIDGET",
+    "EnglishText": "Widget"
+  },
+  {
+    "Key": "HEATMAP_RTDC",
+    "EnglishText": "Refresh to default configuration"
+  },
+  {
+    "Key": "HEATMAP_RTSC",
+    "EnglishText": "Refresh to saved configuration"
+  },
+  {
+    "Key": "HEATMAP_REFRESH",
+    "EnglishText": "Refresh"
+  },
+  {
+    "Key": "IPAD_HELP_URL",
+    "EnglishText": "https://www2.microstrategy.com/producthelp/2020/MobileAnalysis/index.htm",
+    "Comment": "need to customize the url for each language by ourselves."
+  },
+  {
+    "Key": "MSG_SESSIONLOST_OK",
+    "EnglishText": "The previous session has been closed. This view will be refreshed.",
+    "Comment": " "
+  },
+  {
+    "Key": "ZOOM",
+    "EnglishText": "Zoom"
+  },
+  {
+    "Key": "MSG_SESSIONLOST_OKCLOSE",
+    "EnglishText": "The previous session has been closed. Click OK to refresh this view."
+  },
+  {
+    "Key": "DOWNLOADING_BOOK",
+    "EnglishText": "Downloading book..."
+  },
+  {
+    "Key": "READY_TO_OPEN",
+    "EnglishText": "Ready to open"
+  },
+  {
+    "Key": "INTERACTIVE_VALIDARION2",
+    "EnglishText": "The grid needs all attributes in the rows and metrics in the columns. Please update the grid.",
+    "Comment": "Interactive Grid Widget"
+  },
+  {
+    "Key": "HTTPS_REQUIRED_MSG",
+    "EnglishText": "The HTTPS protocol is required for communication with the MicroStrategy Certificate Server.",
+    "Comment": " "
+  },
+  {
+    "Key": "CSURL_REQUIRED_MSG",
+    "EnglishText": "The server address is required for communication with the MicroStrategy Certificate Server."
+  },
+  {
+    "Key": "MONITOR_NETWORK_STATUS",
+    "EnglishText": "Monitor Network Status",
+    "Comment": "Monitor Network Status"
+  },
+  {
+    "Key": "CUBE_NOT_PUBLISHED",
+    "EnglishText": "This dashboard is not working right now because there is no data available."
+  },
+  {
+    "Key": "ACCEPT",
+    "EnglishText": "Accept"
+  },
+  {
+    "Key": "SIGN_IN",
+    "EnglishText": "Sign In",
+    "Comment": " "
+  },
+  {
+    "Key": "FULL_NAME",
+    "EnglishText": "Full Name"
+  },
+  {
+    "Key": "RETYPE_PASSWORD",
+    "EnglishText": "Re-type Password"
+  },
+  {
+    "Key": "COMMAND_CENTER_CLOSE",
+    "EnglishText": "Leave Conference"
+  },
+  {
+    "Key": "COMMAND_CENTER_CONFERENCE",
+    "EnglishText": "conference",
+    "Comment": " "
+  },
+  {
+    "Key": "CREATE_ACCOUNT",
+    "EnglishText": "Create Free Account",
+    "Comment": " "
+  },
+  {
+    "Key": "COMMAND_CENTER_STARTFAIL",
+    "EnglishText": "Start conference failed at"
+  },
+  {
+    "Key": "COMMAND_CENTER_HAVEACTIVE",
+    "EnglishText": "You already have an active conference"
+  },
+  {
+    "Key": "JOB_TITLE",
+    "EnglishText": "Job Title"
+  },
+  {
+    "Key": "COMPANY_NAME",
+    "EnglishText": "Company Name"
+  },
+  {
+    "Key": "COUNTRY",
+    "EnglishText": "Country"
+  },
+  {
+    "Key": "STATE_PROVINCE",
+    "EnglishText": "State/Province"
+  },
+  {
+    "Key": "GET_STARTED",
+    "EnglishText": "Get Started"
+  },
+  {
+    "Key": "INVITATION",
+    "EnglishText": "Invitation"
+  },
+  {
+    "Key": "COMMAND_CENTER_CANNOTLOCATE",
+    "EnglishText": "Cannot locate any conference with specified names"
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_AGREEMENT",
+    "EnglishText": "Master Subscription Agreement"
+  },
+  {
+    "Key": "SELECTED_ELEMENTS",
+    "EnglishText": "Selected Elements",
+    "Comment": "used in search selector on iphone, the title of bucket view"
+  },
+  {
+    "Key": "DELETE_ALL",
+    "EnglishText": "Delete All",
+    "Comment": "used in search selector on iphone, the title of delete button, "
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_EXPRESS_NAME",
+    "EnglishText": "MicroStrategy Express",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_AGGREE_TO",
+    "EnglishText": "By getting started, I agree to the %@",
+    "Comment": " "
+  },
+  {
+    "Key": "COMMAND_CENTER_LEAVING",
+    "EnglishText": "Leaving Conference"
+  },
+  {
+    "Key": "CONFIGURATION_NOT_APPLIED_SUCCESSFULLY",
+    "EnglishText": "The configuration could not be applied successfully."
+  },
+  {
+    "Key": "MAP_BASED_ON",
+    "EnglishText": "Map based on"
+  },
+  {
+    "Key": "UNDO_CLEAR_ALL",
+    "EnglishText": "Undo Clear All"
+  },
+  {
+    "Key": "OPTIONAL",
+    "EnglishText": "Optional"
+  },
+  {
+    "Key": "COMMAND_CENTER_LEAVINGCONFIRM",
+    "EnglishText": "Do you want to leave the conference?"
+  },
+  {
+    "Key": "COMMAND_CENTER_LEAVE",
+    "EnglishText": "Leave"
+  },
+  {
+    "Key": "COMMAND_CENTER_NOCONF",
+    "EnglishText": "No valid conference found"
+  },
+  {
+    "Key": "STYLE",
+    "EnglishText": "Style"
+  },
+  {
+    "Key": "REGIONS",
+    "EnglishText": "regions"
+  },
+  {
+    "Key": "MARKERS",
+    "EnglishText": "markers"
+  },
+  {
+    "Key": "REGION",
+    "EnglishText": "Region"
+  },
+  {
+    "Key": "OFFLINE_MODE",
+    "EnglishText": "Offline Mode"
+  },
+  {
+    "Key": "MICROSTRATEGY_INTRO_ANIM_TITLE",
+    "EnglishText": "Intro Animation",
+    "Comment": "tiltle of intro animation"
+  },
+  {
+    "Key": "MICROSTRATEGY_INTRO_ANIM_LOAD_IMAGE_ERROR",
+    "EnglishText": "The image %@ could not be found.",
+    "Comment": "cannot find image in bundle"
+  },
+  {
+    "Key": "MICROSTRATEGY_INTRO_ANIM_LOAD_TEXTURE_ERROR",
+    "EnglishText": "The image texture could not be loaded: %@.",
+    "Comment": "opengl failed to load image texture"
+  },
+  {
+    "Key": "LINK_FROM_TAB_DOCUMENT_TO_TAB_DOCUMENT_ERROR",
+    "EnglishText": "Sorry, that link from tab bar document to tab bar document is not supported right now.",
+    "Comment": "tab bar document is also called navigation document. "
+  },
+  {
+    "Key": "MICROCHARTS_METRIC_NUMBER_ERROR_MSG",
+    "EnglishText": "Metric per KPI should be at least 1 or less than or equal to the total number of metrics in the widget",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROCHARTS_TREEMODE_ATTRIBUTE_ERROR_MSG",
+    "EnglishText": "The number of attributes in tree mode must be more than 2"
+  },
+  {
+    "Key": "MICROCHARTS_TREEMODE_SUBTOTAL_ERROR_MSG",
+    "EnglishText": "Multiple subtotals at the same grouping level are not allowed"
+  },
+  {
+    "Key": "MICROCHARTS_TREEMODE_STANDARD_ERROR_MSG1",
+    "EnglishText": "Tree display mode requires that subtotals be added to the widget as follows:"
+  },
+  {
+    "Key": "MICROCHARTS_TREEMODE_STANDARD_ERROR_MSG2",
+    "EnglishText": "Subtotal grouped by <"
+  },
+  {
+    "Key": "MICROCHARTS_TREEMODE_STANDARD_ERROR_MSG3",
+    "EnglishText": "> and <"
+  },
+  {
+    "Key": "MICROCHARTS_TREEMODE_STANDARD_ERROR_MSG4",
+    "EnglishText": "Multiple subtotals at the same grouping level are not allowed."
+  },
+  {
+    "Key": "WISDOM_PLACES_LOG_OUT",
+    "EnglishText": "Log Out"
+  },
+  {
+    "Key": "BARCODE_READER_STATUS_SCANNING",
+    "EnglishText": "Scanning...",
+    "Comment": "Barcode reader"
+  },
+  {
+    "Key": "OPEN",
+    "EnglishText": "Open"
+  },
+  {
+    "Key": "TRY_AGAIN",
+    "EnglishText": "Try Again"
+  },
+  {
+    "Key": "NO_DATA_VALIDATION_FOR_VI",
+    "EnglishText": "Filter excludes all data."
+  },
+  {
+    "Key": "ENTER_CREDENTIALS_CONFIGURATION_RETRIEVAL",
+    "EnglishText": "Enter Credentials"
+  },
+  {
+    "Key": "ENTER_CREDENTIALS_SERVER",
+    "EnglishText": "Enter Credentials"
+  },
+  {
+    "Key": "ENTER_CREDENTIALS_PROJECT",
+    "EnglishText": "Enter Credentials"
+  },
+  {
+    "Key": "CREDENTIALS_SERVER_INVALID",
+    "EnglishText": "The user name or password is incorrect. Please re-enter your credentials and try again."
+  },
+  {
+    "Key": "CREDENTIALS_PROJECT_INVALID",
+    "EnglishText": "The user name or password is incorrect. Please re-enter your credentials and try again."
+  },
+  {
+    "Key": "UNDEFINED_VISUALIZATION",
+    "EnglishText": "Undefined visualization",
+    "Comment": "This is used in mobile vi document. It means this visualization has no element in its dropzone."
+  },
+  {
+    "Key": "VIDEO_TRY_AGAIN",
+    "EnglishText": "Try Again"
+  },
+  {
+    "Key": "VIDEO_UNSUPPORTED_FORMAT",
+    "EnglishText": "Unsupported file format",
+    "Comment": " "
+  },
+  {
+    "Key": "VIDEO_GENERIC_ERR",
+    "EnglishText": "The video cannot be played."
+  },
+  {
+    "Key": "MOBILE_VI_FILTERS",
+    "EnglishText": "Filters",
+    "Comment": "Filters"
+  },
+  {
+    "Key": "MOBILE_VI_EDIT_FILTERS",
+    "EnglishText": "Edit Filters",
+    "Comment": "Edit filters"
+  },
+  {
+    "Key": "MOBILE_VI_CLEAR_ALL_FILTERS",
+    "EnglishText": "Clear All Filters",
+    "Comment": "Clear all filters"
+  },
+  {
+    "Key": "MOBILE_VI_AUTO_APPLY_FILTERS",
+    "EnglishText": "Auto-apply",
+    "Comment": "Auto apply filters"
+  },
+  {
+    "Key": "SCAN_BARCODE",
+    "EnglishText": "Scan Barcode",
+    "Comment": "Scan barcode"
+  },
+  {
+    "Key": "ENTER_BARCODE2",
+    "EnglishText": "Enter Barcode",
+    "Comment": "Enter barcode"
+  },
+  {
+    "Key": "THE_CONFIGURATION_DOES_NOT_CORRESPOND_TO_THE_DEVICE_TYPE",
+    "EnglishText": "The configuration does not correspond to the device type, contact your administrator to obtain a new configuration link."
+  },
+  {
+    "Key": "VIDEO_DOWNLOAD_ERR",
+    "EnglishText": "Download Error "
+  },
+  {
+    "Key": "VIDEO_DOWNLOADING",
+    "EnglishText": "Downloading..."
+  },
+  {
+    "Key": "VIDEO_NOT_REACHABLE",
+    "EnglishText": "The video is not reachable."
+  },
+  {
+    "Key": "VI_LOADING",
+    "EnglishText": "Loading visualizations...",
+    "Comment": "This is used in layout management mode of mobileVI. It means the app is rendering visualization."
+  },
+  {
+    "Key": "GRAPH_MATRIX_PERCENT_CONTRIBUTION",
+    "EnglishText": "Percent Contribution"
+  },
+  {
+    "Key": "GRAPH_MATRIX_PIE_TOTAL_PERCENT_CONTRIBUTION",
+    "EnglishText": "Total Percent Contribution"
+  },
+  {
+    "Key": "GRAPH_MATRIX_TOTAL",
+    "EnglishText": "Total %@",
+    "Comment": " "
+  },
+  {
+    "Key": "GRAPH_MATRIX_TOTAL_OF",
+    "EnglishText": "Total of %@",
+    "Comment": " "
+  },
+  {
+    "Key": "CERTIFICATE",
+    "EnglishText": "Certificate"
+  },
+  {
+    "Key": "ISSUED_BY_X",
+    "EnglishText": "Issued by: %1$@"
+  },
+  {
+    "Key": "RETRIEVING_CERTIFICATE",
+    "EnglishText": "Retrieving Certificate",
+    "Comment": " "
+  },
+  {
+    "Key": "IPHONE_HELP_URL",
+    "EnglishText": "https://www2.microstrategy.com/producthelp/2020/MobileAnalysis/index.htm",
+    "Comment": " "
+  },
+  {
+    "Key": "TRANSACTION_SUBMIT_SUCCESS",
+    "EnglishText": "Your changes have been submitted."
+  },
+  {
+    "Key": "RETRY",
+    "EnglishText": "Retry"
+  },
+  {
+    "Key": "SESSION_ERROR",
+    "EnglishText": "Session Error"
+  },
+  {
+    "Key": "INCLUDE",
+    "EnglishText": "Include"
+  },
+  {
+    "Key": "EXCLUDE",
+    "EnglishText": "Exclude"
+  },
+  {
+    "Key": "LOCATION",
+    "EnglishText": "Location"
+  },
+  {
+    "Key": "MAP",
+    "EnglishText": "Map"
+  },
+  {
+    "Key": "SELECTION_RATE",
+    "EnglishText": "%d out of %d",
+    "Comment": "Use for selector selection to indicate the number of currently selected elements out of the total of available elements"
+  },
+  {
+    "Key": "SELECTION",
+    "EnglishText": "Selection"
+  },
+  {
+    "Key": "MARKER",
+    "EnglishText": "Marker"
+  },
+  {
+    "Key": "TEXT",
+    "EnglishText": "Text"
+  },
+  {
+    "Key": "SATELLITE",
+    "EnglishText": "Satellite"
+  },
+  {
+    "Key": "HYBRID",
+    "EnglishText": "Hybrid"
+  },
+  {
+    "Key": "CIRCLE",
+    "EnglishText": "Circle"
+  },
+  {
+    "Key": "RECTANGLE",
+    "EnglishText": "Rectangle"
+  },
+  {
+    "Key": "CLEAR",
+    "EnglishText": "Clear"
+  },
+  {
+    "Key": "DRILL",
+    "EnglishText": "Drill"
+  },
+  {
+    "Key": "SLOW_CONNECTION",
+    "EnglishText": "Slow connection to %@"
+  },
+  {
+    "Key": "NO_SERVER",
+    "EnglishText": "There are no Mobile Servers to measure latency"
+  },
+  {
+    "Key": "CONFIGURATION_UPDATED",
+    "EnglishText": "Configuration Updated"
+  },
+  {
+    "Key": "CONFIGURATION_UPDATED_MESSAGE",
+    "EnglishText": "Your configuration has been updated. Do you want to apply it now?"
+  },
+  {
+    "Key": "APPLY_NOW",
+    "EnglishText": "Apply Now"
+  },
+  {
+    "Key": "LATER",
+    "EnglishText": "Apply Later"
+  },
+  {
+    "Key": "CONFIGURATION_UPDATE_FAILED",
+    "EnglishText": "Configuration Update Failed"
+  },
+  {
+    "Key": "CONFIGURATION_UPDATE_FAILED_MESSAGE",
+    "EnglishText": "Could not retrieve a configuration from the server. Do you want to check again?"
+  },
+  {
+    "Key": "CHECK_NOW",
+    "EnglishText": "Check Now"
+  },
+  {
+    "Key": "HEATMAP_PERCENTAGE",
+    "EnglishText": "Percent of %@"
+  },
+  {
+    "Key": "HEATMAP_RANK",
+    "EnglishText": "Rank of %@"
+  },
+  {
+    "Key": "INVALID_MSG_TITLE",
+    "EnglishText": "Invalid Input"
+  },
+  {
+    "Key": "INVALID_MSG_CONTENT",
+    "EnglishText": "The value you input is invalid!"
+  },
+  {
+    "Key": "CANCEL_BUTTON",
+    "EnglishText": "Cancel"
+  },
+  {
+    "Key": "CONTINUE_BUTTON",
+    "EnglishText": "Continue"
+  },
+  {
+    "Key": "SUBMIT_CONFIRM",
+    "EnglishText": "Your changes are about to be submitted"
+  },
+  {
+    "Key": "DISCARD_CONFIRM",
+    "EnglishText": "Your changes are about to be discarded"
+  },
+  {
+    "Key": "NEW",
+    "EnglishText": "New"
+  },
+  {
+    "Key": "TOOLTIP_HIST_RANGE_START",
+    "EnglishText": "Range Start:",
+    "Comment": " "
+  },
+  {
+    "Key": "TOOLTIP_HIST_RANGE_END",
+    "EnglishText": "Range End:",
+    "Comment": " "
+  },
+  {
+    "Key": "TOOLTIP_HIST_BUCKET_RANGE",
+    "EnglishText": "Bucket Range:"
+  },
+  {
+    "Key": "TOOLTIP_HIST_BUCKET_COUNT",
+    "EnglishText": "Bucket Count:"
+  },
+  {
+    "Key": "TOOLTIP_STOCK_HIGH",
+    "EnglishText": "High:",
+    "Comment": " "
+  },
+  {
+    "Key": "TOOLTIP_STOCK_LOW",
+    "EnglishText": "Low:"
+  },
+  {
+    "Key": "TOOLTIP_STOCK_OPEN",
+    "EnglishText": "Open:"
+  },
+  {
+    "Key": "TOOLTIP_STOCK_CLOSE",
+    "EnglishText": "Close:"
+  },
+  {
+    "Key": "CALENDAR_TODAY",
+    "EnglishText": "Today"
+  },
+  {
+    "Key": "CALENDAR_WEEK",
+    "EnglishText": "Week",
+    "Comment": "used in Day/Week/Month"
+  },
+  {
+    "Key": "CALENDAR_MONTH",
+    "EnglishText": "Month",
+    "Comment": "used in Day/Week/Month"
+  },
+  {
+    "Key": "CALENDAR_RESULTS",
+    "EnglishText": "Results",
+    "Comment": "title to show rearch results"
+  },
+  {
+    "Key": "CALENDAR_NORESULTS",
+    "EnglishText": "No Results"
+  },
+  {
+    "Key": "CALENDAR_SEARCH",
+    "EnglishText": "Search"
+  },
+  {
+    "Key": "CALENDAR_ALLDAY",
+    "EnglishText": "all-day",
+    "Comment": "the event last for the whole day"
+  },
+  {
+    "Key": "DOWNLOADING_DATA",
+    "EnglishText": "Downloading Data"
+  },
+  {
+    "Key": "EMAIL",
+    "EnglishText": "Email"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE1",
+    "EnglishText": "The Calendar requires:"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE2",
+    "EnglishText": "at least two attributes on the row axis; the first attribute must be of date type"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE3",
+    "EnglishText": "any metrics to be placed on the column axis; attributes are not allowed in this axis"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE4",
+    "EnglishText": "a width of 560 pixels or more and a height of 410 pixels or more"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE5",
+    "EnglishText": "If the option to \\\"Color events by\\\" is set to \\\"Attribute Form\\\", the Calendar requires:"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE6",
+    "EnglishText": "the last attribute form of the third attribute must be a hex value"
+  },
+  {
+    "Key": "CHANGE_PASSWORD",
+    "EnglishText": "Change Password"
+  },
+  {
+    "Key": "CHANGE_PASSWORD_PROMPT_SUBTITLE",
+    "EnglishText": "You must change your password"
+  },
+  {
+    "Key": "OLD_PASSWORD",
+    "EnglishText": "Old Password"
+  },
+  {
+    "Key": "NEW_PASSWORD",
+    "EnglishText": "New Password"
+  },
+  {
+    "Key": "CONFIRM_PASSWORD",
+    "EnglishText": "Confirm Password"
+  },
+  {
+    "Key": "NEW_PWD_EQUALS_OLD_PWD_MSG",
+    "EnglishText": "Please type in a password that is different from your previous password.",
+    "Comment": " "
+  },
+  {
+    "Key": "CONFIRM_PWD_NOT_EQUAL_NEW_PWD_MSG",
+    "EnglishText": "The two passwords you typed do not match. Please try again.",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_LOGIN",
+    "EnglishText": "Email"
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_PASSWORD",
+    "EnglishText": "Password"
+  },
+  {
+    "Key": "TIMELINE_SDP_VALIDATION",
+    "EnglishText": "Empty dataset of the secondary data provider. Please update the grid."
+  },
+  {
+    "Key": "CHANGE_PASSWORD_PROMPT_SUBTITLE_FOR_EXPIRED",
+    "EnglishText": "Your password has expired"
+  },
+  {
+    "Key": "NO_FOLDER_ACCESS",
+    "EnglishText": "You do not have access to this folder."
+  },
+  {
+    "Key": "TASK_NOT_SUPPORT_BY_SERVER",
+    "EnglishText": "This operation is not supported by the Mobile Server you are connecting to. Please contact your administrator."
+  },
+  {
+    "Key": "HEATMAP_RECT_COLOR",
+    "EnglishText": "Rectangle Color:"
+  },
+  {
+    "Key": "HEATMAP_RECT_SIZE",
+    "EnglishText": "Rectangle Size:"
+  },
+  {
+    "Key": "CONNECTION_SLOW_MSG",
+    "EnglishText": "Your connection to the server is slow."
+  },
+  {
+    "Key": "CONNECTION_TOO_SLOW_MSG",
+    "EnglishText": "Your connection to the server is too slow."
+  },
+  {
+    "Key": "CONNECTION_WIFI_MSG",
+    "EnglishText": "Try a faster connection if possible.",
+    "Comment": " "
+  },
+  {
+    "Key": "HEATMAP_VALIDATION",
+    "EnglishText": "The Heat Map requires at least one attribute on the row axis to display properly; it is recommended that two metrics be placed on the column axis as well."
+  },
+  {
+    "Key": "MICROCHARTS_VALIDATE_MSG",
+    "EnglishText": "This widget requires at least two attributes on the row axis and one metric on the column axis. For KPI List mode, this widget requires exactly one attribute on the row axis and at least one metric on the column axis. This widget does not support templates with attributes in the column axis.",
+    "Comment": " "
+  },
+  {
+    "Key": "OFFLINETRANSACTION_ERROR",
+    "EnglishText": "%@\\n Your changes have been saved and will be submitted once your device is online.",
+    "Comment": " "
+  },
+  {
+    "Key": "TRANSACTION_SUBMITAT",
+    "EnglishText": "Submitted at:%@"
+  },
+  {
+    "Key": "TRANSACTION_SUBMITTODAY",
+    "EnglishText": "Submitted today at %@"
+  },
+  {
+    "Key": "TRANSACTION_SUBMITYESTERDAY",
+    "EnglishText": "Submitted yesterday at %@"
+  },
+  {
+    "Key": "TRANSACTION_SUBMITDAYSAGO",
+    "EnglishText": "Submitted %d days ago at %@"
+  },
+  {
+    "Key": "ACC_TIME_RANGE",
+    "EnglishText": "time range"
+  },
+  {
+    "Key": "ACC_ACTIVE",
+    "EnglishText": "active"
+  },
+  {
+    "Key": "ACC_BUTTON_N_OF_N",
+    "EnglishText": "button, %1$@$d of %2$@$d.",
+    "Comment": " "
+  },
+  {
+    "Key": "ACC_TIMESERIES_RANGE_START",
+    "EnglishText": "At the start of Time Series."
+  },
+  {
+    "Key": "ACC_TIMESERIES_RANGE_END",
+    "EnglishText": "At the end of Time Series."
+  },
+  {
+    "Key": "ACC_DOUBLE_TAP_LEGEND",
+    "EnglishText": "Double tap to select a legend item."
+  },
+  {
+    "Key": "ACC_TIMESERIES_RIGHT_SELECTOR",
+    "EnglishText": "Right Selector"
+  },
+  {
+    "Key": "ACC_TIMESERIES_LOCATION_START",
+    "EnglishText": "Current location at the start of Time Series."
+  },
+  {
+    "Key": "ACC_TIMESERIES_MINIMUM_SPACE",
+    "EnglishText": "Cannot reduce the selection range any further."
+  },
+  {
+    "Key": "ACC_BULLET_CHART_DES",
+    "EnglishText": "This is a Bullet chart. Actual Value is %@, target value is %@."
+  },
+  {
+    "Key": "ACC_RADIO_OPTION",
+    "EnglishText": "a radio button option"
+  },
+  {
+    "Key": "ACC_BOX_OPTION",
+    "EnglishText": "a check box option"
+  },
+  {
+    "Key": "ACC_DROPDOWN_RANGE",
+    "EnglishText": "selector, currently selected item is:"
+  },
+  {
+    "Key": "ACC_SELECTED",
+    "EnglishText": "selected"
+  },
+  {
+    "Key": "ACC_NOT_SELECTED",
+    "EnglishText": "not selected"
+  },
+  {
+    "Key": "ACC_HYPERLINK_TAP",
+    "EnglishText": "This is a hyperlink, double tap to open."
+  },
+  {
+    "Key": "ACC_COLUMN_HEADING",
+    "EnglishText": "Column Headings"
+  },
+  {
+    "Key": "ACC_TITLE",
+    "EnglishText": "Title"
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_HOR_AREA",
+    "EnglishText": "Horizontal area chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_HOR_BAR",
+    "EnglishText": "Horizontal bar chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_HOR_LINE",
+    "EnglishText": "Horizontal line chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_BOX_PLOT",
+    "EnglishText": "Boxplot chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_STOCK",
+    "EnglishText": "Stock chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_POLAR",
+    "EnglishText": "Polar chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_BUBBLE",
+    "EnglishText": "Bubble chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_3D_CATEGORY",
+    "EnglishText": "3D category chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_GANTT",
+    "EnglishText": "Gantt chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_FUNNEL",
+    "EnglishText": "Funnel chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_CATEGORY",
+    "EnglishText": "Category chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_COMBINATION",
+    "EnglishText": "Combination chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_GRID",
+    "EnglishText": "Grid chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_DEFAULT",
+    "EnglishText": "chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_DES",
+    "EnglishText": "This is a %@."
+  },
+  {
+    "Key": "ACC_GRAPH_CONTAINS_N_PIES",
+    "EnglishText": "Contains %d pies:"
+  },
+  {
+    "Key": "ACC_GRAPH_PIE_N",
+    "EnglishText": "Pie %d:"
+  },
+  {
+    "Key": "ACC_GRAPH_CONTAINS_N_POINTS",
+    "EnglishText": "The selected area contains %d points:"
+  },
+  {
+    "Key": "ACC_GRAPH_POINT_N",
+    "EnglishText": "Point %d:"
+  },
+  {
+    "Key": "ACC_MARKER_DES",
+    "EnglishText": "This is a marker."
+  },
+  {
+    "Key": "ACC_METRIC_SELECTOR_DES",
+    "EnglishText": "Metric selector, double tap to change."
+  },
+  {
+    "Key": "ACC_ATTRIBUTE_SELECTOR_DES",
+    "EnglishText": "Attribute selector, double tap to change."
+  },
+  {
+    "Key": "ACC_DOUBLE_TAP_CLICK",
+    "EnglishText": "Double tap to drill."
+  },
+  {
+    "Key": "ACC_BACK_TO_PREVIOUS_MENU",
+    "EnglishText": "Back to previous menu."
+  },
+  {
+    "Key": "ACC_ACTION",
+    "EnglishText": "Action"
+  },
+  {
+    "Key": "ACC_PREVIOUS_BUBBLE",
+    "EnglishText": "Previous Bubble"
+  },
+  {
+    "Key": "ACC_NEXT_BUBBLE",
+    "EnglishText": "Next Bubble"
+  },
+  {
+    "Key": "ACC_FULL_SCREEN",
+    "EnglishText": "Enter full screen mode."
+  },
+  {
+    "Key": "ACC_EXIT_FULL_SCREEN",
+    "EnglishText": "Exit full screen mode."
+  },
+  {
+    "Key": "PDF_BACK",
+    "EnglishText": "Back"
+  },
+  {
+    "Key": "PDF_RESUME",
+    "EnglishText": "Resume"
+  },
+  {
+    "Key": "PDF_PAGE",
+    "EnglishText": "Page %d"
+  },
+  {
+    "Key": "DELETE_TRUSTED_CERTIFICATES",
+    "EnglishText": "Delete Client Certificate",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_SHARED",
+    "EnglishText": "Recently Shared With Me"
+  },
+  {
+    "Key": "SIGNING_IN",
+    "EnglishText": "Signing in..."
+  },
+  {
+    "Key": "CONNECTION_LOST_MSG",
+    "EnglishText": "Your connection to the server may have been lost.",
+    "Comment": " "
+  },
+  {
+    "Key": "CONNECTION_CHECK_MSG",
+    "EnglishText": "Please check your network settings."
+  },
+  {
+    "Key": "FREEHAND_ANNOTATION",
+    "EnglishText": "Freehand Annotation",
+    "Comment": " "
+  },
+  {
+    "Key": "FREEHAND_ANNOTATION_MSG",
+    "EnglishText": "Move your finger across the screen to highlight items."
+  },
+  {
+    "Key": "ANCHOR_COMMENT_TO_DRAWING",
+    "EnglishText": "Anchor Comment to Drawing"
+  },
+  {
+    "Key": "ANCHOR_COMMENT_TO_DRAWING_MSG",
+    "EnglishText": "Click 'Add Comment' after drawing to anchor a comment box with the recent annotation. Move and resize to customize."
+  },
+  {
+    "Key": "EMAIL_SAVE_OR_PRINT",
+    "EnglishText": "Email, Save or Print"
+  },
+  {
+    "Key": "EMAIL_SAVE_OR_PRINT_MSG",
+    "EnglishText": "When finished, email, save or print your screen using the Quick Action button at the top right."
+  },
+  {
+    "Key": "ADD_COMMENT",
+    "EnglishText": "Add Comment"
+  },
+  {
+    "Key": "COLORS",
+    "EnglishText": "Colors"
+  },
+  {
+    "Key": "REMOVE",
+    "EnglishText": "Remove",
+    "Comment": " "
+  },
+  {
+    "Key": "INSERT_TEXT",
+    "EnglishText": "Insert Text"
+  },
+  {
+    "Key": "EDIT_TEXT",
+    "EnglishText": "Edit Text"
+  },
+  {
+    "Key": "EXIT_ANNOTATION_MODE",
+    "EnglishText": "Exit Annotation Mode"
+  },
+  {
+    "Key": "EXIT_ANNOTATION_MODE_MSG",
+    "EnglishText": "This will remove all the annotations from this screen. Are you sure?"
+  },
+  {
+    "Key": "PRINT_FAILURE",
+    "EnglishText": "Print Failure."
+  },
+  {
+    "Key": "ERROR_IN_SAVING_ANNOTATIONS",
+    "EnglishText": "Error in saving annotations"
+  },
+  {
+    "Key": "ANNOTATIONS_SAVED_MSG",
+    "EnglishText": "The screen has been saved in your album."
+  },
+  {
+    "Key": "SAVE_TO_PHOTOS",
+    "EnglishText": "Save to Photos"
+  },
+  {
+    "Key": "PRINT_SCREEN",
+    "EnglishText": "Print Screen"
+  },
+  {
+    "Key": "ANNOTATE_AND_SHARE",
+    "EnglishText": "Annotate and Share"
+  },
+  {
+    "Key": "RED",
+    "EnglishText": "Red"
+  },
+  {
+    "Key": "ORANGE",
+    "EnglishText": "Orange"
+  },
+  {
+    "Key": "GREEN",
+    "EnglishText": "Green"
+  },
+  {
+    "Key": "BLUE",
+    "EnglishText": "Blue"
+  },
+  {
+    "Key": "INVALID_GRAPHMATRIX_PROPERTIES",
+    "EnglishText": "The Graph Matrix requires:\\n\\t-at least one attribute to be placed on the row or column axis.\\n\\t-all metrics to be placed on the column axis, below any attributes."
+  },
+  {
+    "Key": "IG_ATTRIBUTE_MISSING_ERR",
+    "EnglishText": "The attributes required to render this widget were not found on the template. Please make sure the attribute names meet the widget requirements",
+    "Comment": " "
+  },
+  {
+    "Key": "ANNOTATIONS_SAVED",
+    "EnglishText": "Annotations Saved"
+  },
+  {
+    "Key": "ACC_INACTIVE",
+    "EnglishText": "inactive"
+  },
+  {
+    "Key": "ACC_SELECTED_RANGE",
+    "EnglishText": "Selected range: %@ to %@. Swipe left or right to move the range."
+  },
+  {
+    "Key": "ACC_LEGEND",
+    "EnglishText": "Legend"
+  },
+  {
+    "Key": "ACC_TIMESERIES_LEFT_SELECTOR",
+    "EnglishText": "Left Selector"
+  },
+  {
+    "Key": "ACC_TIMESERIES_SWIPE_SELECTOR",
+    "EnglishText": "Swipe left or right to move the selector."
+  },
+  {
+    "Key": "ACC_TIMESERIES_LOCATION_END",
+    "EnglishText": "Current location at the end of Time Series."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_VER_AREA",
+    "EnglishText": "Vertical area chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_VER_BAR",
+    "EnglishText": "Vertical Bar chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_VER_LINE",
+    "EnglishText": "Vertical Line chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_BAR",
+    "EnglishText": "Bar chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_PIE",
+    "EnglishText": "Pie chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_SCATTER",
+    "EnglishText": "Scatter chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_RADAR",
+    "EnglishText": "Radar chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_HISTOGRAM",
+    "EnglishText": "Histogram chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_3D_SCATTER",
+    "EnglishText": "3D scatter chart."
+  },
+  {
+    "Key": "ACC_GRAPH_TYPE_GAUGE",
+    "EnglishText": "Gauge chart."
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_FAILTODEFER",
+    "EnglishText": "Failed to defer [%@]:\\n%@",
+    "Comment": "failed to defer a report"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_FAILTODELETE",
+    "EnglishText": "Failed to delete deferred reports:%@",
+    "Comment": "failed to delete reports"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_PROMPTCANCELBUTTON",
+    "EnglishText": "Cancel",
+    "Comment": "cancel button text on deferred execution prompt"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_PROMPTDEFERBUTTON",
+    "EnglishText": "View Later",
+    "Comment": "defer button text on deferred execution prompt"
+  },
+  {
+    "Key": "FACEBOOK",
+    "EnglishText": "Facebook"
+  },
+  {
+    "Key": "DOWNLOAD",
+    "EnglishText": "Download",
+    "Comment": " "
+  },
+  {
+    "Key": "DOWNLOADED",
+    "EnglishText": "Downloaded",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_EXPRESS",
+    "EnglishText": "MicroStrategy Cloud"
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_EXPRESS_LOGOUT",
+    "EnglishText": "Log out"
+  },
+  {
+    "Key": "FEATURE_NOT_AVAILABLE",
+    "EnglishText": "Feature not available"
+  },
+  {
+    "Key": "CALENDAR_THIS_WEEK",
+    "EnglishText": "This Week",
+    "Comment": " "
+  },
+  {
+    "Key": "NETVIZ_CNT_OF",
+    "EnglishText": "Count of %@",
+    "Comment": " "
+  },
+  {
+    "Key": "NETVIZ_AVG_OF",
+    "EnglishText": "Average of %@"
+  },
+  {
+    "Key": "NETVIZ_SUM_OF",
+    "EnglishText": "Sum of %@"
+  },
+  {
+    "Key": "NETVIZ_MAX_OF",
+    "EnglishText": "Max of %@"
+  },
+  {
+    "Key": "NETVIZ_MIN_OF",
+    "EnglishText": "Min of %@"
+  },
+  {
+    "Key": "SHARE",
+    "EnglishText": "Share",
+    "Comment": "Share with email"
+  },
+  {
+    "Key": "SAVE",
+    "EnglishText": "Save",
+    "Comment": "Save to photos"
+  },
+  {
+    "Key": "COMMENT",
+    "EnglishText": "Comment",
+    "Comment": "Comment label in toolbar."
+  },
+  {
+    "Key": "REACH_MAX_COMMENT_LIMIT_MSG",
+    "EnglishText": "You can only add up to %d comments.",
+    "Comment": "the maximum number for comment box user can add."
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_FOLDER_NAME",
+    "EnglishText": "Report Queue",
+    "Comment": "Deferred Execution folder's name"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_FOLDER_DESCRIPTION",
+    "EnglishText": "Open folder to view report queue",
+    "Comment": "descriptons for deferrede execution folder"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_EXECUTING",
+    "EnglishText": "Executing...",
+    "Comment": "Deferred execution report status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_WAITPROMPTANSWER",
+    "EnglishText": "This report requires more input from you.",
+    "Comment": "Deferred execution report status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_READYTODOWNLOAD",
+    "EnglishText": "Waiting for download...",
+    "Comment": "Deferred execution report status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_DOWNLOADING",
+    "EnglishText": "Downloading...",
+    "Comment": "Deferred execution report status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_FAILED",
+    "EnglishText": "Failed.",
+    "Comment": "Deferred execution report status"
+  },
+  {
+    "Key": "FEATURE_NOT_AVAILABLE_MSG",
+    "EnglishText": "For security purposes this feature has been disabled by your administrator",
+    "Comment": " "
+  },
+  {
+    "Key": "MODIFIED",
+    "EnglishText": "Modified:",
+    "Comment": " "
+  },
+  {
+    "Key": "APPLY",
+    "EnglishText": "Apply",
+    "Comment": "Apply button to apply the filter"
+  },
+  {
+    "Key": "SEARCH",
+    "EnglishText": "Search",
+    "Comment": "Search something"
+  },
+  {
+    "Key": "SELECT_TIME",
+    "EnglishText": "Select Time",
+    "Comment": "Select time for datetime calendar style prompt"
+  },
+  {
+    "Key": "SELECT_DAY_TIME",
+    "EnglishText": "Select Day and Time",
+    "Comment": "Select Day and Time"
+  },
+  {
+    "Key": "IMAGELAYOUT_EMPTY_DATASET",
+    "EnglishText": "No data returned for this view, this might be because the applied filter excludes all data."
+  },
+  {
+    "Key": "IMAGELAYOUT_INVALID_HTML_DATA",
+    "EnglishText": "Odd number of coordinates encountered. An even number is required, as X Y X Y X Y, and so on."
+  },
+  {
+    "Key": "IMAGELAYOUT_HTML_PARSING_ERROR",
+    "EnglishText": "Error occurred while parsing the HTML file (Image Map file)"
+  },
+  {
+    "Key": "IMAGELAYOUT_HTML_FILE_NOT_SPECIFIED",
+    "EnglishText": "HTML file not specified"
+  },
+  {
+    "Key": "IMAGELAYOUT_HTML_NO_DATA_FOUND",
+    "EnglishText": "HTML file does not contain tags matching report's attribute"
+  },
+  {
+    "Key": "PROMPT_GLOBAL_ERROR_MESSAGE",
+    "EnglishText": "One or more prompt answers have errors. Check your answers and try again.",
+    "Comment": "Error message to prompt user there are some prompt answers with errors when user tap \"Done\" and ask user to check answers and try again."
+  },
+  {
+    "Key": "PREVIOUS_LOCATION",
+    "EnglishText": "Previous Location",
+    "Comment": "Previous Location (not current one)"
+  },
+  {
+    "Key": "PROMPT_GEOLOCATION_IN",
+    "EnglishText": "in %@",
+    "Comment": "in a location"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_WAITINGFOREXECUTION",
+    "EnglishText": "Waiting for execution...",
+    "Comment": "Deferred execution report status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_EXECUTIONFAILED",
+    "EnglishText": "Execution failed.",
+    "Comment": "deferred execution status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_DOWNLOADFAILED",
+    "EnglishText": "Download failed.",
+    "Comment": "deferred execution status"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_TITLE",
+    "EnglishText": "Report Queue Notification",
+    "Comment": "Deferred execution notification dialog title"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_READYTOVIEW",
+    "EnglishText": "The report \\\"%@\\\" in project \\\"%@\\\" is ready to view.",
+    "Comment": "deferred execution notification: report is ready to view"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_MUTLIREADYTOVIEW",
+    "EnglishText": "%d reports are ready to view.",
+    "Comment": "Deferred execution notification: multiple reports are ready to view"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_VIEWREPORTBUTTON",
+    "EnglishText": "View",
+    "Comment": "Deferred execution notification: view report button"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_VIEWQUEUEBUTTON",
+    "EnglishText": "View queue",
+    "Comment": "Deferred execution notification: view queue button"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_CANCELVIEWBUTTON",
+    "EnglishText": "Not now",
+    "Comment": "Deferred execution notification: cancel button"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_INBOXFULL",
+    "EnglishText": "Report queue is full. \\nRemove unneeded reports from report queue or contact administrator.",
+    "Comment": "Deferred execution notification: inbox is full"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_FAILEDTODEFERREPORT",
+    "EnglishText": "The report \\\"%@\\\" could not be sent to the queue.",
+    "Comment": "Deferred Execution: failed to add a report"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_FAILEDGENERAL",
+    "EnglishText": "The report \\\"%@\\\" could not be executed successfully.",
+    "Comment": "Deferred execution notification: general failure"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_VIEWERRORBUTTON",
+    "EnglishText": "View error",
+    "Comment": "Deferred execution notification: view error details"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_HAVEFINISHEDDEFER",
+    "EnglishText": "You have an existing version cached on %@. Updating may take a long time.",
+    "Comment": "Deferred execution notification: an exsiting deferred execution is finished"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_REEXECUTEBUTTON",
+    "EnglishText": "Re-Execute",
+    "Comment": "Deferred execution notification: re-execute button"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_VIEWCACHEBUTTON",
+    "EnglishText": "View cache",
+    "Comment": "Defered execution notification: view cache button"
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_HAVERUNNINGDEFER",
+    "EnglishText": "You have a pending execution of \\\"%@\\\".",
+    "Comment": "Deferred execution notification: have a running deferred execution."
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_NTF_VIEWSTATUSBUTTON",
+    "EnglishText": "View status",
+    "Comment": "Deferred execution notification: view status button"
+  },
+  {
+    "Key": "SELECTED_NUMBER",
+    "EnglishText": "Selected (%d)",
+    "Comment": "In filter panel show \"Selected (number)\"."
+  },
+  {
+    "Key": "MICROSTRATEGY_DEFEREXEC_REPORT_STATUS_FAILED_LANDSCAPE_LIST_DESC",
+    "EnglishText": "Tap to try again.",
+    "Comment": "Deferred executon: tap to try again"
+  },
+  {
+    "Key": "GET_STARTED_NOW",
+    "EnglishText": "Get Started Now"
+  },
+  {
+    "Key": "USER_PRIVILEGE_MISSING_ERROR",
+    "EnglishText": "You do not have the necessary privileges to access this resource. Please contact the MicroStrategy Server Administrator."
+  },
+  {
+    "Key": "RETAKE",
+    "EnglishText": "Retake"
+  },
+  {
+    "Key": "COMMAND_CENTER_START_CONFERENCE",
+    "EnglishText": "Start Conference"
+  },
+  {
+    "Key": "COMMAND_CENTER_JOIN_CONFERENCE",
+    "EnglishText": "Join Conference"
+  },
+  {
+    "Key": "COMMAND_CENTER_CREATE_A_CONFERENCE",
+    "EnglishText": "Create a Conference"
+  },
+  {
+    "Key": "COMMAND_CENTER_CONFERENCE_NAME",
+    "EnglishText": "Conference Name"
+  },
+  {
+    "Key": "COMMAND_CENTER_PASSCODE",
+    "EnglishText": "Passcode"
+  },
+  {
+    "Key": "COMMAND_CENTER_CHOOSE_A_CONFERENCE",
+    "EnglishText": "Choose a Conference"
+  },
+  {
+    "Key": "MORE",
+    "EnglishText": "More"
+  },
+  {
+    "Key": "IMAGELAYOUT_HTML_FILE_NOT_FOUNDED",
+    "EnglishText": "The Image Map / Shape file cannot be found"
+  },
+  {
+    "Key": "IMAGELAYOUT_BACKGROUNDIMAGE_NOT_FOUND",
+    "EnglishText": "The background image cannot be found"
+  },
+  {
+    "Key": "IMAGELAYOUT_INVALID_DATESET_FORMAT1",
+    "EnglishText": "The Image Layout requires:"
+  },
+  {
+    "Key": "IMAGELAYOUT_INVALID_DATESET_FORMAT2",
+    "EnglishText": "-at least one attribute on the row axis"
+  },
+  {
+    "Key": "IMAGELAYOUT_INVALID_DATESET_FORMAT3",
+    "EnglishText": "-all metrics to be placed on the column axis"
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_EXPRESS_LOGIN_MESSAGE_TWO",
+    "EnglishText": "Sign in with your existing MicroStrategy Express account.",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROSTRATEGY_CLOUD_SIGNIN_WITH_FACEBOOK",
+    "EnglishText": "Sign In with Facebook",
+    "Comment": " "
+  },
+  {
+    "Key": "PHONE_NUMBER",
+    "EnglishText": "Phone Number"
+  },
+  {
+    "Key": "DELIVER_DO_NOT_HAVE_PRIVILEGE",
+    "EnglishText": "The dashboard you requested has been removed from MicroStrategy Express or its privileges have been changed.",
+    "Comment": " "
+  },
+  {
+    "Key": "NO_ELEMENT",
+    "EnglishText": "No element",
+    "Comment": "The string is used to show that there is no element in the standalone selector."
+  },
+  {
+    "Key": "NO_ELEMENTS",
+    "EnglishText": "No element"
+  },
+  {
+    "Key": "LOG_OUT_CONFIRM",
+    "EnglishText": "Are you sure you want to log out?"
+  },
+  {
+    "Key": "THIS_OPT_CANNOT_BE_PERFORMED_IN_OFFLINE_MODE",
+    "EnglishText": "This operation cannot be performed in offline mode."
+  },
+  {
+    "Key": "CANNOT_ADD_PROJ_DUE_TO_AUTH",
+    "EnglishText": "Projects cannot be added due to incorrect authentication. Please try again."
+  },
+  {
+    "Key": "COULD_NOT_CONNECT_TO_X",
+    "EnglishText": "Could not connect to %@",
+    "Comment": "%@ will be replaced by server name"
+  },
+  {
+    "Key": "NEW_PROJECT",
+    "EnglishText": "New Project"
+  },
+  {
+    "Key": "CONTINUE_CONFIRMATION",
+    "EnglishText": "Are you sure you want to continue?"
+  },
+  {
+    "Key": "PHOTO_UPLOADER_ATTRIBUTE_ERROR",
+    "EnglishText": "Photo Uploader needs at least two editable attribute forms (photo url and caption) and one editable metric (count of uploaded photos) to render."
+  },
+  {
+    "Key": "PHOTO_UPLOADER_LIMIT_REACHED",
+    "EnglishText": "You have reached the upload limit for photos."
+  },
+  {
+    "Key": "CROP",
+    "EnglishText": "Crop",
+    "Comment": "Cut the image to the size user wanted"
+  },
+  {
+    "Key": "USE",
+    "EnglishText": "Use",
+    "Comment": "Use a image for uploading after some operation"
+  },
+  {
+    "Key": "WRITE_CAPTION",
+    "EnglishText": "Write a caption...",
+    "Comment": "Write some comments"
+  },
+  {
+    "Key": "TAKE_NEW_PHOTO",
+    "EnglishText": "Take New Photo"
+  },
+  {
+    "Key": "CHOOSE_EXISTING_PHOTO",
+    "EnglishText": "Choose Existing Photo"
+  },
+  {
+    "Key": "TIMELINE_TEMPLATE_REQUIREMENTS",
+    "EnglishText": "The Timeline requires one main template; optionally, two additional templates designated as Secondary Data Providers in MicroStrategy Web could be provided",
+    "Comment": " "
+  },
+  {
+    "Key": "CLEAR_CACHED_DATA",
+    "EnglishText": "Clear Cached Data",
+    "Comment": "Button Text and Title for Clear Cached Data alert. "
+  },
+  {
+    "Key": "ELEMENT",
+    "EnglishText": "element"
+  },
+  {
+    "Key": "ELEMENTS",
+    "EnglishText": "elements"
+  },
+  {
+    "Key": "PROCESSING_DOWNLOADED_FILES",
+    "EnglishText": "Processing downloaded files...",
+    "Comment": "Processing downloaded files alert title."
+  },
+  {
+    "Key": "CLEAR_ALL_CONFIRM_MESSAGE",
+    "EnglishText": "Are you sure you want to clear all selections?",
+    "Comment": "This message is shown when user click on \"Clear All\" button on search box selector. It is used to confirm this clear all selection operation."
+  },
+  {
+    "Key": "CONTENT_UPDATED_WITHOUT_REMAINING",
+    "EnglishText": "The Content of your application has been updated. %@ file(s) downloaded.",
+    "Comment": " "
+  },
+  {
+    "Key": "PHOTO_VIEWER_NOT_FOUND",
+    "EnglishText": "Photo Not Found"
+  },
+  {
+    "Key": "SURVEY_TAP_TO_EDIT",
+    "EnglishText": "Tap to edit"
+  },
+  {
+    "Key": "SURVEY_TAP_TO_CHOOSE",
+    "EnglishText": "Tap to choose"
+  },
+  {
+    "Key": "SURVEY_TAP_TO_SELECT",
+    "EnglishText": "Tap to select"
+  },
+  {
+    "Key": "SURVEY_REQUIRED_INPUTS",
+    "EnglishText": "One or more required inputs have not been modified."
+  },
+  {
+    "Key": "AIRPLAY_NOT_READY",
+    "EnglishText": "To view this document, enable Airplay mirroring on an external display"
+  },
+  {
+    "Key": "SURVEY_ANSWERS_SELECTED",
+    "EnglishText": "answers selected"
+  },
+  {
+    "Key": "NO_PENDING_TRANSACTIONS",
+    "EnglishText": "You have not made any changes to submit."
+  },
+  {
+    "Key": "INVALID_CHARACTER",
+    "EnglishText": "Invalid character(s)!"
+  },
+  {
+    "Key": "TRANSACTION_QUEUE",
+    "EnglishText": "Transaction Queue"
+  },
+  {
+    "Key": "PENDING",
+    "EnglishText": "Pending"
+  },
+  {
+    "Key": "PENDING_TRANSACTION_EXISTED",
+    "EnglishText": "Pending Transaction Exists"
+  },
+  {
+    "Key": "FIELD_SHOULD_BETWEEN_CHARACTERS",
+    "EnglishText": "This field should be between %d and %d characters"
+  },
+  {
+    "Key": "FIELD_SHOULD_BE_BETWEEN",
+    "EnglishText": "This field should be between\\n %@ and %@"
+  },
+  {
+    "Key": "FIELD_SHOULD_BE_LESS",
+    "EnglishText": "This field should be less than or equal to %@"
+  },
+  {
+    "Key": "FIELD_SHOULD_BE_GREATER",
+    "EnglishText": "This field should be greater than or equal to %@"
+  },
+  {
+    "Key": "PHONE_NUMBER_DIGITS",
+    "EnglishText": "A telephone number must contain at least 10 digits"
+  },
+  {
+    "Key": "PHONE_NUMBER_INVALID_CHARACTERS",
+    "EnglishText": "The telephone number contains invalid characters"
+  },
+  {
+    "Key": "EMAIL_MISSING_AT_SIGN",
+    "EnglishText": "The email address is missing an at sign (@)"
+  },
+  {
+    "Key": "EMAIL_MISSING_PERIOD",
+    "EnglishText": "The email address is missing a period on the domain"
+  },
+  {
+    "Key": "ZIP_CODE_DIGITS",
+    "EnglishText": "Your zip code must be 5 digits or 5+4 digits."
+  },
+  {
+    "Key": "SOCIAL_NUMBER_DIGITS",
+    "EnglishText": "A Social Security Number must be 9 digits"
+  },
+  {
+    "Key": "FB_LAST_MODIFIED_ON",
+    "EnglishText": "Last modified on"
+  },
+  {
+    "Key": "FB_LAST_UPDATED_ON",
+    "EnglishText": "Last updated on"
+  },
+  {
+    "Key": "FB_RECENT_SEARCHES",
+    "EnglishText": "Recent Searches"
+  },
+  {
+    "Key": "FB_CLEAR",
+    "EnglishText": "Clear"
+  },
+  {
+    "Key": "SHOW_TIMESTAMP_OPTIONS",
+    "EnglishText": "Show Timestamp Options"
+  },
+  {
+    "Key": "USHER_SECTION_SUBTITLE_NO_PRIVILEGES",
+    "EnglishText": "You do not have the necessary privileges to access this resource.",
+    "Comment": " "
+  },
+  {
+    "Key": "DATACLOUD_TEMPLATE_ERROR",
+    "EnglishText": "The widget requires at least one attribute on the row axis, and one metric on the column axis."
+  },
+  {
+    "Key": "LOCAL_TXN_NOT_SUBMITTED_UNSUPPORTED_OBJECT",
+    "EnglishText": "Transaction will not be submitted to local dataset due to unsupported object types like dataset joining, derived element and etc.",
+    "Comment": " "
+  },
+  {
+    "Key": "OFFLINE_MANIPULATION_CANNOT_PERFORM_UNSUPPORTED_OBJECT",
+    "EnglishText": "Offline manipulation cannot be performed due to unsupported object types with smart client logic like dataset joining, derived element and etc."
+  },
+  {
+    "Key": "INTEGRATED_AUTHENTICATION",
+    "EnglishText": "Integrated Authentication",
+    "Comment": "a type of authentication, used in Settings UI."
+  },
+  {
+    "Key": "DESELECT_ALL",
+    "EnglishText": "Deselect All"
+  },
+  {
+    "Key": "LAST_UPDATED_ON",
+    "EnglishText": "Last Updated On",
+    "Comment": "Last Updated On in the file item in Tile View"
+  },
+  {
+    "Key": "DOC_ACCESS_REQUIRES_AUTH",
+    "EnglishText": "Access to this document requires authentication",
+    "Comment": "Displayed on top of the touch id dialog when the user opens a document protected with touch"
+  },
+  {
+    "Key": "EMPTY",
+    "EnglishText": "Empty"
+  },
+  {
+    "Key": "DESC_NETVIZ_ERROR_REQUIREMENT_1",
+    "EnglishText": "The Network Visualization requires:"
+  },
+  {
+    "Key": "DESC_NETVIZ_ERROR_REQUIREMENT_2",
+    "EnglishText": "- At least one attribute on the row axis."
+  },
+  {
+    "Key": "DESC_NETVIZ_ERROR_REQUIREMENT_3",
+    "EnglishText": "- All metrics to be placed on the column axis."
+  },
+  {
+    "Key": "DOC_CANNOT_BE_VIEWED_PLEASE_UPDATE_DEVICE",
+    "EnglishText": "Document cannot be viewed on this version of iOS. Please update your device to the latest version."
+  },
+  {
+    "Key": "DOC_ACCESS_REQUIRES_PASSCODE_PLEASE_ENABLE_IT",
+    "EnglishText": "Access to this document requires a device pass code. Please enable pass code through system settings."
+  },
+  {
+    "Key": "DEVICE_PASSCODE_NEEDED_APP_WILL_RESET",
+    "EnglishText": "Device pass code needed to ensure data security. Application will now reset."
+  },
+  {
+    "Key": "SECURITY",
+    "EnglishText": "Security"
+  },
+  {
+    "Key": "AUTH_REQUIRED_TO_PROCEED",
+    "EnglishText": "Authentication Required to Proceed. Do you want to continue login?",
+    "Comment": " "
+  },
+  {
+    "Key": "PLEASE_AUTH_TO_PROCEED",
+    "EnglishText": "Please authenticate to proceed"
+  },
+  {
+    "Key": "PHOTO_VIEWER_REQUIREMENT",
+    "EnglishText": "The Image Viewer requires at least one attribute on the row axis, which should contain the path (url) to an image file. No attributes should be placed on the column axis."
+  },
+  {
+    "Key": "AIRPLAY_READY",
+    "EnglishText": "To view this document on an external display, tap Play"
+  },
+  {
+    "Key": "MICROCHARTS_BULLET_METRIC_INSUFFICIENT",
+    "EnglishText": "Insufficient data to plot the graph",
+    "Comment": " "
+  },
+  {
+    "Key": "MICROCHARTS_BULLET_METRIC_OUT_OF_RANGE",
+    "EnglishText": "MSIMetric of Bullet is out of the max graph range"
+  },
+  {
+    "Key": "SURVEY_INVALIDATE_INPUTS_WARNING",
+    "EnglishText": "Please modify the invalid input before submit the survey."
+  },
+  {
+    "Key": "SURVEY_INVALIDATE_INPUTS",
+    "EnglishText": "Invalid input"
+  },
+  {
+    "Key": "MOBILE_LOGIN_PROMPT_AUTH_REQUIRED_MSG",
+    "EnglishText": "Authorization required to proceed"
+  },
+  {
+    "Key": "CLEAR_CACHES_ON_CLOSE",
+    "EnglishText": "Clear Caches on Close"
+  },
+  {
+    "Key": "EMPTY_PERIOD",
+    "EnglishText": "Empty.",
+    "Comment": "used as empty UI title to tell user there is no data."
+  },
+  {
+    "Key": "SELECT",
+    "EnglishText": "Select"
+  },
+  {
+    "Key": "REQUIRED_INPUT_MESSAGE",
+    "EnglishText": "One or more required inputs have not been modified or are empty."
+  },
+  {
+    "Key": "FIELD_SHOULD_BE_CHARACTERS",
+    "EnglishText": "This field should be %d characters"
+  },
+  {
+    "Key": "SOCIAL_NUMBER_INVALID_CHARACTERS",
+    "EnglishText": "The Social Security Number has invalid characters"
+  },
+  {
+    "Key": "EMAIL_INVALID",
+    "EnglishText": "The email address is invalid"
+  },
+  {
+    "Key": "SOCIAL_NUMBER_INVALID",
+    "EnglishText": "Your Social Security Number is invalid"
+  },
+  {
+    "Key": "SIGNATURE_CONTINUE_ALERT",
+    "EnglishText": "Continuing will erase the existing signature. Do you want to proceed?"
+  },
+  {
+    "Key": "BARCODE_TAP_TO_SCAN",
+    "EnglishText": "Tap to scan"
+  },
+  {
+    "Key": "PENDING_TRANSACTION_RESTORED",
+    "EnglishText": "Pending submission has been restored for modification."
+  },
+  {
+    "Key": "FAILED_TRANSACTION_RESTORED",
+    "EnglishText": "This submission failed. Please try again."
+  },
+  {
+    "Key": "ALL_REQUESTS",
+    "EnglishText": "All Requests"
+  },
+  {
+    "Key": "TIMELINE_NODATA_RETURN",
+    "EnglishText": "No data returned for this view"
+  },
+  {
+    "Key": "TIMELINE_WIDTH_INVALID",
+    "EnglishText": "The Timeline requires a width of 512 pixels or more"
+  },
+  {
+    "Key": "PASSWORD_DID_NOT_MATCH",
+    "EnglishText": "Passwords did not match. Please try again."
+  },
+  {
+    "Key": "INVALID_PASSWORD",
+    "EnglishText": "Invalid Password."
+  },
+  {
+    "Key": "TOO_MANY_FAILED_ATTEMPTS",
+    "EnglishText": "Too many failed attempts."
+  },
+  {
+    "Key": "APPLICATION_RESTORED_TO_ORIGINAL_CONFIGURATION",
+    "EnglishText": "Your application will be restored to the original configuration."
+  },
+  {
+    "Key": "ONE_ATTEMPT_REMAINS",
+    "EnglishText": "1 attempt remains"
+  },
+  {
+    "Key": "ATTEMPTS_REMAIN",
+    "EnglishText": "attempts remain"
+  },
+  {
+    "Key": "BEFORE_APPLICATION_RESTORE",
+    "EnglishText": "before the application data is restored to the original configuration."
+  },
+  {
+    "Key": "CONFIRM_YOUR_NEW_PASSWORD",
+    "EnglishText": "Confirm your new password"
+  },
+  {
+    "Key": "CREATE_APP_PASSWORD",
+    "EnglishText": "Create app password"
+  },
+  {
+    "Key": "CONFIRM_YOUR_PASSWORD",
+    "EnglishText": "Confirm your password"
+  },
+  {
+    "Key": "CREATE_YOUR_NEW_PASSWORD",
+    "EnglishText": "Create your new password"
+  },
+  {
+    "Key": "CREATE_YOUR_PASSWORD",
+    "EnglishText": "Create your password"
+  },
+  {
+    "Key": "ATLEAST_ONE_NUMERIC_CHARACTER",
+    "EnglishText": "At least one numeric character"
+  },
+  {
+    "Key": "ATLEAST_ONE_SPECIAL_CHARACTER",
+    "EnglishText": "At least one special character ($,@,%, ...)"
+  },
+  {
+    "Key": "ATLEAST_ONE_CAPITAL_LETTER",
+    "EnglishText": "At least one capital letter"
+  },
+  {
+    "Key": "ATLEAST_CHARACTER",
+    "EnglishText": "At least %d characters",
+    "Comment": " "
+  },
+  {
+    "Key": "DEVICE_PASSWORD_INFORMATION",
+    "EnglishText": "The app password will be used to access the application and securely store your data"
+  },
+  {
+    "Key": "ENTER_YOUR_CURRENT_PASSWORD",
+    "EnglishText": "Enter your current password"
+  },
+  {
+    "Key": "ENTER_PASSWORD",
+    "EnglishText": "Enter password"
+  },
+  {
+    "Key": "ENTER_YOUR_PASSWORD",
+    "EnglishText": "Enter your password"
+  },
+  {
+    "Key": "REMAIN_BEFORE_REENTERING_PASSWORD",
+    "EnglishText": "remain before re-entering password."
+  },
+  {
+    "Key": "SECS",
+    "EnglishText": "secs"
+  },
+  {
+    "Key": "AUTHENTICATION_REQUIRED",
+    "EnglishText": "Authentication Required",
+    "Comment": "please use iPhone Safari to open a https website that needs credential and you can find an AlertView pop up, iOS has its translation to all the languages so I think we can just follow their translation."
+  },
+  {
+    "Key": "LOG_IN",
+    "EnglishText": "Log in",
+    "Comment": "please use iPhone Safari to open a https website that needs credential and you can find an AlertView pop up, iOS has its translation to all the languages so I think we can just follow their translation."
+  },
+  {
+    "Key": "NEW_SERVER",
+    "EnglishText": "New Server"
+  },
+  {
+    "Key": "DEFAULT_SERVER_AUTHENTICATION",
+    "EnglishText": "Default Server Authentication"
+  },
+  {
+    "Key": "HEATMAP_ATTRIBUTES_REMOVED",
+    "EnglishText": "The Grouping panel must contain one or more attributes for the Heatmap to render."
+  },
+  {
+    "Key": "HEATMAP_RESTORE",
+    "EnglishText": "Restore"
+  },
+  {
+    "Key": "MICROSTRATEGY_ANALYTICS",
+    "EnglishText": "MicroStrategy Analytics",
+    "Comment": " "
+  },
+  {
+    "Key": "ANNOTATIONS",
+    "EnglishText": "Annotations",
+    "Comment": "This is the title of the hint box of annoation."
+  },
+  {
+    "Key": "GOT_IT_LET_S_GET_STARTED",
+    "EnglishText": "Got It, Let's Get Started!",
+    "Comment": "It's at the bottom of hint box of annoation. Use taps this to dismiss the hintbox."
+  },
+  {
+    "Key": "INSERT_COMMENT",
+    "EnglishText": "Insert Comment",
+    "Comment": "It is the placeholder text inside empty comment box."
+  },
+  {
+    "Key": "TIMELINE_SECONDARY_DATASET_INVALID_2",
+    "EnglishText": "- one template should have the attribute on the Rows be identical to the attribute appearing on the Rows of the main template"
+  },
+  {
+    "Key": "TIMELINE_SECONDARY_DATASET_INVALID_3",
+    "EnglishText": "- the other template should have one attribute on the Rows be identical to the first attribute appearing on the Columns of the main template"
+  },
+  {
+    "Key": "HIERARCHIES",
+    "EnglishText": "Hierarchies"
+  },
+  {
+    "Key": "HIERARCHY",
+    "EnglishText": "Hierarchy"
+  },
+  {
+    "Key": "NO_RESULT",
+    "EnglishText": "No result"
+  },
+  {
+    "Key": "CHECK_PHOTOS_PRIVACY_MSG",
+    "EnglishText": "Please check the access to Photos under the Privacy setting of your device.",
+    "Comment": "Photos and Privacy are the name of system apps"
+  },
+  {
+    "Key": "EMAIL_DOCUMENT",
+    "EnglishText": "E-mail Document"
+  },
+  {
+    "Key": "OPEN_IN",
+    "EnglishText": "Open In..."
+  },
+  {
+    "Key": "PRINT_DOCUMENT",
+    "EnglishText": "Print Document"
+  },
+  {
+    "Key": "ENTER_DOCUMENT_PASSWORD",
+    "EnglishText": "Enter the document password below\\n\\n\\n"
+  },
+  {
+    "Key": "PDF_PASSWORD_PROTECTED",
+    "EnglishText": "PDF Password Protected"
+  },
+  {
+    "Key": "FAILED_DOWNLOAD_AND_DISPLAY_PDF",
+    "EnglishText": "Failed to download and display PDF with error: [%@ - %@ (%d)]"
+  },
+  {
+    "Key": "LOGIN",
+    "EnglishText": "Login"
+  },
+  {
+    "Key": "NO_DOCUMENT_PATH_SET",
+    "EnglishText": "No document path set."
+  },
+  {
+    "Key": "PDF_NOT_CORRUPTED",
+    "EnglishText": "PDF file is corrupted or not accessible while device is locked. Please try to reopen."
+  },
+  {
+    "Key": "CANNOT_CREATE_DOCUMENT",
+    "EnglishText": "Cannot create document."
+  },
+  {
+    "Key": "APP_SETTINGS",
+    "EnglishText": "App Settings"
+  },
+  {
+    "Key": "DEFAULT_AUTHENTICATION",
+    "EnglishText": "Default Authentication",
+    "Comment": "the authentication is used to login mobile server or project"
+  },
+  {
+    "Key": "ADD_NEW_SERVER",
+    "EnglishText": "Add New Server"
+  },
+  {
+    "Key": "EMBEDDED_CLIENT_CERTIFICATE",
+    "EnglishText": "Embedded Client Certificate"
+  },
+  {
+    "Key": "X_COULDNOT_BE_REACHED_MSG",
+    "EnglishText": "%@ couldn't be reached. Verify the connectivity information.",
+    "Comment": "%@ will be replaced by the object name"
+  },
+  {
+    "Key": "MOBILE_SERVER_X_COULDNOT_BE_REACHED_MSG",
+    "EnglishText": "Mobile Server %@ couldn't be reached. Verify the connectivity information.",
+    "Comment": "%@ will be replaced by the server name"
+  },
+  {
+    "Key": "INTELLIGENCE_SERVER",
+    "EnglishText": "Intelligence Server"
+  },
+  {
+    "Key": "CHOOSE_INTELLIGENCE_SERVER",
+    "EnglishText": "Choose Intelligence Server"
+  },
+  {
+    "Key": "CHOOSE_PROJECT",
+    "EnglishText": "Choose Project"
+  },
+  {
+    "Key": "SET_AUTHENTICATION",
+    "EnglishText": "Set Authentication"
+  },
+  {
+    "Key": "DEFAULT_PROJECT_AUTHENTICATION",
+    "EnglishText": "Default Project Authentication"
+  },
+  {
+    "Key": "PROJECT_AUTHENTICATION",
+    "EnglishText": "Project Authentication"
+  },
+  {
+    "Key": "SERVER_AUTHENTICATION",
+    "EnglishText": "Server Authentication"
+  },
+  {
+    "Key": "ADD_NEW_PROJECT",
+    "EnglishText": "Add New Project"
+  },
+  {
+    "Key": "DEBUG_OPTIONS",
+    "EnglishText": "Debug Options"
+  },
+  {
+    "Key": "PICK_A_START",
+    "EnglishText": "Pick a hierarchy below to start"
+  },
+  {
+    "Key": "SELECT_NAVIGATE_ELEMENT",
+    "EnglishText": "(Select or navigate through an element)"
+  },
+  {
+    "Key": "RESULTS_MATCH_ALL",
+    "EnglishText": "All of the selections"
+  },
+  {
+    "Key": "RESULTS_MATCH_ANY",
+    "EnglishText": "Any of the selections"
+  },
+  {
+    "Key": "CALENDAR",
+    "EnglishText": "Calendar"
+  },
+  {
+    "Key": "PICK_ATTRIBUTE",
+    "EnglishText": "(Pick an attribute)"
+  },
+  {
+    "Key": "CONDITION_ANSWER_SIZE",
+    "EnglishText": "Please select between %@ and %@ conditions."
+  },
+  {
+    "Key": "CONDITION_ANSWER_TOO_LARGE",
+    "EnglishText": "Please select no more than %@ conditions."
+  },
+  {
+    "Key": "IN_LIST",
+    "EnglishText": "in list"
+  },
+  {
+    "Key": "NOT_IN_LIST",
+    "EnglishText": "not in list"
+  },
+  {
+    "Key": "SERVER_DEFAULT_USERNAME",
+    "EnglishText": "Username"
+  },
+  {
+    "Key": "SERVER_DEFAULT_USERNAME_PLACEHOLDER",
+    "EnglishText": "My Username"
+  },
+  {
+    "Key": "SERVER_DEFAULT_USERNAME_DEFAULT_VALUE",
+    "EnglishText": ""
+  },
+  {
+    "Key": "SERVER_DEFAULT_PASSWORD",
+    "EnglishText": "Password"
+  },
+  {
+    "Key": "SERVER_DEFAULT_PASSWORD_PLACEHOLDER",
+    "EnglishText": ""
+  },
+  {
+    "Key": "SERVER_DEFAULT_PASSWORD_DEFAULT_VALUE",
+    "EnglishText": ""
+  },
+  {
+    "Key": "CONTENT_UPDATED_WITH_REMAINING",
+    "EnglishText": "The Content of your application has been updated. %@ file(s) has been updated, there might be %@ more to come.",
+    "Comment": "%@ is number we need to add dynamic when app run."
+  },
+  {
+    "Key": "HEATMAP_GEO_AVG_OF",
+    "EnglishText": "Geometry Average of %@"
+  },
+  {
+    "Key": "CALENDAR_DONE_LABEL",
+    "EnglishText": "Done",
+    "Comment": "The label of a button, used in the search box."
+  },
+  {
+    "Key": "CALENDAR_All_EVENTS",
+    "EnglishText": "All Events",
+    "Comment": "used to choose all events in the legend popover view"
+  },
+  {
+    "Key": "TIMELINE_TEMPLATE_VALIDATION_2",
+    "EnglishText": "- one attribute on the Rows"
+  },
+  {
+    "Key": "TIMELINE_TEMPLATE_VALIDATION_3",
+    "EnglishText": "- two attributes and two metrics on the Columns"
+  },
+  {
+    "Key": "HEATMAP_ALL",
+    "EnglishText": "ALL"
+  },
+  {
+    "Key": "HEATMAP_RESTORE_ELEMENTS",
+    "EnglishText": "RESTORE ELEMENTS"
+  },
+  {
+    "Key": "HEATMAP_DELETE",
+    "EnglishText": "ENABLE DELETE"
+  },
+  {
+    "Key": "PROMPTS",
+    "EnglishText": "Prompts"
+  },
+  {
+    "Key": "SHARE_WITH_GOOD_FOR_ENTERPRISE",
+    "EnglishText": "Share with Good for Enterprise"
+  },
+  {
+    "Key": "CANNOT_TRANSFER_TO_GOOD_FOR_ENTERPRISE",
+    "EnglishText": "Cannot transfer to Good for Enterprise"
+  },
+  {
+    "Key": "CANNOT_SEND_EMAIL_TO_GOOD_FOR_ENTERPRISE",
+    "EnglishText": "Cannot Send Email to Good for Enterprise"
+  },
+  {
+    "Key": "UNABLE_LAUNCH_APPLICATION_BY_URL",
+    "EnglishText": "Unable to launch application by URL. To continue using the application, you must terminate and restart it."
+  },
+  {
+    "Key": "CONNECTING",
+    "EnglishText": "Connecting"
+  },
+  {
+    "Key": "CERTIFICATE_SERVER_NOT_COMPATIBLE",
+    "EnglishText": "The Certificate Server is not compatible with this MicroStrategy Mobile Application. Please contact your system administrator.",
+    "Comment": " "
+  },
+  {
+    "Key": "RETRIEVING_CERTIFICATE_LOGIN_FIELDS",
+    "EnglishText": "Retrieving Certificate Login Fields"
+  },
+  {
+    "Key": "FACEBOOK_CONNECT_CREDENTIAL_MESSAGE",
+    "EnglishText": "No credentials have been configured for this project.  Enter your user name and password (the user name and password that you use to log in to your computer)."
+  },
+  {
+    "Key": "MARKERS_IN_THIS_AREA",
+    "EnglishText": "%d markers in this area"
+  },
+  {
+    "Key": "REACH_MAX_ELEMENTS_PER_ATTRIBUTE",
+    "EnglishText": "You can only add up to %d elements for this attribute"
+  },
+  {
+    "Key": "SEARCHING",
+    "EnglishText": "Searching..."
+  },
+  {
+    "Key": "SEARCH_COMPLETED",
+    "EnglishText": "Search Completed."
+  },
+  {
+    "Key": "SEARCH_CANCELLED",
+    "EnglishText": "Search Cancelled."
+  },
+  {
+    "Key": "LOAD_MORE_PAGES",
+    "EnglishText": "Load more pages..."
+  },
+  {
+    "Key": "N_MORE_PAGES",
+    "EnglishText": "%d more pages"
+  },
+  {
+    "Key": "N_RESULTS",
+    "EnglishText": "%d results."
+  },
+  {
+    "Key": "N_RESULTS_N_MORE_PAGES",
+    "EnglishText": "%d results, %d more pages"
+  },
+  {
+    "Key": "SCROLLING",
+    "EnglishText": "Scrolling...",
+    "Comment": "For Graph Matrix scrolling, we show this message."
+  },
+  {
+    "Key": "FB_FOLDERS",
+    "EnglishText": "Folders"
+  },
+  {
+    "Key": "FB_PROJECTS",
+    "EnglishText": "Projects"
+  },
+  {
+    "Key": "FB_DASHBOARDS",
+    "EnglishText": "Dashboards"
+  },
+  {
+    "Key": "FB_DOCUMENTS",
+    "EnglishText": "Documents"
+  },
+  {
+    "Key": "FB_GRAPHS",
+    "EnglishText": "Graphs"
+  },
+  {
+    "Key": "FB_GRIDS",
+    "EnglishText": "Grids"
+  },
+  {
+    "Key": "FB_FILES",
+    "EnglishText": "Files"
+  },
+  {
+    "Key": "FB_WEBDAV_FILES",
+    "EnglishText": "WebDav Files"
+  },
+  {
+    "Key": "FB_SEARCH_THIS_FOLDER",
+    "EnglishText": "Search this folder"
+  },
+  {
+    "Key": "FB_DESCRIPTION",
+    "EnglishText": "Description"
+  },
+  {
+    "Key": "FB_LAST_UPDATED",
+    "EnglishText": "Last updated"
+  },
+  {
+    "Key": "FB_HOME",
+    "EnglishText": "Home"
+  },
+  {
+    "Key": "FB_LOCATION",
+    "EnglishText": "Location"
+  },
+  {
+    "Key": "FB_LAST_MODIFIED",
+    "EnglishText": "Last modified"
+  },
+  {
+    "Key": "FB_TRANSACTION_QUEUE",
+    "EnglishText": "Transaction Queue"
+  },
+  {
+    "Key": "FB_SEARCH_RECENT_VIEW",
+    "EnglishText": "Search recently viewed"
+  },
+  {
+    "Key": "FB_RECENTLY_VIEWED",
+    "EnglishText": "Recently Viewed"
+  },
+  {
+    "Key": "FB_SEARCH_RESULTS",
+    "EnglishText": "Search Results"
+  },
+  {
+    "Key": "FB_SUBSCRIPTIONS",
+    "EnglishText": "Subscriptions"
+  },
+  {
+    "Key": "FB_NO_RESULT",
+    "EnglishText": "No Result",
+    "Comment": " "
+  },
+  {
+    "Key": "FB_TODAY",
+    "EnglishText": "Today"
+  },
+  {
+    "Key": "FB_YESTODAY",
+    "EnglishText": "Yesterday"
+  },
+  {
+    "Key": "FB_IN_RECENT_30DAYS",
+    "EnglishText": "In recent 30 days"
+  },
+  {
+    "Key": "FB_IN_RECENT_3MONTHS",
+    "EnglishText": "In recent 3 months"
+  },
+  {
+    "Key": "FB_IN_RECENT_1YEAR",
+    "EnglishText": "In recent 1 year"
+  },
+  {
+    "Key": "FB_IN_RECENT_2YEARS",
+    "EnglishText": "In recent 2 years"
+  },
+  {
+    "Key": "FB_MORE_THAN_2YEARS",
+    "EnglishText": "More than 2 years"
+  },
+  {
+    "Key": "FB_SELECT_ALL",
+    "EnglishText": "Select All"
+  },
+  {
+    "Key": "FB_DESELECT_ALL",
+    "EnglishText": "Deselect All"
+  },
+  {
+    "Key": "FB_DELETE",
+    "EnglishText": "Delete"
+  },
+  {
+    "Key": "FB_NAME",
+    "EnglishText": "Name"
+  },
+  {
+    "Key": "FB_TYPE",
+    "EnglishText": "Type"
+  },
+  {
+    "Key": "USHER_QR_CODE_CONNECTION_FAILED",
+    "EnglishText": "Oops, connection failed. Please try again later.",
+    "Comment": " "
+  },
+  {
+    "Key": "USHER_QR_CODE_COULDNOT_LOGIN",
+    "EnglishText": "Could not log in",
+    "Comment": " "
+  },
+  {
+    "Key": "USHER_QR_CODE_UNABLE_CONNECT",
+    "EnglishText": "Unable to connect. Please contact your administrator.",
+    "Comment": " "
+  },
+  {
+    "Key": "YES",
+    "EnglishText": "Yes"
+  },
+  {
+    "Key": "NO",
+    "EnglishText": "No"
+  },
+  {
+    "Key": "TIMELINE_TEMPLATE_VALIDATION_4",
+    "EnglishText": "The main template requirements are at least:",
+    "Comment": " "
+  },
+  {
+    "Key": "TAKE_PHOTO",
+    "EnglishText": "Take New Photo"
+  },
+  {
+    "Key": "CAPITAL_DONE",
+    "EnglishText": "DONE"
+  },
+  {
+    "Key": "ADD_PHOTO",
+    "EnglishText": "Add Photo"
+  },
+  {
+    "Key": "LOCAL_TXN_ERR_UNSUPPORTED_OBJECT_PLEASE_DISABLE",
+    "EnglishText": "Cannot run this document due to unsupported object types with local transaction logic. Please disable local transaction and rerun."
+  },
+  {
+    "Key": "SORT_ASCENDING",
+    "EnglishText": "Ascending"
+  },
+  {
+    "Key": "SORT_DESCENDING",
+    "EnglishText": "Descending"
+  },
+  {
+    "Key": "CLEAR_SORT",
+    "EnglishText": "Clear Sort"
+  },
+  {
+    "Key": "IG_INFO_BUTTON_TEXT",
+    "EnglishText": "Info"
+  },
+  {
+    "Key": "IG_SORT_BUTTON_TEXT",
+    "EnglishText": "Sort"
+  },
+  {
+    "Key": "IG_CANCEL_BUTTON_TEXT",
+    "EnglishText": "Cancel"
+  },
+  {
+    "Key": "UNSET",
+    "EnglishText": "Unset"
+  },
+  {
+    "Key": "SEARCH_FOR_ELEMENTS",
+    "EnglishText": "Search for Elements"
+  },
+  {
+    "Key": "GALLERY",
+    "EnglishText": "Gallery"
+  },
+  {
+    "Key": "ALBUM",
+    "EnglishText": "Album"
+  },
+  {
+    "Key": "SELECT_ITEMS",
+    "EnglishText": "Select Items"
+  },
+  {
+    "Key": "RETAKE_PHOTO",
+    "EnglishText": "Tap to change a photo."
+  },
+  {
+    "Key": "PHOTO_UPLOADER_SOURCE_DISABLED",
+    "EnglishText": "Can't add new photo because the camera and existing picture are both disabled."
+  },
+  {
+    "Key": "PHOTO_UPLOADER_LIMIT_HIT",
+    "EnglishText": "The upload limit(%d) is reached"
+  },
+  {
+    "Key": "PHOTO_UPLOADER_LIMIT",
+    "EnglishText": "You can add %d more.",
+    "Comment": " "
+  },
+  {
+    "Key": "LOGOUT",
+    "EnglishText": "Log Out"
+  },
+  {
+    "Key": "OFFLINESUBMISSON_NONETWORK",
+    "EnglishText": "Your changes could not be submitted because a connection to the server could not be established. Try again later."
+  },
+  {
+    "Key": "SCHEDULE",
+    "EnglishText": "Schedule"
+  },
+  {
+    "Key": "SUBSCRIBE",
+    "EnglishText": "Subscribe",
+    "Comment": " "
+  },
+  {
+    "Key": "UNSUBSCRIBE",
+    "EnglishText": "Unsubscribe",
+    "Comment": " "
+  },
+  {
+    "Key": "SUBSCRIBE_SUCCEED",
+    "EnglishText": "You are subscribed!"
+  },
+  {
+    "Key": "SUBSCRIBE_ERROR",
+    "EnglishText": "You are not subscribed at this time. Try again later.",
+    "Comment": " "
+  },
+  {
+    "Key": "UNSUBSCRIBE_SUCCEED",
+    "EnglishText": "You are unsubscribed!",
+    "Comment": " "
+  },
+  {
+    "Key": "UNSUBSCRIBE_ERROR",
+    "EnglishText": "You are not unsubscribed at this time. Try again later.",
+    "Comment": " "
+  },
+  {
+    "Key": "REPROMPT",
+    "EnglishText": "RePrompt"
+  },
+  {
+    "Key": "SELECT_DATE",
+    "EnglishText": "Please Select Date"
+  },
+  {
+    "Key": "OFFLINE_PROMPT_NOTIFICATION",
+    "EnglishText": "The device is offline. You may only select previously used prompt answers.",
+    "Comment": " "
+  },
+  {
+    "Key": "SWITCH_SORT_TIP",
+    "EnglishText": "Tap to switch sort."
+  },
+  {
+    "Key": "NO_FILTER",
+    "EnglishText": "No filter"
+  },
+  {
+    "Key": "KEYNOTE_CANNOT_OPEN_MSG",
+    "EnglishText": "Keynote file cannot open due to its size.",
+    "Comment": "Keynote file can't open in mediaWidget due to its size is over limit."
+  },
+  {
+    "Key": "MEDIA_WIDGET_SORT_BY_DEFAULT",
+    "EnglishText": "Default",
+    "Comment": "mediaWidget  sort by: default order"
+  },
+  {
+    "Key": "MEDIA_WIDGET_SORT_BY_TIME",
+    "EnglishText": "By time",
+    "Comment": "mediaWidget sort by time"
+  },
+  {
+    "Key": "MEDIA_WIDGET_SORT_BY_NAME",
+    "EnglishText": "By name",
+    "Comment": "mediaWIdget sort by name"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE7",
+    "EnglishText": "OR",
+    "Comment": "CalendarWidget error message line7"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE8",
+    "EnglishText": "at least three attributes on the row axis; the first two attributes must be of datetime type; the third attribute must be a \\\"YES/NO\\\" value to indicate whether it is an all-day event; and the first attribute timestamp should be less than the second attribute timestamp",
+    "Comment": "calendarwidget error message line8"
+  },
+  {
+    "Key": "CALENDAR_ERRMSG_LINE9",
+    "EnglishText": "any metrics to be placed on the column axis",
+    "Comment": "calendarwidget error message line9"
+  },
+  {
+    "Key": "CERTIFICATE_SERVER_DISABLED",
+    "EnglishText": "Certificate Server is not supported. To continue using the application, you must terminate and restart it."
+  },
+  {
+    "Key": "ERR_NO_NETWORK",
+    "EnglishText": "No Internet connection, please try again after connecting to Internet",
+    "Comment": " "
+  },
+  {
+    "Key": "CLEAR_HISTORY",
+    "EnglishText": "Clear history"
+  },
+  {
+    "Key": "DELETED_ITEMS",
+    "EnglishText": "Deleted Items"
+  },
+  {
+    "Key": "CM_LINK",
+    "EnglishText": "Link"
+  },
+  {
+    "Key": "CM_LINKS",
+    "EnglishText": "Links"
+  },
+  {
+    "Key": "YELLOW",
+    "EnglishText": "Yellow"
+  },
+  {
+    "Key": "PHOTO_UPLOADER_DELETE_CONFIRM",
+    "EnglishText": "Are you sure you want to delete photos?"
+  },
+  {
+    "Key": "LAYERS_CAMEL",
+    "EnglishText": "Layers"
+  },
+  {
+    "Key": "LAYERS_CAPITAL",
+    "EnglishText": "LAYERS"
+  },
+  {
+    "Key": "METRICS_CAPITAL",
+    "EnglishText": "METRICS"
+  },
+  {
+    "Key": "MARKER_OPTIONS_CAPITAL",
+    "EnglishText": "MARKER OPTIONS"
+  },
+  {
+    "Key": "OPTIONS_CAPITAL",
+    "EnglishText": "OPTIONS"
+  },
+  {
+    "Key": "MAP_STYLE_CAPITAL",
+    "EnglishText": "MAP STYLE"
+  },
+  {
+    "Key": "TEXT_ONLY",
+    "EnglishText": "Text Only"
+  },
+  {
+    "Key": "CLUSTERING",
+    "EnglishText": "Clustering"
+  },
+  {
+    "Key": "MARKER_ONLY",
+    "EnglishText": "Marker Only"
+  },
+  {
+    "Key": "WEBDAV_ERROR_WRONG_CREDENTIAL",
+    "EnglishText": "Wrong credential",
+    "Comment": "download fail due to wrong credential"
+  },
+  {
+    "Key": "WEBDAV_ERROR_OVER_LIMIT",
+    "EnglishText": "Size over limit"
+  },
+  {
+    "Key": "MEDIA_ERROR_FILE_NOT_SUPPORTED",
+    "EnglishText": "The file you requested is not supported."
+  },
+  {
+    "Key": "MEDIA_DOWNLOADED",
+    "EnglishText": "Downloaded",
+    "Comment": "file has been downloaded"
+  },
+  {
+    "Key": "MEDIA_OFFLINE",
+    "EnglishText": "Offline",
+    "Comment": "media widget is in offline mode"
+  },
+  {
+    "Key": "DISCARD",
+    "EnglishText": "Discard",
+    "Comment": "used intransaction \"discard\" button"
+  },
+  {
+    "Key": "FILTER_EXCLUDE_ALL_DATA_FOR_LAYERS",
+    "EnglishText": "Current filter excludes all data for the following layer(s):"
+  },
+  {
+    "Key": "TOUCH_ID",
+    "EnglishText": "Touch ID"
+  },
+  {
+    "Key": "POST",
+    "EnglishText": "Post"
+  },
+  {
+    "Key": "OFFLINE",
+    "EnglishText": "OFFLINE",
+    "Comment": "offline banner, capitalized"
+  },
+  {
+    "Key": "DATASET",
+    "EnglishText": "Dataset",
+    "Comment": "\"Dataset\" keyword in map search view"
+  },
+  {
+    "Key": "HIDE",
+    "EnglishText": "Hide",
+    "Comment": "\"Hide\" keyword in map search view"
+  },
+  {
+    "Key": "SHARE_WITH",
+    "EnglishText": "Share With"
+  },
+  {
+    "Key": "DOWNLOADING",
+    "EnglishText": "Downloading"
+  },
+  {
+    "Key": "REPLACE",
+    "EnglishText": "REPLACE"
+  },
+  {
+    "Key": "FAIL_TO_DOWNLOAD",
+    "EnglishText": "Download failed"
+  },
+  {
+    "Key": "EXPORTED",
+    "EnglishText": "Exported"
+  },
+  {
+    "Key": "FROM",
+    "EnglishText": "From",
+    "Comment": "indicating the dossier is from which one"
+  },
+  {
+    "Key": "ONE_VIEW",
+    "EnglishText": "1 View",
+    "Comment": " "
+  },
+  {
+    "Key": "TOTAL",
+    "EnglishText": "Total",
+    "Comment": "A  kind of subtotal  types "
+  },
+  {
+    "Key": "MAXIMUM",
+    "EnglishText": "Maximum",
+    "Comment": "A kind of subtotal types "
+  },
+  {
+    "Key": "MINIMUM",
+    "EnglishText": "Minimum",
+    "Comment": "A kind of subtotal types "
+  },
+  {
+    "Key": "COUNT",
+    "EnglishText": "Count",
+    "Comment": "A kind of subtotal types "
+  },
+  {
+    "Key": "MODE",
+    "EnglishText": "Mode",
+    "Comment": "A kind of subtotal type"
+  },
+  {
+    "Key": "PRODUCT",
+    "EnglishText": "Product",
+    "Comment": "A kind of subtotal type"
+  },
+  {
+    "Key": "SORT",
+    "EnglishText": "SORT",
+    "Comment": "Sort"
+  },
+  {
+    "Key": "SECOND_AGO",
+    "EnglishText": "%d sec ago",
+    "Comment": "used like: 5s ago"
+  },
+  {
+    "Key": "MINUTE_AGO",
+    "EnglishText": "%d min ago",
+    "Comment": "used like: 1min ago"
+  },
+  {
+    "Key": "MINUTES_AGO",
+    "EnglishText": "%d minutes ago",
+    "Comment": "used like: 5minutes ago"
+  },
+  {
+    "Key": "HOUR_AGO",
+    "EnglishText": "%d hr ago",
+    "Comment": "used like: 1h ago"
+  },
+  {
+    "Key": "HOURS_AGO",
+    "EnglishText": "%d hours ago",
+    "Comment": "used like: 5 hours ago"
+  },
+  {
+    "Key": "DAY_AGO",
+    "EnglishText": "%d d ago",
+    "Comment": "used like:1d ago"
+  },
+  {
+    "Key": "DAYS_AGO",
+    "EnglishText": "%d days ago",
+    "Comment": "used like: 5days ago"
+  },
+  {
+    "Key": "MONTH_AGO",
+    "EnglishText": "%d mo ago",
+    "Comment": "used like: 1 mo ago"
+  },
+  {
+    "Key": "MONTHS_AGO",
+    "EnglishText": "%d months ago",
+    "Comment": "used like: 5 months ago"
+  },
+  {
+    "Key": "YEAR_AGO",
+    "EnglishText": "%d yr ago",
+    "Comment": "used like: 1 y ago"
+  },
+  {
+    "Key": "RELOAD",
+    "EnglishText": "Download Latest Version"
+  },
+  {
+    "Key": "FILTERS",
+    "EnglishText": "Filters"
+  },
+  {
+    "Key": "SAML",
+    "EnglishText": "SAML",
+    "Comment": " "
+  },
+  {
+    "Key": "OWNER",
+    "EnglishText": "Owner"
+  },
+  {
+    "Key": "VALUE",
+    "EnglishText": "Value",
+    "Comment": "Value"
+  },
+  {
+    "Key": "LOCATION_SERVICES_OFF",
+    "EnglishText": "Location Services Off"
+  },
+  {
+    "Key": "LOCATION_SERVICES_OFF_MESSAGE",
+    "EnglishText": "Turn on Location Services in Settings > Privacy to allow %@ to determine your current location."
+  },
+  {
+    "Key": "DATA_LABEL",
+    "EnglishText": "DATA LABEL",
+    "Comment": "Data Label"
+  },
+  {
+    "Key": "VIEW_FILTER",
+    "EnglishText": "VIEW FILTER",
+    "Comment": "As the title of Dossier dossier filter summary panel. All Capital in English."
+  },
+  {
+    "Key": "SHARE_WITH_BLACKBERRY_WORK",
+    "EnglishText": "Share with BlackBerry Work"
+  },
+  {
+    "Key": "COMMAND_CENTER_CONFERENCE_STARTED_AT",
+    "EnglishText": "Conference started at"
+  },
+  {
+    "Key": "ACC_ROW_HEADING",
+    "EnglishText": "Row Headings"
+  },
+  {
+    "Key": "UNTITLED_MARKER_NUMBER",
+    "EnglishText": "Untitled Marker %ld"
+  },
+  {
+    "Key": "UNTITLED_BUBBLE_NUMBER",
+    "EnglishText": "Untitled Bubble %ld"
+  },
+  {
+    "Key": "UNTITLED_AREA_NUMBER",
+    "EnglishText": "Untitled Area %ld"
+  },
+  {
+    "Key": "THIS_PROMPT_IS_REQUIRED",
+    "EnglishText": "This prompt is required"
+  },
+  {
+    "Key": "TURN_ON_ONLINE_TO_ENABLE_LOCATION_SERVICE",
+    "EnglishText": "Turn on online mode to enable location Services."
+  },
+  {
+    "Key": "REQUEST_CANCELED_ERROR",
+    "EnglishText": "Something went wrong. Please contact your administrator."
+  },
+  {
+    "Key": "ALL_RESULTS",
+    "EnglishText": "(All Results)"
+  },
+  {
+    "Key": "NONSUPPORTED_ATTRIBUTE_METRIC_SELECTOR",
+    "EnglishText": "We don't support Attribute/Metric Selector in Visual Insight Document."
+  },
+  {
+    "Key": "GO_TO_SETTINGS",
+    "EnglishText": "Go to Settings"
+  },
+  {
+    "Key": "ALLOW_CAMERA_TITLE",
+    "EnglishText": "Allow \\\"MicroStrategy\\\" to Access Your Camera"
+  },
+  {
+    "Key": "ALLOW_CAMERA_CONTENT",
+    "EnglishText": "Please allow \\\"MicroStrategy\\\" to access camera in Settings > Privacy > Camera."
+  },
+  {
+    "Key": "ALLOW_PHOTO_TITLE",
+    "EnglishText": "Allow \\\"MicroStrategy\\\" to Access Your Photos"
+  },
+  {
+    "Key": "ALLOW_PHOTO_CONTENT",
+    "EnglishText": "Please allow \\\"MicroStrategy\\\" to access photos in Settings > Privacy > Photos."
+  },
+  {
+    "Key": "ENTER_FULL_SCREEN",
+    "EnglishText": "Please enter full screen to view the document",
+    "Comment": "Message shown when user view Documents under split view or slide over modes."
+  }
+]

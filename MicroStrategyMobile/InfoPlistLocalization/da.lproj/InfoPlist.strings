@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  T&T MobileMobile
+
+  Created by sun on 2/16/17.
+  Copyright © 2017 MicroStratgy Inc. All rights reserved.
+*/
+NSCameraUsageDescription = "T&T Mobile-program forsøger at få adgang til enhedens kamera.";
+NSPhotoLibraryUsageDescription = "T&T Mobile-program forsøger at få adgang til enhedens fotobibliotek.";
+NSPhotoLibraryAddUsageDescription = "Programmet fors\U00f8ger at f\U00f8je et foto til dit fotobibliotek.";
