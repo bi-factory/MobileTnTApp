@@ -210,6 +210,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }
     
     @objc private func loginTapped() {
+        LocalPersistanceManager.shared.shouldRememberUser = checkBox.isChecked
         let username = emailTextField.text ?? ""
         let password = passwordTextField.text ?? ""
         let parameters: [String: Any] = ["username": username, "password": password]
