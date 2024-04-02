@@ -8,7 +8,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     private let buttonStack = {
        let stackView = UIStackView()
         stackView.axis = .vertical
-        stackView.spacing = 24
+        stackView.spacing = 0
         stackView.alignment = .fill
         stackView.translatesAutoresizingMaskIntoConstraints = false
         return stackView
@@ -75,6 +75,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         textField.textColor = .white
         textField.tintColor = .white
         textField.translatesAutoresizingMaskIntoConstraints = false
+        textField.returnKeyType = .go
         return textField
     }()
     
@@ -109,6 +110,9 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     
     private func setup() {
         backgroundColor = .mainBlue
+        subviews.forEach { view in
+            view.removeFromSuperview()
+        }
         addSubview(buttonStack)
         emailTextFieldContainer.addSubview(emailTextField)
         passwordTextFieldContainer.addSubview(passwordTextField)
@@ -139,6 +143,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         buttonStack.setCustomSpacing(8, after: passwordLabel)
         loginButton.addTarget(self, action: #selector(loginTapped), for: .touchUpInside)
         resetPasswordButton.addTarget(self, action: #selector(resetTapped), for: .touchUpInside)
+        emailTextField.delegate = self
+        passwordTextField.delegate = self
     }
     
     override func setup(withParameters promptViewParameters: [AnyHashable : Any]?, delegate: MSIMobileLoginPromptViewDelegate?) {
@@ -154,7 +160,23 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }
     
     @objc private func resetTapped() {
+        emailTextField.text = ""
+        passwordTextField.text = ""
         delegate?.loginPromptViewDidCancel(self)
+    }
+    
+}
+
+extension CustomLoginView: UITextFieldDelegate {
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        if textField === emailTextField {
+            passwordTextField.becomeFirstResponder()
+        } else if textField === passwordTextField {
+            endEditing(true)
+            loginTapped()
+        }
+        return true
     }
     
 }
