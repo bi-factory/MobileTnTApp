@@ -7,4 +7,6 @@
 #import <MicroStrategyMobileSDK/MSIAuthenticationPromptViewController.h>
 #import <MicroStrategyMobileSDK/MSIMobileLoginManager.h>
 #import <MicroStrategyMobileSDK/MSIProjectInfo.h>
+#import <MicroStrategyMobileSDK/MSICredentialsManager.h>
+#import <MicroStrategyMobileSDK/MSIPreferencesStore.h>
 

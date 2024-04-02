@@ -95,6 +95,36 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         return label
     }()
     
+    private let horizontalStack = {
+        let stackView = UIStackView()
+        stackView.axis = .horizontal
+        stackView.spacing = 16
+        stackView.alignment = .fill
+        return stackView
+    }()
+    
+    private let checkBox: CheckBox = {
+        let checkBox = CheckBox()
+        checkBox.isChecked = true
+        checkBox.heightAnchor.constraint(equalToConstant: 24).isActive = true
+        checkBox.widthAnchor.constraint(equalToConstant: 24).isActive = true
+        return checkBox
+    }()
+    
+    private let rememberUserLabel = {
+       let label = UILabel()
+        label.text = "Recordar mis datos"
+        label.font = UIFont(name: "Poppins-Regular", size: 14)
+        label.textColor = .white
+        return label
+    }()
+    
+    private let thirdSpacerView: UIView = {
+        let view = UIView()
+        view.backgroundColor = .clear
+        return view
+    }()
+    
     private let loginButton = {
        let button = UIButton()
         button.setTitle("Ingresar", for: .normal)
@@ -149,12 +179,17 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         buttonStack.addArrangedSubview(emailTextFieldContainer)
         buttonStack.addArrangedSubview(passwordLabel)
         buttonStack.addArrangedSubview(passwordTextFieldContainer)
+        buttonStack.addArrangedSubview(horizontalStack)
         buttonStack.addArrangedSubview(secondSpacerView)
         buttonStack.addArrangedSubview(loginButton)
         buttonStack.addArrangedSubview(resetPasswordButton)
+        horizontalStack.addArrangedSubview(checkBox)
+        horizontalStack.addArrangedSubview(rememberUserLabel)
+        horizontalStack.addArrangedSubview(thirdSpacerView)
         buttonStack.setCustomSpacing(8, after: emailLabel)
         buttonStack.setCustomSpacing(24, after: emailTextFieldContainer)
         buttonStack.setCustomSpacing(8, after: passwordLabel)
+        buttonStack.setCustomSpacing(24, after: passwordTextFieldContainer)
         buttonStack.setCustomSpacing(24, after: loginButton)
         loginButton.addTarget(self, action: #selector(loginTapped), for: .touchUpInside)
         resetPasswordButton.addTarget(self, action: #selector(resetTapped), for: .touchUpInside)
