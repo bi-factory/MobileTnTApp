@@ -11,6 +11,8 @@
 		323F93631E2772E6001D6904 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 323F93581E2772D5001D6904 /* UserNotifications.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		6BCAD4F92BBB48000048F475 /* CustomLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */; };
 		6BCAD4FB2BBB49E90048F475 /* CustomAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */; };
+		6BCAD4FD2BBB71890048F475 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FC2BBB71890048F475 /* Extensions.swift */; };
+		6BCAD4FF2BBB71F30048F475 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FE2BBB71F30048F475 /* Colors.swift */; };
 		7292201E1D86CD2200C58C97 /* FinalBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7292201B1D86CD2200C58C97 /* FinalBundle.bundle */; };
 		729220201D86CD2200C58C97 /* MicroStrategyMobileSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7292201D1D86CD2200C58C97 /* MicroStrategyMobileSDKResources.bundle */; };
 		729220441D86D01D00C58C97 /* IconFont in Resources */ = {isa = PBXBuildFile; fileRef = 729220431D86D01D00C58C97 /* IconFont */; };
@@ -102,6 +104,8 @@
 		6BCAD4F72BBB47FF0048F475 /* T&T Mobile-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "T&T Mobile-Bridging-Header.h"; sourceTree = "<group>"; };
 		6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoginView.swift; sourceTree = "<group>"; };
 		6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAppDelegate.swift; sourceTree = "<group>"; };
+		6BCAD4FC2BBB71890048F475 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		6BCAD4FE2BBB71F30048F475 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		7292201B1D86CD2200C58C97 /* FinalBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = FinalBundle.bundle; path = Resources/FinalBundle.bundle; sourceTree = "<group>"; };
 		7292201D1D86CD2200C58C97 /* MicroStrategyMobileSDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = MicroStrategyMobileSDKResources.bundle; path = Resources/MicroStrategyMobileSDKResources.bundle; sourceTree = "<group>"; };
 		729220431D86D01D00C58C97 /* IconFont */ = {isa = PBXFileReference; lastKnownFileType = folder; name = IconFont; path = Resources/IconFont; sourceTree = "<group>"; };
@@ -296,6 +300,8 @@
 		8EA8B1B31B90EEA10063204B = {
 			isa = PBXGroup;
 			children = (
+				6BCAD4FE2BBB71F30048F475 /* Colors.swift */,
+				6BCAD4FC2BBB71890048F475 /* Extensions.swift */,
 				6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */,
 				6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */,
 				0B9DCACC1D2A4A0000F4DF57 /* Custom */,
@@ -518,8 +524,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8ED487551CAAC00400DF2648 /* main.m in Sources */,
+				6BCAD4FF2BBB71F30048F475 /* Colors.swift in Sources */,
 				6BCAD4FB2BBB49E90048F475 /* CustomAppDelegate.swift in Sources */,
 				6BCAD4F92BBB48000048F475 /* CustomLoginView.swift in Sources */,
+				6BCAD4FD2BBB71890048F475 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

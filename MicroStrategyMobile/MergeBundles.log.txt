@@ -72,3 +72,5 @@ Files copied from /Users/wiliamsjr/Documents/GitHub/MobileTnTApp/MicroStrategyMo
 done
 Files copied from /Users/wiliamsjr/Documents/GitHub/MobileTnTApp/MicroStrategyMobile/Custom/FinalBundle.bundle
 done
+Files copied from /Users/marlonfloresramos/Documents/software_development/Swift/Upwork/MobileTnTApp/MicroStrategyMobile/Custom/FinalBundle.bundle
+done
