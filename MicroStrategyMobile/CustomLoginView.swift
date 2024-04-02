@@ -9,6 +9,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         let imageView = UIImageView(image: UIImage(named: "loginBackground"))
         imageView.translatesAutoresizingMaskIntoConstraints = false
         imageView.contentMode = .scaleAspectFill
+        imageView.isUserInteractionEnabled = true
         return imageView
     }()
     
@@ -159,8 +160,11 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         resetPasswordButton.addTarget(self, action: #selector(resetTapped), for: .touchUpInside)
         let emailContainerGesture = UITapGestureRecognizer(target: self, action: #selector(containerTapped(_:)))
         let passwordContainerGesture = UITapGestureRecognizer(target: self, action: #selector(containerTapped(_:)))
+        let backgroundGesture = UITapGestureRecognizer(target: self, action: #selector(backgroundTapped(_:)))
+        backgroundGesture.cancelsTouchesInView = false
         emailTextFieldContainer.addGestureRecognizer(emailContainerGesture)
         passwordTextFieldContainer.addGestureRecognizer(passwordContainerGesture)
+        addGestureRecognizer(backgroundGesture)
         emailTextField.delegate = self
         passwordTextField.delegate = self
     }
@@ -183,6 +187,10 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         } else if sender.view === passwordTextFieldContainer {
             passwordTextField.becomeFirstResponder()
         }
+    }
+    
+    @objc private func backgroundTapped(_ sender: UITapGestureRecognizer) {
+        endEditing(true)
     }
     
     @objc private func resetTapped() {
