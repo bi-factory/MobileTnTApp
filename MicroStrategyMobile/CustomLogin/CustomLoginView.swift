@@ -5,6 +5,10 @@ import MicroStrategyMobileSDK
 
 final class CustomLoginView: MSIMobileLoginPromptView {
     
+    private var deviceFactor: Double {
+        UIScreen.main.bounds.height <= 736 ? 0.85 : 1
+    }
+    
     private let backgroundImageView = {
         let imageView = UIImageView(image: UIImage(named: "loginBackground"))
         imageView.translatesAutoresizingMaskIntoConstraints = false
@@ -24,7 +28,6 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     
     private let logoImageView = {
         let imageView = UIImageView(image: UIImage(named: "splash_icon_white@3x.png"))
-        imageView.heightAnchor.constraint(equalToConstant: 79).isActive = true
         imageView.contentMode = .scaleAspectFit
         return imageView
     }()
@@ -132,7 +135,6 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         button.setTitleColor(.mainBlue, for: .normal)
         button.backgroundColor = UIColor.white
         button.layer.cornerRadius = 8
-        button.heightAnchor.constraint(equalToConstant: 56).isActive = true
         return button
     }()
     
@@ -142,7 +144,6 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         button.titleLabel?.font = UIFont(name: "Poppins-Regular", size: 18)
         button.setTitleColor(.white, for: .normal)
         button.backgroundColor = UIColor.clear
-        button.heightAnchor.constraint(equalToConstant: 32).isActive = true
         return button
     }()
     
@@ -156,22 +157,25 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         emailTextFieldContainer.addSubview(emailTextField)
         passwordTextFieldContainer.addSubview(passwordTextField)
         NSLayoutConstraint.activate([
-            buttonStack.topAnchor.constraint(equalTo: safeAreaLayoutGuide.topAnchor, constant: 88),
-            buttonStack.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 58),
-            buttonStack.trailingAnchor.constraint(equalTo: trailingAnchor, constant: -58),
-            buttonStack.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -65),
-            emailTextField.topAnchor.constraint(equalTo: emailTextFieldContainer.topAnchor, constant: 20),
-            emailTextField.bottomAnchor.constraint(equalTo: emailTextFieldContainer.bottomAnchor, constant: -20),
-            emailTextField.leadingAnchor.constraint(equalTo: emailTextFieldContainer.leadingAnchor, constant: 24),
-            emailTextField.trailingAnchor.constraint(equalTo: emailTextFieldContainer.trailingAnchor, constant: -24),
-            passwordTextField.topAnchor.constraint(equalTo: passwordTextFieldContainer.topAnchor, constant: 20),
-            passwordTextField.bottomAnchor.constraint(equalTo: passwordTextFieldContainer.bottomAnchor, constant: -20),
-            passwordTextField.leadingAnchor.constraint(equalTo: passwordTextFieldContainer.leadingAnchor, constant: 24),
-            passwordTextField.trailingAnchor.constraint(equalTo: passwordTextFieldContainer.trailingAnchor, constant: -24),
+            buttonStack.topAnchor.constraint(equalTo: safeAreaLayoutGuide.topAnchor, constant: 88*deviceFactor),
+            buttonStack.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 58*deviceFactor),
+            buttonStack.trailingAnchor.constraint(equalTo: trailingAnchor, constant: -58*deviceFactor),
+            buttonStack.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -65*deviceFactor),
+            emailTextField.topAnchor.constraint(equalTo: emailTextFieldContainer.topAnchor, constant: 20*deviceFactor),
+            emailTextField.bottomAnchor.constraint(equalTo: emailTextFieldContainer.bottomAnchor, constant: -20*deviceFactor),
+            emailTextField.leadingAnchor.constraint(equalTo: emailTextFieldContainer.leadingAnchor, constant: 24*deviceFactor),
+            emailTextField.trailingAnchor.constraint(equalTo: emailTextFieldContainer.trailingAnchor, constant: -24*deviceFactor),
+            passwordTextField.topAnchor.constraint(equalTo: passwordTextFieldContainer.topAnchor, constant: 20*deviceFactor),
+            passwordTextField.bottomAnchor.constraint(equalTo: passwordTextFieldContainer.bottomAnchor, constant: -20*deviceFactor),
+            passwordTextField.leadingAnchor.constraint(equalTo: passwordTextFieldContainer.leadingAnchor, constant: 24*deviceFactor),
+            passwordTextField.trailingAnchor.constraint(equalTo: passwordTextFieldContainer.trailingAnchor, constant: -24*deviceFactor),
             backgroundImageView.topAnchor.constraint(equalTo: topAnchor, constant: 0),
             backgroundImageView.bottomAnchor.constraint(equalTo: bottomAnchor, constant: 0),
             backgroundImageView.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 0),
-            backgroundImageView.trailingAnchor.constraint(equalTo: trailingAnchor, constant: 0)
+            backgroundImageView.trailingAnchor.constraint(equalTo: trailingAnchor, constant: 0),
+            logoImageView.heightAnchor.constraint(equalToConstant: 79*deviceFactor),
+            loginButton.heightAnchor.constraint(equalToConstant: 56*deviceFactor),
+            resetPasswordButton.heightAnchor.constraint(equalToConstant: 32*deviceFactor)
         ])
         buttonStack.addArrangedSubview(logoImageView)
         buttonStack.addArrangedSubview(spacerView)
