@@ -5,6 +5,13 @@ import MicroStrategyMobileSDK
 
 final class CustomLoginView: MSIMobileLoginPromptView {
     
+    private let backgroundImageView = {
+        let imageView = UIImageView(image: UIImage(named: "loginBackground"))
+        imageView.translatesAutoresizingMaskIntoConstraints = false
+        imageView.contentMode = .scaleAspectFill
+        return imageView
+    }()
+    
     private let buttonStack = {
        let stackView = UIStackView()
         stackView.axis = .vertical
@@ -14,7 +21,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         return stackView
     }()
     
-    private let imageView = {
+    private let logoImageView = {
         let imageView = UIImageView(image: UIImage(named: "splash_icon_white@3x.png"))
         imageView.heightAnchor.constraint(equalToConstant: 79).isActive = true
         imageView.contentMode = .scaleAspectFit
@@ -113,6 +120,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         subviews.forEach { view in
             view.removeFromSuperview()
         }
+        addSubview(backgroundImageView)
         addSubview(buttonStack)
         emailTextFieldContainer.addSubview(emailTextField)
         passwordTextFieldContainer.addSubview(passwordTextField)
@@ -128,9 +136,13 @@ final class CustomLoginView: MSIMobileLoginPromptView {
             passwordTextField.topAnchor.constraint(equalTo: passwordTextFieldContainer.topAnchor, constant: 20),
             passwordTextField.bottomAnchor.constraint(equalTo: passwordTextFieldContainer.bottomAnchor, constant: -20),
             passwordTextField.leadingAnchor.constraint(equalTo: passwordTextFieldContainer.leadingAnchor, constant: 24),
-            passwordTextField.trailingAnchor.constraint(equalTo: passwordTextFieldContainer.trailingAnchor, constant: -24)
+            passwordTextField.trailingAnchor.constraint(equalTo: passwordTextFieldContainer.trailingAnchor, constant: -24),
+            backgroundImageView.topAnchor.constraint(equalTo: topAnchor, constant: 0),
+            backgroundImageView.bottomAnchor.constraint(equalTo: bottomAnchor, constant: 0),
+            backgroundImageView.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 0),
+            backgroundImageView.trailingAnchor.constraint(equalTo: trailingAnchor, constant: 0)
         ])
-        buttonStack.addArrangedSubview(imageView)
+        buttonStack.addArrangedSubview(logoImageView)
         buttonStack.addArrangedSubview(spacerView)
         buttonStack.addArrangedSubview(emailLabel)
         buttonStack.addArrangedSubview(emailTextFieldContainer)
@@ -140,9 +152,15 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         buttonStack.addArrangedSubview(loginButton)
         buttonStack.addArrangedSubview(resetPasswordButton)
         buttonStack.setCustomSpacing(8, after: emailLabel)
+        buttonStack.setCustomSpacing(24, after: emailTextFieldContainer)
         buttonStack.setCustomSpacing(8, after: passwordLabel)
+        buttonStack.setCustomSpacing(24, after: loginButton)
         loginButton.addTarget(self, action: #selector(loginTapped), for: .touchUpInside)
         resetPasswordButton.addTarget(self, action: #selector(resetTapped), for: .touchUpInside)
+        let emailContainerGesture = UITapGestureRecognizer(target: self, action: #selector(containerTapped(_:)))
+        let passwordContainerGesture = UITapGestureRecognizer(target: self, action: #selector(containerTapped(_:)))
+        emailTextFieldContainer.addGestureRecognizer(emailContainerGesture)
+        passwordTextFieldContainer.addGestureRecognizer(passwordContainerGesture)
         emailTextField.delegate = self
         passwordTextField.delegate = self
     }
@@ -157,6 +175,14 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         let password = passwordTextField.text ?? ""
         let parameters: [String: Any] = ["username": username, "password": password]
         delegate?.loginPromptView(self, didInputAuthenticationParameters: parameters)
+    }
+    
+    @objc private func containerTapped(_ sender: UITapGestureRecognizer) {
+        if sender.view === emailTextFieldContainer {
+            emailTextField.becomeFirstResponder()
+        } else if sender.view === passwordTextFieldContainer {
+            passwordTextField.becomeFirstResponder()
+        }
     }
     
     @objc private func resetTapped() {
