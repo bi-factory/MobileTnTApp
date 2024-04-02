@@ -12,6 +12,7 @@
 		6B483F372BBC51C00034B966 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B483F362BBC51C00034B966 /* CheckBox.swift */; };
 		6B483F392BBC592C0034B966 /* LocalPersistanceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B483F382BBC592C0034B966 /* LocalPersistanceManager.swift */; };
 		6B483F3C2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B483F3B2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift */; };
+		6B483F3E2BBC6C6F0034B966 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 6B483F3D2BBC6C6F0034B966 /* Localizable.xcstrings */; };
 		6BCAD4F92BBB48000048F475 /* CustomLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */; };
 		6BCAD4FB2BBB49E90048F475 /* CustomAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */; };
 		6BCAD4FD2BBB71890048F475 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FC2BBB71890048F475 /* Extensions.swift */; };
@@ -107,6 +108,7 @@
 		6B483F362BBC51C00034B966 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 		6B483F382BBC592C0034B966 /* LocalPersistanceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalPersistanceManager.swift; sourceTree = "<group>"; };
 		6B483F3B2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAuthenticationPromptViewController.swift; sourceTree = "<group>"; };
+		6B483F3D2BBC6C6F0034B966 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		6BCAD4F72BBB47FF0048F475 /* T&T Mobile-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "T&T Mobile-Bridging-Header.h"; sourceTree = "<group>"; };
 		6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoginView.swift; sourceTree = "<group>"; };
 		6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAppDelegate.swift; sourceTree = "<group>"; };
@@ -394,6 +396,7 @@
 				8ED487151CAA253400DF2648 /* Images.xcassets */,
 				8ED487171CAA253400DF2648 /* Settings.bundle */,
 				DEAD0E472AC4066C00E80BA9 /* Media.xcassets */,
+				6B483F3D2BBC6C6F0034B966 /* Localizable.xcstrings */,
 			);
 			name = Resource;
 			sourceTree = "<group>";
@@ -498,6 +501,7 @@
 				FA27E39A2BA200EF00831FDA /* Poppins-Regular.ttf in Resources */,
 				DEAD0E482AC4066C00E80BA9 /* Media.xcassets in Resources */,
 				8ED487241CAA25CB00DF2648 /* splash_icon_white.png in Resources */,
+				6B483F3E2BBC6C6F0034B966 /* Localizable.xcstrings in Resources */,
 				FA27E39D2BA2011200831FDA /* Poppins-Bold.ttf in Resources */,
 				8ED487701CAAE01000DF2648 /* Images.xcassets in Resources */,
 				19B931471CF6E48300AF779C /* Preferences.xml in Resources */,

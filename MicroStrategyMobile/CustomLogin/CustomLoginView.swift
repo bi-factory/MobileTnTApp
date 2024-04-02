@@ -17,8 +17,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         return imageView
     }()
     
-    private let buttonStack = {
-       let stackView = UIStackView()
+    private let verticalStack = {
+        let stackView = UIStackView()
         stackView.axis = .vertical
         stackView.spacing = 0
         stackView.alignment = .fill
@@ -46,8 +46,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }()
     
     private let emailLabel = {
-       let label = UILabel()
-        label.text = "EMAIL"
+        let label = UILabel()
+        label.text = String(localized: "LOGIN_EMAIL_LABEL")
         label.font = UIFont(name: "Poppins-Bold", size: 12)
         label.textColor = .white
         return label
@@ -91,8 +91,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }()
     
     private let passwordLabel = {
-       let label = UILabel()
-        label.text = "CONTRASEÑA"
+        let label = UILabel()
+        label.text = String(localized: "LOGIN_PASSWORD_LABEL")
         label.font = UIFont(name: "Poppins-Bold", size: 12)
         label.textColor = .white
         return label
@@ -115,8 +115,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }()
     
     private let rememberUserLabel = {
-       let label = UILabel()
-        label.text = "Recordar mis datos"
+        let label = UILabel()
+        label.text = String(localized: "LOGIN_REMEMBER_LABEL")
         label.font = UIFont(name: "Poppins-Regular", size: 14)
         label.textColor = .white
         return label
@@ -129,8 +129,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }()
     
     private let loginButton = {
-       let button = UIButton()
-        button.setTitle("Ingresar", for: .normal)
+        let button = UIButton()
+        button.setTitle(String(localized: "LOGIN_SIGNIN_LABEL"), for: .normal)
         button.titleLabel?.font = UIFont(name: "Poppins-Bold", size: 18)
         button.setTitleColor(.mainBlue, for: .normal)
         button.backgroundColor = UIColor.white
@@ -139,8 +139,8 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     }()
     
     private let resetPasswordButton = {
-       let button = UIButton()
-        button.setTitle("Olvidé mi contraseña", for: .normal)
+        let button = UIButton()
+        button.setTitle(String(localized: "LOGIN_FORGOT_LABEL"), for: .normal)
         button.titleLabel?.font = UIFont(name: "Poppins-Regular", size: 18)
         button.setTitleColor(.white, for: .normal)
         button.backgroundColor = UIColor.clear
@@ -153,14 +153,14 @@ final class CustomLoginView: MSIMobileLoginPromptView {
             view.removeFromSuperview()
         }
         addSubview(backgroundImageView)
-        addSubview(buttonStack)
+        addSubview(verticalStack)
         emailTextFieldContainer.addSubview(emailTextField)
         passwordTextFieldContainer.addSubview(passwordTextField)
         NSLayoutConstraint.activate([
-            buttonStack.topAnchor.constraint(equalTo: safeAreaLayoutGuide.topAnchor, constant: 88*deviceFactor),
-            buttonStack.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 58*deviceFactor),
-            buttonStack.trailingAnchor.constraint(equalTo: trailingAnchor, constant: -58*deviceFactor),
-            buttonStack.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -65*deviceFactor),
+            verticalStack.topAnchor.constraint(equalTo: safeAreaLayoutGuide.topAnchor, constant: 88*deviceFactor),
+            verticalStack.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 58*deviceFactor),
+            verticalStack.trailingAnchor.constraint(equalTo: trailingAnchor, constant: -58*deviceFactor),
+            verticalStack.bottomAnchor.constraint(equalTo: bottomAnchor, constant: -65*deviceFactor),
             emailTextField.topAnchor.constraint(equalTo: emailTextFieldContainer.topAnchor, constant: 20*deviceFactor),
             emailTextField.bottomAnchor.constraint(equalTo: emailTextFieldContainer.bottomAnchor, constant: -20*deviceFactor),
             emailTextField.leadingAnchor.constraint(equalTo: emailTextFieldContainer.leadingAnchor, constant: 24*deviceFactor),
@@ -177,24 +177,24 @@ final class CustomLoginView: MSIMobileLoginPromptView {
             loginButton.heightAnchor.constraint(equalToConstant: 56*deviceFactor),
             resetPasswordButton.heightAnchor.constraint(equalToConstant: 32*deviceFactor)
         ])
-        buttonStack.addArrangedSubview(logoImageView)
-        buttonStack.addArrangedSubview(spacerView)
-        buttonStack.addArrangedSubview(emailLabel)
-        buttonStack.addArrangedSubview(emailTextFieldContainer)
-        buttonStack.addArrangedSubview(passwordLabel)
-        buttonStack.addArrangedSubview(passwordTextFieldContainer)
-        buttonStack.addArrangedSubview(horizontalStack)
-        buttonStack.addArrangedSubview(secondSpacerView)
-        buttonStack.addArrangedSubview(loginButton)
-        buttonStack.addArrangedSubview(resetPasswordButton)
+        verticalStack.addArrangedSubview(logoImageView)
+        verticalStack.addArrangedSubview(spacerView)
+        verticalStack.addArrangedSubview(emailLabel)
+        verticalStack.addArrangedSubview(emailTextFieldContainer)
+        verticalStack.addArrangedSubview(passwordLabel)
+        verticalStack.addArrangedSubview(passwordTextFieldContainer)
+        verticalStack.addArrangedSubview(horizontalStack)
+        verticalStack.addArrangedSubview(secondSpacerView)
+        verticalStack.addArrangedSubview(loginButton)
+        verticalStack.addArrangedSubview(resetPasswordButton)
         horizontalStack.addArrangedSubview(checkBox)
         horizontalStack.addArrangedSubview(rememberUserLabel)
         horizontalStack.addArrangedSubview(thirdSpacerView)
-        buttonStack.setCustomSpacing(8, after: emailLabel)
-        buttonStack.setCustomSpacing(24, after: emailTextFieldContainer)
-        buttonStack.setCustomSpacing(8, after: passwordLabel)
-        buttonStack.setCustomSpacing(24, after: passwordTextFieldContainer)
-        buttonStack.setCustomSpacing(24, after: loginButton)
+        verticalStack.setCustomSpacing(8, after: emailLabel)
+        verticalStack.setCustomSpacing(24, after: emailTextFieldContainer)
+        verticalStack.setCustomSpacing(8, after: passwordLabel)
+        verticalStack.setCustomSpacing(24, after: passwordTextFieldContainer)
+        verticalStack.setCustomSpacing(24, after: loginButton)
         loginButton.addTarget(self, action: #selector(loginTapped), for: .touchUpInside)
         resetPasswordButton.addTarget(self, action: #selector(resetTapped), for: .touchUpInside)
         let emailContainerGesture = UITapGestureRecognizer(target: self, action: #selector(containerTapped(_:)))
