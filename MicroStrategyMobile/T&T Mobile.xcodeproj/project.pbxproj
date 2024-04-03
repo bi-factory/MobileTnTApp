@@ -9,6 +9,14 @@
 /* Begin PBXBuildFile section */
 		19B931471CF6E48300AF779C /* Preferences.xml in Resources */ = {isa = PBXBuildFile; fileRef = 8ED487641CAADE1E00DF2648 /* Preferences.xml */; };
 		323F93631E2772E6001D6904 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 323F93581E2772D5001D6904 /* UserNotifications.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		6B483F372BBC51C00034B966 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B483F362BBC51C00034B966 /* CheckBox.swift */; };
+		6B483F392BBC592C0034B966 /* LocalPersistanceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B483F382BBC592C0034B966 /* LocalPersistanceManager.swift */; };
+		6B483F3C2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B483F3B2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift */; };
+		6B483F3E2BBC6C6F0034B966 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 6B483F3D2BBC6C6F0034B966 /* Localizable.xcstrings */; };
+		6BCAD4F92BBB48000048F475 /* CustomLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */; };
+		6BCAD4FB2BBB49E90048F475 /* CustomAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */; };
+		6BCAD4FD2BBB71890048F475 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FC2BBB71890048F475 /* Extensions.swift */; };
+		6BCAD4FF2BBB71F30048F475 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCAD4FE2BBB71F30048F475 /* Colors.swift */; };
 		7292201E1D86CD2200C58C97 /* FinalBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7292201B1D86CD2200C58C97 /* FinalBundle.bundle */; };
 		729220201D86CD2200C58C97 /* MicroStrategyMobileSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7292201D1D86CD2200C58C97 /* MicroStrategyMobileSDKResources.bundle */; };
 		729220441D86D01D00C58C97 /* IconFont in Resources */ = {isa = PBXBuildFile; fileRef = 729220431D86D01D00C58C97 /* IconFont */; };
@@ -97,6 +105,15 @@
 		323F93581E2772D5001D6904 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		331515652A691AB100939B86 /* Vision.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Vision.framework; path = System/Library/Frameworks/Vision.framework; sourceTree = SDKROOT; };
 		4FC96A0525A2B8030015CA7C /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = System/Library/Frameworks/CoreServices.framework; sourceTree = SDKROOT; };
+		6B483F362BBC51C00034B966 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
+		6B483F382BBC592C0034B966 /* LocalPersistanceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalPersistanceManager.swift; sourceTree = "<group>"; };
+		6B483F3B2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAuthenticationPromptViewController.swift; sourceTree = "<group>"; };
+		6B483F3D2BBC6C6F0034B966 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		6BCAD4F72BBB47FF0048F475 /* T&T Mobile-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "T&T Mobile-Bridging-Header.h"; sourceTree = "<group>"; };
+		6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoginView.swift; sourceTree = "<group>"; };
+		6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAppDelegate.swift; sourceTree = "<group>"; };
+		6BCAD4FC2BBB71890048F475 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		6BCAD4FE2BBB71F30048F475 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		7292201B1D86CD2200C58C97 /* FinalBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = FinalBundle.bundle; path = Resources/FinalBundle.bundle; sourceTree = "<group>"; };
 		7292201D1D86CD2200C58C97 /* MicroStrategyMobileSDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = MicroStrategyMobileSDKResources.bundle; path = Resources/MicroStrategyMobileSDKResources.bundle; sourceTree = "<group>"; };
 		729220431D86D01D00C58C97 /* IconFont */ = {isa = PBXFileReference; lastKnownFileType = folder; name = IconFont; path = Resources/IconFont; sourceTree = "<group>"; };
@@ -186,6 +203,34 @@
 				0B9DCAD81D2A4A2400F4DF57 /* FinalBundle.bundle */,
 			);
 			path = Custom;
+			sourceTree = "<group>";
+		};
+		6B483F342BBC519C0034B966 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				6B483F382BBC592C0034B966 /* LocalPersistanceManager.swift */,
+				6BCAD4FC2BBB71890048F475 /* Extensions.swift */,
+				6BCAD4FE2BBB71F30048F475 /* Colors.swift */,
+				6B483F352BBC51A70034B966 /* CustomViews */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		6B483F352BBC51A70034B966 /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				6B483F362BBC51C00034B966 /* CheckBox.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		6B483F3A2BBC63E90034B966 /* CustomLogin */ = {
+			isa = PBXGroup;
+			children = (
+				6BCAD4F82BBB48000048F475 /* CustomLoginView.swift */,
+				6B483F3B2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift */,
+			);
+			path = CustomLogin;
 			sourceTree = "<group>";
 		};
 		8E570E171B90F0CC00D65413 /* Frameworks */ = {
@@ -291,6 +336,9 @@
 		8EA8B1B31B90EEA10063204B = {
 			isa = PBXGroup;
 			children = (
+				6B483F3A2BBC63E90034B966 /* CustomLogin */,
+				6B483F342BBC519C0034B966 /* Helpers */,
+				6BCAD4FA2BBB49E90048F475 /* CustomAppDelegate.swift */,
 				0B9DCACC1D2A4A0000F4DF57 /* Custom */,
 				8E8C94121BCD119D00D8D99A /* MicroStrategyMobile */,
 				8ED4875C1CAAD70100DF2648 /* MainWindow-iPad.xib */,
@@ -299,6 +347,7 @@
 				8ED487081CAA252500DF2648 /* Resource */,
 				8E570E171B90F0CC00D65413 /* Frameworks */,
 				8EA8B1BD1B90EEA10063204B /* Products */,
+				6BCAD4F72BBB47FF0048F475 /* T&T Mobile-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -347,6 +396,7 @@
 				8ED487151CAA253400DF2648 /* Images.xcassets */,
 				8ED487171CAA253400DF2648 /* Settings.bundle */,
 				DEAD0E472AC4066C00E80BA9 /* Media.xcassets */,
+				6B483F3D2BBC6C6F0034B966 /* Localizable.xcstrings */,
 			);
 			name = Resource;
 			sourceTree = "<group>";
@@ -399,6 +449,7 @@
 					8E8C94101BCD119D00D8D99A = {
 						CreatedOnToolsVersion = 7.1;
 						DevelopmentTeam = 4S9ASJUQLQ;
+						LastSwiftMigration = 1500;
 						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.Push = {
@@ -450,6 +501,7 @@
 				FA27E39A2BA200EF00831FDA /* Poppins-Regular.ttf in Resources */,
 				DEAD0E482AC4066C00E80BA9 /* Media.xcassets in Resources */,
 				8ED487241CAA25CB00DF2648 /* splash_icon_white.png in Resources */,
+				6B483F3E2BBC6C6F0034B966 /* Localizable.xcstrings in Resources */,
 				FA27E39D2BA2011200831FDA /* Poppins-Bold.ttf in Resources */,
 				8ED487701CAAE01000DF2648 /* Images.xcassets in Resources */,
 				19B931471CF6E48300AF779C /* Preferences.xml in Resources */,
@@ -509,6 +561,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				8ED487551CAAC00400DF2648 /* main.m in Sources */,
+				6BCAD4FF2BBB71F30048F475 /* Colors.swift in Sources */,
+				6B483F372BBC51C00034B966 /* CheckBox.swift in Sources */,
+				6B483F392BBC592C0034B966 /* LocalPersistanceManager.swift in Sources */,
+				6BCAD4FB2BBB49E90048F475 /* CustomAppDelegate.swift in Sources */,
+				6B483F3C2BBC64030034B966 /* CustomAuthenticationPromptViewController.swift in Sources */,
+				6BCAD4F92BBB48000048F475 /* CustomLoginView.swift in Sources */,
+				6BCAD4FD2BBB71890048F475 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -650,6 +709,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = iPhoneAppIcon;
 				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/iPhone/Entitlements.plist";
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
@@ -684,6 +744,8 @@
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "T&T Mobile";
 				STRIP_INSTALLED_PRODUCT = YES;
 				STRIP_STYLE = all;
+				SWIFT_OBJC_BRIDGING_HEADER = "T&T Mobile-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Distribution;
@@ -693,6 +755,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = iPhoneAppIcon;
 				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/iPhone/Entitlements.plist";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
@@ -723,6 +786,9 @@
 				PROVISIONING_PROFILE = "7f6078a9-3627-4622-8577-2a52cb6b7dfa";
 				PROVISIONING_PROFILE_SPECIFIER = MicroStrategyIPhone;
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "T&T Mobile";
+				SWIFT_OBJC_BRIDGING_HEADER = "T&T Mobile-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_WORKSPACE = NO;
 			};
@@ -733,6 +799,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = iPhoneAppIcon;
 				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/iPhone/Entitlements.plist";
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
@@ -767,6 +834,8 @@
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "T&T Mobile";
 				STRIP_INSTALLED_PRODUCT = YES;
 				STRIP_STYLE = all;
+				SWIFT_OBJC_BRIDGING_HEADER = "T&T Mobile-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
