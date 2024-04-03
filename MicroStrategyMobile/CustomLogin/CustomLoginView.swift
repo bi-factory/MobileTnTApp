@@ -6,7 +6,7 @@ import MicroStrategyMobileSDK
 final class CustomLoginView: MSIMobileLoginPromptView {
     
     private var deviceFactor: Double {
-        UIScreen.main.bounds.height <= 736 ? 0.85 : 1
+        UIScreen.main.bounds.height <= 844 ? 0.8 : 1
     }
     
     private let backgroundImageView = {
@@ -30,13 +30,6 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         let imageView = UIImageView(image: UIImage(named: "splash_icon_white@3x.png"))
         imageView.contentMode = .scaleAspectFit
         return imageView
-    }()
-    
-    private let spacerView: UIView = {
-        let view = UIView()
-        view.backgroundColor = .clear
-        view.heightAnchor.constraint(equalToConstant: 56).isActive = true
-        return view
     }()
     
     private let secondSpacerView: UIView = {
@@ -141,7 +134,7 @@ final class CustomLoginView: MSIMobileLoginPromptView {
     private let resetPasswordButton = {
         let button = UIButton()
         button.setTitle(String(localized: "LOGIN_FORGOT_LABEL"), for: .normal)
-        button.titleLabel?.font = UIFont(name: "Poppins-Regular", size: 18)
+        button.titleLabel?.font = UIFont(name: "Poppins-Regular", size: 14)
         button.setTitleColor(.white, for: .normal)
         button.backgroundColor = UIColor.clear
         return button
@@ -178,7 +171,6 @@ final class CustomLoginView: MSIMobileLoginPromptView {
             resetPasswordButton.heightAnchor.constraint(equalToConstant: 32*deviceFactor)
         ])
         verticalStack.addArrangedSubview(logoImageView)
-        verticalStack.addArrangedSubview(spacerView)
         verticalStack.addArrangedSubview(emailLabel)
         verticalStack.addArrangedSubview(emailTextFieldContainer)
         verticalStack.addArrangedSubview(passwordLabel)
@@ -190,11 +182,12 @@ final class CustomLoginView: MSIMobileLoginPromptView {
         horizontalStack.addArrangedSubview(checkBox)
         horizontalStack.addArrangedSubview(rememberUserLabel)
         horizontalStack.addArrangedSubview(thirdSpacerView)
-        verticalStack.setCustomSpacing(8, after: emailLabel)
-        verticalStack.setCustomSpacing(24, after: emailTextFieldContainer)
-        verticalStack.setCustomSpacing(8, after: passwordLabel)
-        verticalStack.setCustomSpacing(24, after: passwordTextFieldContainer)
-        verticalStack.setCustomSpacing(24, after: loginButton)
+        verticalStack.setCustomSpacing(112*deviceFactor, after: logoImageView)
+        verticalStack.setCustomSpacing(8*deviceFactor, after: emailLabel)
+        verticalStack.setCustomSpacing(24*deviceFactor, after: emailTextFieldContainer)
+        verticalStack.setCustomSpacing(8*deviceFactor, after: passwordLabel)
+        verticalStack.setCustomSpacing(24*deviceFactor, after: passwordTextFieldContainer)
+        verticalStack.setCustomSpacing(40*deviceFactor, after: loginButton)
         loginButton.addTarget(self, action: #selector(loginTapped), for: .touchUpInside)
         resetPasswordButton.addTarget(self, action: #selector(resetTapped), for: .touchUpInside)
         let emailContainerGesture = UITapGestureRecognizer(target: self, action: #selector(containerTapped(_:)))
